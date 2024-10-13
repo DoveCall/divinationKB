@@ -1,0 +1,32 @@
+{
+  "water_scrying": [
+    {
+      "vision": "Ripples",
+      "meaning": {
+        "positive": "Energy, impact, and influence. Ripples suggest that your actions are creating waves and having far-reaching effects.",
+        "negative": "Disruption or uncertainty. You may be facing unexpected changes or instability in your life."
+      }
+    },
+    {
+      "vision": "Calm Water",
+      "meaning": {
+        "positive": "Peace, tranquility, and clarity. Calm water indicates a time of inner peace and a clear vision of your path ahead.",
+        "negative": "Stagnation or lack of movement. You may feel stuck or resistant to change, needing to stir up new energy."
+      }
+    },
+    {
+      "vision": "Stormy Water",
+      "meaning": {
+        "positive": "Transformation, power, and release. Stormy water symbolizes the purging of old energies and the power to create change.",
+        "negative": "Emotional turmoil or overwhelm. You may be struggling with intense emotions or facing a difficult situation."
+      }
+    },
+    {
+      "vision": "Reflections",
+      "meaning": {
+        "positive": "Self-awareness, introspection, and truth. Reflections in water indicate that you are gaining clarity about your inner self.",
+        "negative": "Deception or avoidance. You may be hiding from the truth or unwilling to confront important issues."
+      }
+    }
+  ]
+}

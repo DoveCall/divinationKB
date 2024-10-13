@@ -1,0 +1,53 @@
+{
+  "dream_interpretation": {
+    "description": "Dream interpretation involves analyzing dreams to uncover hidden meanings and insights about one's subconscious mind and life situations. Common symbols in dreams are believed to carry universal meanings.",
+    "symbols": {
+      "falling": {
+        "meaning": "Dreams of falling indicate feelings of loss of control or anxiety. They often reflect fears of failure or insecurity in waking life.",
+        "advice": "Consider what areas of your life you feel unstable or worried about. Ground yourself and regain control."
+      },
+      "flying": {
+        "meaning": "Flying dreams symbolize a desire for freedom, escape, or elevation beyond everyday problems. It can represent aspirations or overcoming obstacles.",
+        "advice": "Embrace your sense of freedom but remember to stay grounded. Focus on your goals and lift yourself from life's constraints."
+      },
+      "teeth_falling_out": {
+        "meaning": "Dreams of losing teeth often reflect anxiety over personal appearance or fear of embarrassment. They may also indicate loss or fear of aging.",
+        "advice": "Focus on building self-confidence and accepting change. Take care of your physical and emotional well-being."
+      },
+      "being_chased": {
+        "meaning": "Dreams of being chased often represent avoidance of issues or situations in waking life. It reflects a feeling of being threatened or under pressure.",
+        "advice": "Identify what you're running from in your life. Face these challenges directly rather than avoiding them."
+      },
+      "water": {
+        "meaning": "Water in dreams often symbolizes emotions, unconscious desires, or spiritual cleansing. The state of the water (calm, turbulent, clear, or muddy) indicates the state of your emotions.",
+        "advice": "Pay attention to your emotional well-being. If the water is calm, embrace tranquility; if turbulent, focus on resolving emotional turmoil."
+      },
+      "death": {
+        "meaning": "Dreaming of death rarely means literal death but represents transformation, change, or the end of a cycle. It can symbolize letting go of old habits or fears.",
+        "advice": "Embrace the changes happening in your life. Use this as an opportunity for personal growth and renewal."
+      },
+      "naked_in_public": {
+        "meaning": "Being naked in public symbolizes vulnerability, fear of exposure, or shame. It reflects feelings of inadequacy or fear of being judged.",
+        "advice": "Focus on building self-esteem and embracing authenticity. Let go of the fear of judgment."
+      }
+    },
+    "interpretation_methods": {
+      "universal_symbols": {
+        "description": "Dream symbols that carry common, universal meanings across cultures.",
+        "example": "For example, water typically represents emotions or subconscious thoughts."
+      },
+      "personal_symbols": {
+        "description": "Dream symbols that have a personal meaning based on individual experiences and feelings.",
+        "example": "A personal dream symbol could be a specific object from your childhood that has a special meaning."
+      },
+      "emotional_analysis": {
+        "description": "Interpreting dreams based on the emotions felt during the dream.",
+        "example": "If you feel anxious during a dream, it may be related to a waking life situation that is causing stress."
+      },
+      "lucid_dreaming": {
+        "description": "The practice of becoming aware that you're dreaming while in the dream and influencing its outcome.",
+        "example": "If you realize you're dreaming, you might choose to confront something that was chasing you in the dream."
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "BhagavadGita": {
+    "bibliomancy": {
+      "intro": "Bhagavad Gita bibliomancy is a divination method where you open a page or verse randomly and interpret the message from the selected verse to answer your question.",
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Arjuna’s Dilemma",
+          "verses": [
+            {
+              "verse_number": 1,
+              "text": "Dhritarashtra said: O Sanjaya, assembled in the holy land of Kurukshetra and eager to fight, what did my sons and the sons of Pandu do?",
+              "interpretation": "This verse signals the start of a great journey and internal conflict. It advises careful consideration before any major decisions."
+            },
+            {
+              "verse_number": 2,
+              "text": "Sanjaya said: O King, after observing the Pandava army arrayed in military formation, King Duryodhana approached his teacher and spoke the following words.",
+              "interpretation": "It suggests the need for strategic planning and consultation before proceeding in any important matters."
+            }
+            // Add more verses as needed
+          ]
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Transcendental Knowledge",
+          "verses": [
+            {
+              "verse_number": 1,
+              "text": "Sanjaya said: Seeing Arjuna full of compassion and very sorrowful, his eyes brimming with tears, Madhusudana, Krishna, spoke the following words.",
+              "interpretation": "This verse is about emotions and offers guidance for understanding emotional struggles and finding clarity."
+            },
+            {
+              "verse_number": 2,
+              "text": "The Supreme Lord said: My dear Arjuna, how have these impurities come upon you? They are not at all befitting a man who knows the progressive values of life.",
+              "interpretation": "This is a call to self-reflection, pushing the querent to remove mental and emotional barriers preventing personal growth."
+            }
+            // Add more verses from Chapter 2
+          ]
+        }
+        // Continue adding chapters and verses up to 18 chapters
+      ]
+    }
+  }
+}

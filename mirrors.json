@@ -1,0 +1,32 @@
+{
+  "mirror_divination": [
+    {
+      "vision": "Clear Reflection",
+      "meaning": {
+        "positive": "Clarity, truth, and self-awareness. A clear reflection indicates that you are seeing the situation clearly and are in alignment with your true self.",
+        "negative": "Over-focus on appearances. You may be too concerned with how things appear on the surface, ignoring deeper truths."
+      }
+    },
+    {
+      "vision": "Distorted Reflection",
+      "meaning": {
+        "positive": "Change, transformation, and new perspectives. A distorted reflection can indicate that things are shifting, allowing for new ways of seeing.",
+        "negative": "Confusion, deception, or unclear perceptions. You may be misled by illusions or misunderstandings."
+      }
+    },
+    {
+      "vision": "No Reflection",
+      "meaning": {
+        "positive": "Mystery, the unknown, and spiritual exploration. The absence of a reflection can suggest that the answer is hidden or requires deeper spiritual investigation.",
+        "negative": "A loss of identity or disconnect from self. You may feel out of touch with who you are or unsure of your path."
+      }
+    },
+    {
+      "vision": "Shadows in the Reflection",
+      "meaning": {
+        "positive": "Hidden truths, protection, and guidance from unseen forces. Shadows may indicate that protective forces are working in your favor.",
+        "negative": "Fear, secrets, or unresolved issues. Shadows in the reflection can symbolize hidden fears or things that you are avoiding."
+      }
+    }
+  ]
+}

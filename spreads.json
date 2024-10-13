@@ -1,0 +1,37 @@
+{
+  "spreads": [
+    {
+      "spread_name": "Three Rune Spread",
+      "meaning": {
+        "position_1": "Past influences or challenges.",
+        "position_2": "Present situation or focus.",
+        "position_3": "Future outcome or guidance."
+      }
+    },
+    {
+      "spread_name": "Five Rune Spread",
+      "meaning": {
+        "position_1": "The foundation or root of the issue.",
+        "position_2": "The challenge or obstacle.",
+        "position_3": "The present situation.",
+        "position_4": "Advice or guidance.",
+        "position_5": "The potential outcome."
+      }
+    },
+    {
+      "spread_name": "Celtic Cross (Tarot)",
+      "meaning": {
+        "position_1": "Present situation or self.",
+        "position_2": "Challenges or obstacles.",
+        "position_3": "The root or foundation.",
+        "position_4": "Recent past influences.",
+        "position_5": "Possible future or potential outcome.",
+        "position_6": "Near future.",
+        "position_7": "How you see yourself.",
+        "position_8": "External influences or how others see you.",
+        "position_9": "Hopes and fears.",
+        "position_10": "Final outcome."
+      }
+    }
+  ]
+}

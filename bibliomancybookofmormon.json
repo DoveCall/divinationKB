@@ -1,0 +1,17 @@
+{
+  "method": "Book of Mormon Bibliomancy",
+  "books": {
+    "1_Nephi": {
+      "chapter_1": {
+        "verse_1": "I, Nephi, having been born of goodly parents..."
+      },
+      "chapter_2": {
+        "verse_1": "The Lord commanded my father to depart into the wilderness..."
+      }
+    }
+  },
+  "interpretation": {
+    "verse_1": "Reflects on spiritual heritage and righteousness.",
+    "verse_2": "Represents faith in divine direction and trust."
+  }
+}

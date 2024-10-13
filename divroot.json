@@ -1,0 +1,875 @@
+divroot.json
+{
+  "divination_methods": {
+    "tarot": {
+      "description": "A form of divination that uses a deck of 78 cards, including the Major and Minor Arcana, to provide insights and guidance.",
+      "categories": {
+        "Major Arcana": {
+          "cards": {
+            "The Fool": {
+              "upright_meaning": "New beginnings, adventure, spontaneity, innocence.",
+              "reversed_meaning": "Recklessness, foolishness, lack of direction."
+            },
+            "The Magician": {
+              "upright_meaning": "Manifestation, resourcefulness, power, inspired action.",
+              "reversed_meaning": "Manipulation, poor planning, untapped talents."
+            },
+            "The High Priestess": {
+              "upright_meaning": "Intuition, unconscious knowledge, mystery, serenity.",
+              "reversed_meaning": "Secrets, disconnected from intuition, withdrawal."
+            },
+            "The Empress": {
+              "upright_meaning": "Fertility, femininity, beauty, abundance.",
+              "reversed_meaning": "Creative block, dependence on others."
+            },
+            "The Emperor": {
+              "upright_meaning": "Authority, structure, control, fatherhood.",
+              "reversed_meaning": "Domination, excessive control, rigidity."
+            },
+            "The Hierophant": {
+              "upright_meaning": "Spiritual wisdom, tradition, conformity.",
+              "reversed_meaning": "Rebellion, personal beliefs, freedom."
+            },
+            "The Lovers": {
+              "upright_meaning": "Love, harmony, relationships, choices.",
+              "reversed_meaning": "Imbalance, misalignment of values."
+            },
+            "The Chariot": {
+              "upright_meaning": "Willpower, determination, success.",
+              "reversed_meaning": "Lack of control, aggression, obstacles."
+            },
+            "Strength": {
+              "upright_meaning": "Courage, inner strength, confidence, compassion.",
+              "reversed_meaning": "Self-doubt, weakness, insecurity."
+            },
+            "The Hermit": {
+              "upright_meaning": "Soul-searching, introspection, being alone, inner guidance.",
+              "reversed_meaning": "Isolation, withdrawal, loneliness."
+            },
+            "Wheel of Fortune": {
+              "upright_meaning": "Good luck, karma, life cycles, destiny, a turning point.",
+              "reversed_meaning": "Bad luck, resistance to change, breaking cycles."
+            },
+            "Justice": {
+              "upright_meaning": "Fairness, truth, law, cause and effect.",
+              "reversed_meaning": "Unfairness, lack of accountability, dishonesty."
+            },
+            "The Hanged Man": {
+              "upright_meaning": "Pause, surrender, letting go, new perspectives.",
+              "reversed_meaning": "Delays, resistance, stalling, indecision."
+            },
+            "Death": {
+              "upright_meaning": "Endings, transformation, transition.",
+              "reversed_meaning": "Resistance to change, personal transformation."
+            },
+            "Temperance": {
+              "upright_meaning": "Balance, moderation, patience, purpose.",
+              "reversed_meaning": "Imbalance, excess, lack of long-term vision."
+            },
+            "The Devil": {
+              "upright_meaning": "Addiction, materialism, playfulness, enslavement.",
+              "reversed_meaning": "Releasing limiting beliefs, detachment."
+            },
+            "The Tower": {
+              "upright_meaning": "Sudden upheaval, chaos, revelation, awakening.",
+              "reversed_meaning": "Fear of change, averting disaster."
+            },
+            "The Star": {
+              "upright_meaning": "Hope, inspiration, faith, renewal.",
+              "reversed_meaning": "Despair, disconnection, lack of faith."
+            },
+            "The Moon": {
+              "upright_meaning": "Illusion, fear, anxiety, subconscious, intuition.",
+              "reversed_meaning": "Release of fear, confusion, clarity."
+            },
+            "The Sun": {
+              "upright_meaning": "Positivity, fun, warmth, success, vitality.",
+              "reversed_meaning": "Inner child, overly optimistic, unrealistic."
+            },
+            "Judgement": {
+              "upright_meaning": "Judgement, rebirth, inner calling, absolution.",
+              "reversed_meaning": "Self-doubt, refusal of self-examination."
+            },
+            "The World": {
+              "upright_meaning": "Completion, accomplishment, travel, integration.",
+              "reversed_meaning": "Lack of completion, no closure, unfinished business."
+            }
+          }
+        },
+        "Minor Arcana": {
+          "suits": {
+            "Cups": {
+              "cards": {
+                "Ace of Cups": {
+                  "upright_meaning": "New feelings, emotional awakening, creativity.",
+                  "reversed_meaning": "Emotional loss, blocked creativity, emptiness."
+                },
+                "Two of Cups": {
+                  "upright_meaning": "Unity, love, partnership, mutual attraction.",
+                  "reversed_meaning": "Breakup, imbalance in relationship."
+                },
+                "Three of Cups": {
+                  "upright_meaning": "Celebration, friendship, collaboration, creativity.",
+                  "reversed_meaning": "Independence, alone time, stifled creativity."
+                },
+                "Four of Cups": {
+                  "upright_meaning": "Contemplation, apathy, reevaluation.",
+                  "reversed_meaning": "New opportunities, awareness, acceptance."
+                },
+                "Five of Cups": {
+                  "upright_meaning": "Loss, grief, disappointment.",
+                  "reversed_meaning": "Acceptance, moving on, finding peace."
+                },
+                "Six of Cups": {
+                  "upright_meaning": "Nostalgia, childhood memories, innocence.",
+                  "reversed_meaning": "Living in the past, unrealistic expectations."
+                },
+                "Seven of Cups": {
+                }
+              }
+            },
+            "Wands": {
+              "cards": {
+                "Ace of Wands": {
+                  "upright_meaning": "Inspiration, new opportunities, growth, potential.",
+                  "reversed_meaning": "Delays, lack of motivation, weighed down."
+                },
+                "Two of Wands": {
+                  "upright_meaning": "Future planning, progress, decisions, discovery.",
+                  "reversed_meaning": "Fear of unknown, lack of planning."
+                },
+                "Three of Wands": {
+                  "upright_meaning": "Progress, expansion, foresight, opportunity.",
+                  "reversed_meaning": "Obstacles, delays, frustration."
+                }
+              }
+            },
+            "Swords": {
+              "cards": {
+                "Ace of Swords": {
+                  "upright_meaning": "Breakthrough, clarity, sharp mind.",
+                  "reversed_meaning": "Confusion, miscommunication, clouded judgment."
+                },
+                "Two of Swords": {
+                  "upright_meaning": "Difficult choices, weighing options, stalemate.",
+                  "reversed_meaning": "Indecision, confusion, overload."
+                },
+                "Three of Swords": {
+                  "upright_meaning": "Heartbreak, emotional pain, grief, hurt.",
+                  "reversed_meaning": "Forgiveness, recovery, moving on."
+                }
+              }
+            },
+            "Pentacles": {
+              "cards": {
+                "Ace of Pentacles": {
+                  "upright_meaning": "New financial opportunity, manifestation, prosperity.",
+                  "reversed_meaning": "Lost opportunity, lack of planning, scarcity."
+                },
+                "Two of Pentacles": {
+                  "upright_meaning": "Balance, adaptability, time management.",
+                  "reversed_meaning": "Disorganization, financial instability."
+                },
+                "Three of Pentacles": {
+                  "upright_meaning": "Teamwork, collaboration, learning, implementation.",
+                  "reversed_meaning": "Lack of teamwork, disharmony, disorganization."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "lenormand": {
+      "description": "A deck of 36 cards used in divination. Each card offers direct, simple messages and is used in combination with others to give insight.",
+      "cards": [
+        {
+          "name": "The Rider",
+          "meaning": "News, communication, the arrival of something new",
+          "keywords": ["movement", "news", "travel"]
+        },
+        {
+          "name": "The Clover",
+          "meaning": "Luck, opportunity, lightheartedness",
+          "keywords": ["luck", "chance", "opportunity"]
+        },
+        {
+          "name": "The Ship",
+          "meaning": "Travel, movement, exploration",
+          "keywords": ["journey", "adventure", "discovery"]
+        },
+        {
+          "name": "The House",
+          "meaning": "Home, family, stability",
+          "keywords": ["comfort", "security", "shelter"]
+        },
+        {
+          "name": "The Tree",
+          "meaning": "Health, growth, family tree",
+          "keywords": ["life", "roots", "stability"]
+        },
+        {
+          "name": "The Clouds",
+          "meaning": "Confusion, uncertainty, doubt",
+          "keywords": ["ambiguity", "mystery", "clouded judgment"]
+        },
+        {
+          "name": "The Snake",
+          "meaning": "Deception, betrayal, temptation",
+          "keywords": ["cunning", "danger", "seduction"]
+        },
+        {
+          "name": "The Coffin",
+          "meaning": "Endings, loss, closure",
+          "keywords": ["grief", "transformation", "finality"]
+        },
+        {
+          "name": "The Bouquet",
+          "meaning": "Gifts, happiness, beauty",
+          "keywords": ["joy", "celebration", "gratitude"]
+        },
+        {
+          "name": "The Scythe",
+          "meaning": "Sudden change, cutting away",
+          "keywords": ["harvest", "decisions", "sharpness"]
+        },
+        {
+          "name": "The Whip",
+          "meaning": "Conflict, arguments, competition",
+          "keywords": ["strife", "tension", "repetition"]
+        },
+        {
+          "name": "The Birds",
+          "meaning": "Communication, socializing, gossip",
+          "keywords": ["talk", "chatter", "news"]
+        },
+        {
+          "name": "The Child",
+          "meaning": "New beginnings, innocence, playfulness",
+          "keywords": ["youth", "fresh start", "naivety"]
+        },
+        {
+          "name": "The Fox",
+          "meaning": "Cunning, deception, resourcefulness",
+          "keywords": ["slyness", "adaptability", "trickery"]
+        },
+        {
+          "name": "The Bear",
+          "meaning": "Strength, power, protection",
+          "keywords": ["authority", "control", "dominance"]
+        },
+        {
+          "name": "The Star",
+          "meaning": "Hope, inspiration, guidance",
+          "keywords": ["dreams", "aspiration", "clarity"]
+        },
+        {
+          "name": "The Stork",
+          "meaning": "Change, new beginnings, migration",
+          "keywords": ["transformation", "relocation", "family"]
+        },
+        {
+          "name": "The Dog",
+          "meaning": "Loyalty, friendship, trust",
+          "keywords": ["companionship", "support", "faithfulness"]
+        },
+        {
+          "name": "The Tower",
+          "meaning": "Authority, structure, isolation",
+          "keywords": ["control", "boundaries", "protection"]
+        },
+        {
+          "name": "The Garden",
+          "meaning": "Community, social events, gatherings",
+          "keywords": ["networking", "public", "interaction"]
+        },
+        {
+          "name": "The Mountain",
+          "meaning": "Obstacles, challenges, delays",
+          "keywords": ["barriers", "difficulties", "resistance"]
+        },
+        {
+          "name": "The Crossroad",
+          "meaning": "Choices, decisions, paths",
+          "keywords": ["options", "direction", "uncertainty"]
+        },
+        {
+          "name": "The Mice",
+          "meaning": "Loss, theft, anxiety",
+          "keywords": ["worry", "deterioration", "small problems"]
+        },
+        {
+          "name": "The Heart",
+          "meaning": "Love, emotions, relationships",
+          "keywords": ["affection", "passion", "connection"]
+        },
+        {
+          "name": "The Ring",
+          "meaning": "Commitment, partnership, contracts",
+          "keywords": ["union", "agreement", "loyalty"]
+        },
+        {
+          "name": "The Book",
+          "meaning": "Secrets, knowledge, learning",
+          "keywords": ["mystery", "education", "hidden truths"]
+        },
+        {
+          "name": "The Letter",
+          "meaning": "Messages, communication, news",
+          "keywords": ["correspondence", "documents", "information"]
+        },
+        {
+          "name": "The Man",
+          "meaning": "Masculine energy, authority figure",
+          "keywords": ["male", "partner", "influence"]
+        },
+        {
+          "name": "The Woman",
+          "meaning": "Feminine energy, nurturing figure",
+          "keywords": ["female", "partner", "support"]
+        },
+        {
+          "name": "The Lily",
+          "meaning": "Purity, maturity, wisdom",
+          "keywords": ["peace", "tranquility", "experience"]
+        },
+        {
+          "name": "The Sun",
+          "meaning": "Success, positivity, vitality",
+          "keywords": ["joy", "energy", "happiness"]
+        },
+        {
+          "name": "The Moon",
+          "meaning": "Intuition, dreams, emotions",
+          "keywords": ["mystery", "feminine", "subconscious"]
+        },
+        {
+          "name": "The Key",
+          "meaning": "Solutions, answers, unlocking potential",
+          "keywords": ["access", "discovery", "resolution"]
+        },
+        {
+          "name": "The Fish",
+          "meaning": "Wealth, abundance, prosperity",
+          "keywords": ["money", "resources", "flow"]
+        },
+        {
+          "name": "The Anchor",
+          "meaning": "Stability, security, grounding",
+          "keywords": ["safety", "support", "endurance"]
+        },
+        {
+          "name": "The Cross",
+          "meaning": "Burden, suffering, fate",
+          "keywords": ["sacrifice", "challenges", "spirituality"]
+        }
+      ]
+    },
+    "cartomancy": {
+      "description": "Using a standard deck of playing cards (52 cards), each suit and number holds different meanings.",
+      "cards": [
+        {
+          "name": "Ace of Clubs",
+          "meaning": "New ventures, success, wealth",
+          "keywords": ["wealth", "energy", "power"]
+        },
+        {
+          "name": "King of Hearts",
+          "meaning": "Generosity, compassion, emotional maturity",
+          "keywords": ["empathy", "love", "kindness"]
+        }
+        // Add the remaining Cartomancy cards here...
+      ]
+    },
+    "runes": {
+      "description": "An ancient system of symbols used for divination and magic, originating from Norse and Germanic cultures.",
+      "symbols": [
+        {
+          "name": "Fehu",
+          "meaning": "Wealth, prosperity, success",
+          "reversed_meaning": "Delay, setbacks",
+          "keywords": ["money", "success", "prosperity"]
+        },
+        {
+          "name": "Uruz",
+          "meaning": "Strength, courage, endurance",
+          "reversed_meaning": "Weakness, lack of willpower",
+          "keywords": ["strength", "health", "endurance"]
+        },
+        {
+          "name": "Thurisaz",
+          "meaning": "Protection, conflict, defense",
+          "reversed_meaning": "Aggression, danger",
+          "keywords": ["thorns", "giant", "challenge"]
+        },
+        {
+          "name": "Ansuz",
+          "meaning": "Communication, wisdom, divine inspiration",
+          "reversed_meaning": "Miscommunication, deception",
+          "keywords": ["message", "god", "insight"]
+        },
+        {
+          "name": "Raido",
+          "meaning": "Journey, movement, travel",
+          "reversed_meaning": "Stagnation, delays",
+          "keywords": ["ride", "progress", "path"]
+        },
+        {
+          "name": "Kenaz",
+          "meaning": "Creativity, illumination, knowledge",
+          "reversed_meaning": "Ignorance, lack of vision",
+          "keywords": ["torch", "light", "insight"]
+        },
+        {
+          "name": "Gebo",
+          "meaning": "Gift, partnership, balance",
+          "reversed_meaning": "Imbalance, selfishness",
+          "keywords": ["gift", "exchange", "union"]
+        },
+        {
+          "name": "Wunjo",
+          "meaning": "Joy, harmony, success",
+          "reversed_meaning": "Discontent, loss",
+          "keywords": ["bliss", "happiness", "celebration"]
+        },
+        {
+          "name": "Hagalaz",
+          "meaning": "Disruption, chaos, transformation",
+          "reversed_meaning": "Stagnation, resistance",
+          "keywords": ["hail", "storm", "change"]
+        },
+        {
+          "name": "Nauthiz",
+          "meaning": "Need, necessity, survival",
+          "reversed_meaning": "Excess, indulgence",
+          "keywords": ["need", "constraint", "desire"]
+        },
+        {
+          "name": "Isa",
+          "meaning": "Standstill, ice, delay",
+          "reversed_meaning": "Movement, thawing",
+          "keywords": ["ice", "pause", "blockage"]
+        },
+        {
+          "name": "Jera",
+          "meaning": "Harvest, cycles, rewards",
+          "reversed_meaning": "Delay, unfulfilled potential",
+          "keywords": ["year", "season", "growth"]
+        },
+        {
+          "name": "Eiwaz",
+          "meaning": "Transformation, resilience, protection",
+          "reversed_meaning": "Weakness, vulnerability",
+          "keywords": ["yew", "death", "rebirth"]
+        },
+        {
+          "name": "Perthro",
+          "meaning": "Mystery, fate, chance",
+          "reversed_meaning": "Uncertainty, confusion",
+          "keywords": ["lot", "dice", "destiny"]
+        },
+        {
+          "name": "Algiz",
+          "meaning": "Protection, defense, connection",
+          "reversed_meaning": "Vulnerability, isolation",
+          "keywords": ["elk", "shield", "safety"]
+        },
+        {
+          "name": "Sowilo",
+          "meaning": "Success, vitality, energy",
+          "reversed_meaning": "Failure, loss of energy",
+          "keywords": ["sun", "light", "victory"]
+        },
+        {
+          "name": "Tiwaz",
+          "meaning": "Honor, justice, leadership",
+          "reversed_meaning": "Dishonor, injustice",
+          "keywords": ["warrior", "sacrifice", "truth"]
+        },
+        {
+          "name": "Berkano",
+          "meaning": "Fertility, growth, new beginnings",
+          "reversed_meaning": "Stagnation, lack of growth",
+          "keywords": ["birch", "rebirth", "nurturing"]
+        },
+        {
+          "name": "Ehwaz",
+          "meaning": "Movement, progress, partnership",
+          "reversed_meaning": "Stagnation, lack of progress",
+          "keywords": ["horse", "journey", "trust"]
+        },
+        {
+          "name": "Madr",
+          "meaning": "Joy, harmony, balance",
+          "reversed_meaning": "Discontent, imbalance",
+          "keywords": ["mother", "nurturing", "care"]
+        },
+        {
+          "name": "Laguz",
+          "meaning": "Flow, intuition, emotions",
+          "reversed_meaning": "Blockage, emotional turmoil",
+          "keywords": ["water", "flow", "dreams"]
+        },
+        {
+          "name": "Inguz",
+          "meaning": "Fertility, new beginnings, potential",
+          "reversed_meaning": "Unrealized potential, delay",
+          "keywords": ["seed", "growth", "completion"]
+        },
+        {
+          "name": "Dagaz",
+          "meaning": "Breakthrough, awakening, transformation",
+          "reversed_meaning": "Stagnation, lack of clarity",
+          "keywords": ["day", "light", "new beginnings"]
+        },
+        {
+          "name": "Othala",
+          "meaning": "Heritage, legacy, home",
+          "reversed_meaning": "Loss, disconnection",
+          "keywords": ["inheritance", "roots", "family"]
+        }
+      ]
+    },
+    "i_ching": {
+      "description": "An ancient Chinese divination system using hexagrams, representing 64 unique situations.",
+      "hexagrams": [
+        {
+          "name": "Hexagram 1: The Creative",
+          "meaning": "The powerful, creative force of the universe",
+          "keywords": ["creativity", "power", "action"]
+        },
+        {
+          "name": "Hexagram 2: The Receptive",
+          "meaning": "The receptive, passive force that nourishes creation",
+          "keywords": ["receptivity", "nurturing", "yielding"]
+        },
+        {
+          "name": "Hexagram 3: Difficulty at the Beginning",
+          "meaning": "Initial struggles, challenges in starting",
+          "keywords": ["beginnings", "struggle", "growth"]
+        },
+        {
+          "name": "Hexagram 4: Youthful Folly",
+          "meaning": "Inexperience, need for guidance",
+          "keywords": ["learning", "naivety", "advice"]
+        },
+        {
+          "name": "Hexagram 5: Waiting",
+          "meaning": "Patience, waiting for the right moment",
+          "keywords": ["patience", "timing", "trust"]
+        },
+        {
+          "name": "Hexagram 6: Conflict",
+          "meaning": "Struggles, disputes, conflict resolution",
+          "keywords": ["strife", "tension", "resolution"]
+        },
+        {
+          "name": "Hexagram 7: The Army",
+          "meaning": "Discipline, organization, leadership",
+          "keywords": ["structure", "authority", "strategy"]
+        },
+        {
+          "name": "Hexagram 8: Holding Together",
+          "meaning": "Unity, cooperation, community",
+          "keywords": ["togetherness", "support", "collaboration"]
+        },
+        {
+          "name": "Hexagram 9: The Taming Power of the Small",
+          "meaning": "Gentleness, small actions leading to success",
+          "keywords": ["small steps", "patience", "subtlety"]
+        },
+        {
+          "name": "Hexagram 10: Treading",
+          "meaning": "Caution, careful progress",
+          "keywords": ["carefulness", "awareness", "balance"]
+        },
+        {
+          "name": "Hexagram 11: Peace",
+          "meaning": "Harmony, balance, peace",
+          "keywords": ["calm", "stability", "contentment"]
+        },
+        {
+          "name": "Hexagram 12: Standstill",
+          "meaning": "Stagnation, lack of progress",
+          "keywords": ["pause", "waiting", "reflection"]
+        },
+        {
+          "name": "Hexagram 13: Fellowship with Men",
+          "meaning": "Community, friendship, collaboration",
+          "keywords": ["unity", "togetherness", "support"]
+        },
+        {
+          "name": "Hexagram 14: Possession in Great Measure",
+          "meaning": "Abundance, wealth, success",
+          "keywords": ["prosperity", "wealth", "achievement"]
+        },
+        {
+          "name": "Hexagram 15: Modesty",
+          "meaning": "Humility, modesty, simplicity",
+          "keywords": ["humility", "simplicity", "grace"]
+        },
+        {
+          "name": "Hexagram 16: Enthusiasm",
+          "meaning": "Joy, enthusiasm, inspiration",
+          "keywords": ["excitement", "energy", "passion"]
+        },
+        {
+          "name": "Hexagram 17: Following",
+          "meaning": "Adaptability, following the flow",
+          "keywords": ["adaptation", "flexibility", "trust"]
+        },
+        {
+          "name": "Hexagram 18: Work on What Has Been Spoiled",
+          "meaning": "Repair, restoration, healing",
+          "keywords": ["healing", "repair", "restoration"]
+        },
+        {
+          "name": "Hexagram 19: Approach",
+          "meaning": "Approaching, welcoming, invitation",
+          "keywords": ["welcome", "invitation", "openness"]
+        },
+        {
+          "name": "Hexagram 20: Contemplation",
+          "meaning": "Reflection, contemplation, insight",
+          "keywords": ["reflection", "insight", "understanding"]
+        },
+        {
+          "name": "Hexagram 21: Biting Through",
+          "meaning": "Resolving difficulties, cutting through",
+          "keywords": ["resolution", "clarity", "decisiveness"]
+        },
+        {
+          "name": "Hexagram 22: Grace",
+          "meaning": "Beauty, elegance, grace",
+          "keywords": ["beauty", "elegance", "style"]
+        },
+        {
+          "name": "Hexagram 23: Splitting Apart",
+          "meaning": "Separation, loss, division",
+          "keywords": ["loss", "separation", "division"]
+        },
+        {
+          "name": "Hexagram 24: Return",
+          "meaning": "Return, renewal, coming back",
+          "keywords": ["renewal", "return", "recovery"]
+        },
+        {
+          "name": "Hexagram 25: Innocence",
+          "meaning": "Purity, innocence, simplicity",
+          "keywords": ["purity", "innocence", "simplicity"]
+        },
+        {
+          "name": "Hexagram 26: The Taming Power of the Great",
+          "meaning": "Great power, control, restraint",
+          "keywords": ["control", "restraint", "power"]
+        },
+        {
+          "name": "Hexagram 27: Nourishment",
+          "meaning": "Nourishment, sustenance, care",
+          "keywords": ["nourishment", "care", "support"]
+        },
+        {
+          "name": "Hexagram 28: Preponderance of the Great",
+          "meaning": "Overwhelming, excess, burden",
+          "keywords": ["excess", "burden", "weight"]
+        },
+        {
+          "name": "Hexagram 29: The Abysmal",
+          "meaning": "Danger, risk, challenge",
+          "keywords": ["danger", "risk", "challenge"]
+        },
+        {
+          "name": "Hexagram 30: The Clinging",
+          "meaning": "Clarity, attachment, dependence",
+          "keywords": ["clarity", "attachment", "dependence"]
+        },
+        {
+          "name": "Hexagram 31: Influence",
+          "meaning": "Attraction, influence, connection",
+          "keywords": ["attraction", "influence", "connection"]
+        },
+        {
+          "name": "Hexagram 32: Duration",
+          "meaning": "Endurance, stability, longevity",
+          "keywords": ["endurance", "stability", "longevity"]
+        },
+        {
+          "name": "Hexagram 33: Retreat",
+          "meaning": "Withdrawal, retreat, caution",
+          "keywords": ["withdrawal", "caution", "reflection"]
+        },
+        {
+          "name": "Hexagram 34: The Power of the Great",
+          "meaning": "Strength, power, influence",
+          "keywords": ["strength", "power", "influence"]
+        },
+        {
+          "name": "Hexagram 35: Progress",
+          "meaning": "Advancement, progress, success",
+          "keywords": ["advancement", "success", "growth"]
+        },
+        {
+          "name": "Hexagram 36: Darkening of the Light",
+          "meaning": "Obscurity, concealment, danger",
+          "keywords": ["obscurity", "danger", "concealment"]
+        },
+        {
+          "name": "Hexagram 37: The Family",
+          "meaning": "Family, community, support",
+          "keywords": ["family", "community", "support"]
+        },
+        {
+          "name": "Hexagram 38: Opposition",
+          "meaning": "Conflict, opposition, differences",
+          "keywords": ["conflict", "opposition", "differences"]
+        },
+        {
+          "name": "Hexagram 39: Obstruction",
+          "meaning": "Obstruction, blockage, challenges",
+          "keywords": ["blockage", "obstruction", "challenges"]
+        },
+        {
+          "name": "Hexagram 40: Deliverance",
+          "meaning": "Release, liberation, freedom",
+          "keywords": ["release", "freedom", "liberation"]
+        },
+        {
+          "name": "Hexagram 41: Decrease",
+          "meaning": "Reduction, decrease, letting go",
+          "keywords": ["reduction", "letting go", "simplicity"]
+        },
+        {
+          "name": "Hexagram 42: Increase",
+          "meaning": "Growth, increase, abundance",
+          "keywords": ["growth", "abundance", "increase"]
+        },
+        {
+          "name": "Hexagram 43: Breakthrough",
+          "meaning": "Breakthrough, clarity, resolution",
+          "keywords": ["breakthrough", "clarity", "resolution"]
+        },
+        {
+          "name": "Hexagram 44: Coming to Meet",
+          "meaning": "Meeting, connection, attraction",
+          "keywords": ["meeting", "connection", "attraction"]
+        },
+        {
+          "name": "Hexagram 45: Gathering Together",
+          "meaning": "Community, gathering, unity",
+          "keywords": ["gathering", "community", "unity"]
+        },
+        {
+          "name": "Hexagram 46: Pushing Upward",
+          "meaning": "Progress, growth, advancement",
+          "keywords": ["progress", "growth", "advancement"]
+        },
+        {
+          "name": "Hexagram 47: Oppression",
+          "meaning": "Oppression, burden, constraint",
+          "keywords": ["oppression", "burden", "constraint"]
+        },
+        {
+          "name": "Hexagram 48: The Well",
+          "meaning": "Source, nourishment, depth",
+          "keywords": ["source", "nourishment", "depth"]
+        },
+        {
+          "name": "Hexagram 49: Revolution",
+          "meaning": "Change, revolution, transformation",
+          "keywords": ["change", "revolution", "transformation"]
+        },
+        {
+          "name": "Hexagram 50: The Cauldron",
+          "meaning": "Transformation, nourishment, creativity",
+          "keywords": ["transformation", "nourishment", "creativity"]
+        },
+        {
+          "name": "Hexagram 51: The Arousing",
+          "meaning": "Shock, excitement, awakening",
+          "keywords": ["shock", "excitement", "awakening"]
+        },
+        {
+          "name": "Hexagram 52: Keeping Still",
+          "meaning": "Stillness, contemplation, reflection",
+          "keywords": ["stillness", "contemplation", "reflection"]
+        },
+        {
+          "name": "Hexagram 53: Development",
+          "meaning": "Development, growth, progress",
+          "keywords": ["development", "growth", "progress"]
+        },
+        {
+          "name": "Hexagram 54: The Marrying Maiden",
+          "meaning": "Adaptability, compromise, relationships",
+          "keywords": ["adaptability", "compromise", "relationships"]
+        },
+        {
+          "name": "Hexagram 55: Abundance",
+          "meaning": "Abundance, prosperity, success",
+          "keywords": ["abundance", "prosperity", "success"]
+        },
+        {
+          "name": "Hexagram 56: The Wanderer",
+          "meaning": "Travel, exploration, adventure",
+          "keywords": ["travel", "exploration", "adventure"]
+        },
+        {
+          "name": "Hexagram 57: The Gentle",
+          "meaning": "Gentleness, subtlety, diplomacy",
+          "keywords": ["gentleness", "subtlety", "diplomacy"]
+        },
+        {
+          "name": "Hexagram 58: The Joyous",
+          "meaning": "Joy, happiness, positivity",
+          "keywords": ["joy", "happiness", "positivity"]
+        },
+        {
+          "name": "Hexagram 59: Dispersion",
+          "meaning": "Dispersion, release, letting go",
+          "keywords": ["dispersion", "release", "letting go"]
+        },
+        {
+          "name": "Hexagram 60: Limitation",
+          "meaning": "Limitation, boundaries, constraints",
+          "keywords": ["limitation", "boundaries", "constraints"]
+        },
+        {
+          "name": "Hexagram 61: Inner Truth",
+          "meaning": "Inner truth, sincerity, authenticity",
+          "keywords": ["truth", "sincerity", "authenticity"]
+        },
+        {
+          "name": "Hexagram 62: Preponderance of the Small",
+          "meaning": "Small actions, subtlety, attention to detail",
+          "keywords": ["small actions", "subtlety", "attention"]
+        },
+        {
+          "name": "Hexagram 63: After Completion",
+          "meaning": "Completion, fulfillment, closure",
+          "keywords": ["completion", "fulfillment", "closure"]
+        },
+        {
+          "name": "Hexagram 64: Before Completion",
+          "meaning": "Preparation, anticipation, potential",
+          "keywords": ["preparation", "anticipation", "potential"]
+        }
+      ]
+    },
+    "tasseography": {
+      "description": "Divination by reading tea leaves. Each symbol in the tea leaves has specific meanings.",
+      "symbols": [
+        {
+          "name": "Anchor",
+          "meaning": "Stability, hope, security",
+          "keywords": ["stability", "security", "groundedness"]
+        },
+        {
+          "name": "Bird",
+          "meaning": "News, travel, freedom",
+          "keywords": ["freedom", "news", "movement"]
+        }
+        // Add more symbols here...
+      ]
+    }
+  }
+}

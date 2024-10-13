@@ -1,0 +1,59 @@
+{
+  "crystal_ball_scrying": {
+    "description": "Crystal Ball Scrying, also known as crystal gazing, is a form of divination where one gazes into a reflective surface like a crystal ball to receive visions or symbolic images. These visions are then interpreted to gain insight into future events, hidden truths, or spiritual guidance.",
+    "steps": {
+      "preparation": {
+        "description": "Before starting, it's important to clear your mind and focus your intention. Choose a quiet space, dim lighting, and ensure you are comfortable. The crystal ball should be cleansed energetically before use.",
+        "advice": "Take several deep breaths to center yourself, and set a clear intention for your reading."
+      },
+      "gazing": {
+        "description": "Gaze softly into the crystal ball. Allow your vision to relax and let images or symbols appear naturally. The key is to not force the vision but to remain patient and receptive.",
+        "advice": "It may take practice to get clear images, so don't worry if nothing appears immediately. Stay calm and let your mind’s eye guide you."
+      },
+      "interpreting": {
+        "description": "Once the visions appear, note the symbols, colors, and movements. These elements can hold different meanings depending on the question asked or the intention set.",
+        "advice": "Use your intuition to interpret the images, but also refer to known symbol interpretations for additional guidance."
+      },
+      "closing": {
+        "description": "Once the reading is complete, take a moment to ground yourself and close the session. Thank the crystal for its guidance, and cleanse it to remove any residual energies.",
+        "advice": "Record your visions and their interpretations in a journal for future reference."
+      }
+    },
+    "common_symbols": {
+      "clouds": {
+        "meaning": "Cloudy images can represent confusion, uncertainty, or challenges ahead. The type of clouds can further refine the interpretation.",
+        "advice": "If the clouds are dark and stormy, be prepared for challenges, but if they are light and drifting, they may signal temporary confusion that will soon pass."
+      },
+      "animals": {
+        "meaning": "Seeing animals in the crystal can represent qualities or characteristics needed in your situation. For example, a lion might symbolize courage.",
+        "advice": "Consider the animal’s behavior and traits. They may be guiding you to adopt certain qualities or avoid specific actions."
+      },
+      "water": {
+        "meaning": "Water may represent emotions or subconscious thoughts. The state of the water (calm or turbulent) provides more context for the interpretation.",
+        "advice": "If the water is calm, you may find emotional stability ahead. If turbulent, emotional challenges could arise."
+      },
+      "doors": {
+        "meaning": "A door represents new opportunities, choices, or transitions. The state of the door (open, closed, locked) can indicate readiness or obstacles.",
+        "advice": "An open door indicates that new opportunities are available. A closed door may indicate that more effort is required to move forward."
+      }
+    },
+    "colors": {
+      "blue": {
+        "meaning": "Blue often symbolizes tranquility, wisdom, or spiritual insight. It can represent calm, clarity, or truth-seeking.",
+        "advice": "Blue visions indicate a need for peace or a focus on spiritual growth."
+      },
+      "red": {
+        "meaning": "Red can represent passion, energy, or anger. It is often linked to physical or emotional intensity.",
+        "advice": "Red may indicate a time of action, strong emotions, or the need to address underlying passions."
+      },
+      "gold": {
+        "meaning": "Gold often signifies wealth, success, or enlightenment. It can be associated with material gains or spiritual realizations.",
+        "advice": "Gold in a vision points to abundance or a breakthrough in understanding or achievement."
+      },
+      "black": {
+        "meaning": "Black can symbolize the unknown, mystery, or a void. It can also indicate endings or protection.",
+        "advice": "Black visions may point to things that are hidden or unknown, or a period of self-protection and introspection."
+      }
+    }
+  }
+}

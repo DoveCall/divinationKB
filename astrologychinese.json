@@ -1,0 +1,100 @@
+{
+  "chinese_astrology": [
+    {
+      "animal": "Rat",
+      "years": "1924, 1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
+      "traits": {
+        "positive": "Intelligent, adaptable, quick-witted, charming, artistic, sociable.",
+        "negative": "Cunning, manipulative, selfish, restless, opportunistic."
+      }
+    },
+    {
+      "animal": "Ox",
+      "years": "1925, 1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
+      "traits": {
+        "positive": "Strong, reliable, patient, determined, methodical, calm.",
+        "negative": "Stubborn, inflexible, overly cautious, materialistic, slow to change."
+      }
+    },
+    {
+      "animal": "Tiger",
+      "years": "1926, 1938, 1950, 1962, 1974, 1986, 1998, 2010, 2022",
+      "traits": {
+        "positive": "Brave, confident, competitive, unpredictable, ambitious, dynamic.",
+        "negative": "Impulsive, reckless, impatient, aggressive, moody."
+      }
+    },
+    {
+      "animal": "Rabbit",
+      "years": "1927, 1939, 1951, 1963, 1975, 1987, 1999, 2011, 2023",
+      "traits": {
+        "positive": "Gentle, quiet, elegant, alert, kind, responsible.",
+        "negative": "Indecisive, timid, overly cautious, superficial, shy."
+      }
+    },
+    {
+      "animal": "Dragon",
+      "years": "1928, 1940, 1952, 1964, 1976, 1988, 2000, 2012, 2024",
+      "traits": {
+        "positive": "Confident, charismatic, energetic, intelligent, ambitious, fearless.",
+        "negative": "Arrogant, domineering, demanding, egotistical, overconfident."
+      }
+    },
+    {
+      "animal": "Snake",
+      "years": "1929, 1941, 1953, 1965, 1977, 1989, 2001, 2013, 2025",
+      "traits": {
+        "positive": "Wise, mysterious, intuitive, graceful, analytical, charming.",
+        "negative": "Jealous, secretive, possessive, suspicious, materialistic."
+      }
+    },
+    {
+      "animal": "Horse",
+      "years": "1930, 1942, 1954, 1966, 1978, 1990, 2002, 2014, 2026",
+      "traits": {
+        "positive": "Energetic, active, independent, intelligent, adventurous, outgoing.",
+        "negative": "Impatient, hot-tempered, selfish, overly confident, restless."
+      }
+    },
+    {
+      "animal": "Goat",
+      "years": "1931, 1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
+      "traits": {
+        "positive": "Creative, compassionate, gentle, calm, artistic, sincere.",
+        "negative": "Indecisive, timid, pessimistic, passive, dependent."
+      }
+    },
+    {
+      "animal": "Monkey",
+      "years": "1932, 1944, 1956, 1968, 1980, 1992, 2004, 2016, 2028",
+      "traits": {
+        "positive": "Witty, intelligent, curious, playful, sociable, innovative.",
+        "negative": "Deceitful, manipulative, cunning, restless, unreliable."
+      }
+    },
+    {
+      "animal": "Rooster",
+      "years": "1933, 1945, 1957, 1969, 1981, 1993, 2005, 2017, 2029",
+      "traits": {
+        "positive": "Hardworking, confident, punctual, honest, ambitious, organized.",
+        "negative": "Critical, boastful, self-centered, impatient, abrasive."
+      }
+    },
+    {
+      "animal": "Dog",
+      "years": "1934, 1946, 1958, 1970, 1982, 1994, 2006, 2018, 2030",
+      "traits": {
+        "positive": "Loyal, honest, kind, cautious, responsible, protective.",
+        "negative": "Pessimistic, stubborn, anxious, overly critical, distant."
+      }
+    },
+    {
+      "animal": "Pig",
+      "years": "1935, 1947, 1959, 1971, 1983, 1995, 2007, 2019, 2031",
+      "traits": {
+        "positive": "Generous, compassionate, diligent, good-hearted, peaceful, trustworthy.",
+        "negative": "Naive, gullible, materialistic, lazy, overindulgent."
+      }
+    }
+  ]
+}

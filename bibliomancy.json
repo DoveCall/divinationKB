@@ -1,0 +1,105 @@
+{
+    "bibliomancy": {
+      "overview": {
+        "definition": "Bibliomancy is a form of divination that involves selecting a passage or text from a book, often a religious or spiritual text, to gain insight or answers to questions.",
+        "method": "The practice typically involves asking a question, opening a book randomly, and interpreting the first passage or sentence that catches the reader's eye.",
+        "common_books_used": [
+          "Bible",
+          "Qur'an",
+          "I Ching",
+          "Bhagavad Gita",
+          "Torah",
+          "Poetry collections"
+        ]
+      },
+      "steps": [
+        {
+          "step": 1,
+          "description": "Formulate your question with intention and clarity."
+        },
+        {
+          "step": 2,
+          "description": "Close your eyes and open a book randomly, letting your intuition guide you."
+        },
+        {
+          "step": 3,
+          "description": "Place your finger on the page and read the passage where it lands."
+        },
+        {
+          "step": 4,
+          "description": "Reflect on the passage and how it relates to your question."
+        }
+      ],
+      "interpretation_guidelines": {
+        "focus_on_the_following": [
+          "Theme of the passage",
+          "Emotional tone",
+          "Characters involved (if applicable)",
+          "Symbolism and metaphors"
+        ],
+        "example_interpretations": {
+          "example_1": {
+            "passage": "The Lord is my shepherd, I shall not want.",
+            "interpretation": "This could indicate that you are being guided and protected, and that you will find what you need, even if it’s not immediately clear."
+          },
+          "example_2": {
+            "passage": "To be or not to be, that is the question.",
+            "interpretation": "A time of decision-making or self-reflection is upon you, and you may need to deeply consider the consequences of your actions."
+          }
+        }
+      },
+      "historical_background": {
+        "origin": "Bibliomancy has ancient roots in various cultures and is often associated with religious or sacred texts. The practice was commonly used in Christian, Islamic, and other religious traditions to seek divine guidance.",
+        "famous_practitioners": [
+          "St. Augustine (used the Bible for guidance)",
+          "Ancient Greeks (used Homeric texts)"
+        ]
+      },
+      "related_practices": [
+        {
+          "name": "Sortilege",
+          "description": "A form of divination where lots or objects are cast to reveal answers."
+        },
+        {
+          "name": "I Ching",
+          "description": "A divination method using the ancient Chinese text for wisdom."
+        }
+      ],
+      "Bible": {
+        "passages": [
+          {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 1,
+            "text": "In the beginning God created the heaven and the earth.",
+            "context": "The opening verse of the Bible, describing the creation of the universe.",
+            "theme": "Creation",
+            "commentary": "This verse sets the stage for the entire biblical narrative, emphasizing the power and sovereignty of God.",
+            "translation": "King James Version",
+            "language": "English"
+          }
+          // Add more passages here
+        ]
+      },
+      "Qur'an": {
+        "passages": [
+          // Add passages here
+        ]
+      },
+      "I Ching": {
+        "passages": [
+          // Add passages here
+        ]
+      },
+      "Bhagavad Gita": {
+        "passages": [
+          // Add passages here
+        ]
+      },
+      "Torah": {
+        "passages": [
+          // Add passages here
+        ]
+      }
+    }
+  }

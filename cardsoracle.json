@@ -1,0 +1,78 @@
+{
+    "OracleCards": {
+      "cards": [
+        {
+          "cardName": "The Light",
+          "keywords": ["positivity", "illumination", "clarity"],
+          "meaning": {
+            "general": "A time of enlightenment and clarity. The Light represents the removal of shadows, bringing positivity and a new perspective into your life. It encourages you to focus on the positive aspects and see things clearly.",
+            "reversed": "When reversed, The Light warns of confusion, negativity, or lack of direction. You may be focusing too much on the negative or feel lost in darkness. It’s time to seek guidance and embrace clarity."
+          },
+          "advice": "Seek positivity and embrace clarity in your life. Focus on solutions rather than problems. Meditate or journal to gain insight."
+        },
+        {
+          "cardName": "The Shadow",
+          "keywords": ["self-reflection", "hidden fears", "inner work"],
+          "meaning": {
+            "general": "The Shadow calls for introspection and self-awareness. It’s a time to reflect on your inner fears and unconscious patterns. This card asks you to acknowledge the darker aspects of yourself in order to heal and grow.",
+            "reversed": "Avoidance or denial of deep-seated fears or issues may be holding you back. Reversed, The Shadow suggests that it’s time to stop running from what’s hidden and face it directly for healing."
+          },
+          "advice": "Engage in shadow work or therapy. Confront and embrace your fears, understanding that acknowledging them is the first step towards healing."
+        },
+        {
+          "cardName": "The Path",
+          "keywords": ["direction", "choices", "life journey"],
+          "meaning": {
+            "general": "The Path signifies a moment of decision. You are at a crossroads in your life and need to make a choice. This card encourages you to follow your intuition and trust that the path you choose will lead to growth.",
+            "reversed": "You may feel stuck or unable to make a decision. Fear of the unknown could be preventing you from moving forward. Reversed, The Path advises you to trust yourself and take action, even if it feels uncertain."
+          },
+          "advice": "Make a decision with confidence. Trust your intuition and don’t be afraid of change. Move forward knowing that every path brings valuable lessons."
+        },
+        {
+          "cardName": "The Heart",
+          "keywords": ["love", "compassion", "empathy"],
+          "meaning": {
+            "general": "The Heart represents love, empathy, and emotional openness. Whether it’s romantic love or deep compassion for others, this card encourages you to open your heart and give and receive love freely.",
+            "reversed": "You may be feeling emotionally blocked or disconnected from others. Reversed, The Heart asks you to explore why you are closed off and to find ways to heal emotional wounds and connect more deeply."
+          },
+          "advice": "Practice kindness and compassion, both towards yourself and others. Open your heart to new relationships or heal existing ones through empathy and understanding."
+        },
+        {
+          "cardName": "The Tower",
+          "keywords": ["upheaval", "transformation", "breaking down"],
+          "meaning": {
+            "general": "The Tower represents sudden change or disruption. Though often difficult, this card indicates that something unstable is being broken down to make way for transformation and growth. Embrace the change, as it will lead to better things.",
+            "reversed": "When reversed, The Tower warns of resistance to necessary change. You may be trying to hold on to something that is no longer serving you. Let go, and trust that the upheaval will lead to growth."
+          },
+          "advice": "Accept change and transformation. Though it may feel difficult, understand that this is a necessary part of your journey. Let go of what no longer serves you."
+        },
+        {
+          "cardName": "The Star",
+          "keywords": ["hope", "guidance", "renewal"],
+          "meaning": {
+            "general": "The Star brings hope and guidance. It signifies renewal, spiritual connection, and faith in the future. This card is a reminder that no matter how dark things may seem, there is always light and hope ahead.",
+            "reversed": "When reversed, The Star warns of doubt and despair. You may feel disconnected from your purpose or unsure about the future. This card urges you to reconnect with your inner guidance and trust in the process."
+          },
+          "advice": "Remain hopeful and trust in your path. Follow the guidance you receive, and stay connected to your higher self and spiritual purpose."
+        },
+        {
+          "cardName": "The Moon",
+          "keywords": ["intuition", "mystery", "subconscious"],
+          "meaning": {
+            "general": "The Moon represents intuition, mystery, and the subconscious. It asks you to trust your inner voice and to be aware that not everything is as it seems. Look beyond the surface and trust the unseen forces at work.",
+            "reversed": "Confusion, illusion, or deception may be clouding your judgment. Reversed, The Moon suggests that you need to clarify your thoughts and trust your inner wisdom, rather than external influences."
+          },
+          "advice": "Follow your intuition and look beyond appearances. Meditate or practice mindfulness to connect with your subconscious and inner guidance."
+        },
+        {
+          "cardName": "The Key",
+          "keywords": ["solutions", "answers", "unblocking"],
+          "meaning": {
+            "general": "The Key symbolizes finding answers and unlocking new opportunities. It represents solutions, breakthroughs, and the removal of obstacles. You are on the verge of discovering important truths that will unlock your potential.",
+            "reversed": "When reversed, The Key warns of missed opportunities or being blocked from finding solutions. You may need to rethink your approach or seek outside help to unlock the answers you seek."
+          },
+          "advice": "Look for solutions and be open to new opportunities. Stay persistent and trust that the answers are within reach."
+        }
+      ]
+    }
+  }

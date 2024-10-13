@@ -1,0 +1,72 @@
+{
+  "pendulum_divination": {
+    "overview": {
+      "method": "Pendulum Divination",
+      "description": "Pendulum divination involves using a weighted object (usually a crystal or metal) hanging on a chain or string to answer questions by swinging in specific patterns. The pendulum is believed to reveal answers from the subconscious mind or external spiritual forces."
+    },
+    "basic_interpretations": {
+      "yes": {
+        "movement": "Clockwise Circle",
+        "meaning": "Yes"
+      },
+      "no": {
+        "movement": "Counterclockwise Circle",
+        "meaning": "No"
+      },
+      "maybe": {
+        "movement": "Back and Forth",
+        "meaning": "Uncertainty, need for more clarity"
+      },
+      "ready": {
+        "movement": "Swinging in a Straight Line",
+        "meaning": "The pendulum is ready for divination"
+      }
+    },
+    "questions_categories": {
+      "yes_no_questions": {
+        "example": [
+          "Will I achieve my goal?",
+          "Is this the right time to move forward?",
+          "Should I trust this person?"
+        ]
+      },
+      "timing_questions": {
+        "example": [
+          "Is this the best time to start my project?",
+          "Will the event happen within this year?",
+          "Should I take action now?"
+        ]
+      },
+      "clarity_questions": {
+        "example": [
+          "What should I focus on to achieve success?",
+          "Is there something I am not seeing?",
+          "What do I need to release?"
+        ]
+      }
+    },
+    "advanced_interpretations": {
+      "strong_swing": {
+        "movement": "Fast, wide swings",
+        "meaning": "Strong affirmation or significant energy behind the answer"
+      },
+      "weak_swing": {
+        "movement": "Slow, slight movement",
+        "meaning": "Uncertainty, energy is unclear or blocked"
+      },
+      "erratic_movement": {
+        "movement": "Erratic, changing direction frequently",
+        "meaning": "Mixed or unclear energy, possibly due to emotional or spiritual disturbance"
+      }
+    },
+    "preparation_tips": {
+      "cleansing": "Cleanse your pendulum before each session to ensure clarity.",
+      "grounding": "Ground yourself to ensure your energy is calm and focused.",
+      "setting_intention": "Clearly state your intention or question before starting the session."
+    },
+    "troubleshooting": {
+      "pendulum_not_moving": "Try relaxing, taking a few deep breaths, and focusing on your question. You may also need to cleanse the pendulum or reset your intention.",
+      "conflicting_answers": "If answers seem inconsistent, try rephrasing the question for clarity or wait until you feel more balanced."
+    }
+  }
+}

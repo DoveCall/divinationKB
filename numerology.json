@@ -1,0 +1,218 @@
+numerology.json
+    "Numerology": {
+      "Life Path Numbers": {
+        "1": {
+          "meaning": "Independence, leadership, and individuality.",
+          "challenges": "Can struggle with loneliness or being overly self-centered."
+        },
+        "2": {
+          "meaning": "Cooperation, balance, and partnerships.",
+          "challenges": "Can struggle with being overly sensitive or dependent."
+        },
+        "3": {
+          "meaning": "Creativity, communication, and self-expression.",
+          "challenges": "Can struggle with superficiality or lack of discipline."
+        },
+        "4": {
+          "meaning": "Stability, practicality, and discipline.",
+          "challenges": "Can struggle with rigidity or being overly cautious."
+        },
+        "5": {
+          "meaning": "Freedom, adventure, and adaptability.",
+          "challenges": "Can struggle with restlessness or inconsistency."
+        },
+        "6": {
+          "meaning": "Responsibility, nurturing, and family.",
+          "challenges": "Can struggle with being overly controlling or self-sacrificing."
+        },
+        "7": {
+          "meaning": "Spirituality, introspection, and wisdom.",
+          "challenges": "Can struggle with isolation or skepticism."
+        },
+        "8": {
+          "meaning": "Ambition, power, and financial success.",
+          "challenges": "Can struggle with workaholism or materialism."
+        },
+        "9": {
+          "meaning": "Humanitarianism, compassion, and idealism.",
+          "challenges": "Can struggle with disillusionment or a martyr complex."
+        },
+        "11": {
+          "meaning": "Spiritual enlightenment, intuition, and inspiration.",
+          "challenges": "Can struggle with nervous tension or self-doubt."
+        },
+        "22": {
+          "meaning": "Master builder, practical idealism, and achievement.",
+          "challenges": "Can struggle with high expectations or perfectionism."
+        },
+        "33": {
+          "meaning": "Master teacher, selfless love, and service to others.",
+          "challenges": "Can struggle with personal sacrifice and emotional sensitivity."
+        }
+      },
+      "Expression Numbers": {
+        "1": {
+          "meaning": "Natural leader, self-reliant, and ambitious.",
+          "challenges": "Can struggle with arrogance or impulsiveness."
+        },
+        "2": {
+          "meaning": "Diplomatic, patient, and cooperative.",
+          "challenges": "Can struggle with indecisiveness or avoiding conflict."
+        },
+        "3": {
+          "meaning": "Creative, expressive, and charismatic.",
+          "challenges": "Can struggle with being scattered or superficial."
+        },
+        "4": {
+          "meaning": "Practical, organized, and dependable.",
+          "challenges": "Can struggle with being overly cautious or rigid."
+        },
+        "5": {
+          "meaning": "Adventurous, dynamic, and versatile.",
+          "challenges": "Can struggle with restlessness or lack of focus."
+        },
+        "6": {
+          "meaning": "Responsible, caring, and family-oriented.",
+          "challenges": "Can struggle with being overly protective or controlling."
+        },
+        "7": {
+          "meaning": "Intellectual, analytical, and introspective.",
+          "challenges": "Can struggle with detachment or skepticism."
+        },
+        "8": {
+          "meaning": "Ambitious, authoritative, and driven for success.",
+          "challenges": "Can struggle with materialism or workaholism."
+        },
+        "9": {
+          "meaning": "Compassionate, philanthropic, and idealistic.",
+          "challenges": "Can struggle with disillusionment or over-sacrifice."
+        },
+        "11": {
+          "meaning": "Highly intuitive, visionary, and inspirational.",
+          "challenges": "Can struggle with nervous tension or anxiety."
+        },
+        "22": {
+          "meaning": "Master builder, practical visionary, and achiever.",
+          "challenges": "Can struggle with unrealistic goals or perfectionism."
+        }
+      },
+      "Soul Urge Numbers": {
+        "1": {
+          "meaning": "Desire for independence, achievement, and leadership.",
+          "challenges": "Can struggle with a fear of dependence or vulnerability."
+        },
+        "2": {
+          "meaning": "Desire for harmony, relationships, and cooperation.",
+          "challenges": "Can struggle with avoiding conflict or over-dependence."
+        },
+        "3": {
+          "meaning": "Desire for creative expression, joy, and communication.",
+          "challenges": "Can struggle with superficiality or lack of focus."
+        },
+        "4": {
+          "meaning": "Desire for stability, order, and security.",
+          "challenges": "Can struggle with rigidity or fear of change."
+        },
+        "5": {
+          "meaning": "Desire for freedom, variety, and adventure.",
+          "challenges": "Can struggle with restlessness or irresponsibility."
+        },
+        "6": {
+          "meaning": "Desire for love, family, and nurturing.",
+          "challenges": "Can struggle with being overly protective or self-sacrificing."
+        },
+        "7": {
+          "meaning": "Desire for knowledge, spirituality, and introspection.",
+          "challenges": "Can struggle with isolation or skepticism."
+        },
+        "8": {
+          "meaning": "Desire for success, power, and financial security.",
+          "challenges": "Can struggle with materialism or workaholism."
+        },
+        "9": {
+          "meaning": "Desire to help others, compassion, and idealism.",
+          "challenges": "Can struggle with self-sacrifice or disillusionment."
+        },
+        "11": {
+          "meaning": "Desire for spiritual enlightenment and serving humanity.",
+          "challenges": "Can struggle with anxiety or nervous tension."
+        }
+      },
+      "Personality Numbers": {
+        "1": {
+          "meaning": "Perceived as independent, confident, and driven.",
+          "challenges": "Can be seen as domineering or aggressive."
+        },
+        "2": {
+          "meaning": "Perceived as cooperative, gentle, and diplomatic.",
+          "challenges": "Can be seen as overly sensitive or shy."
+        },
+        "3": {
+          "meaning": "Perceived as charismatic, creative, and sociable.",
+          "challenges": "Can be seen as superficial or unfocused."
+        },
+        "4": {
+          "meaning": "Perceived as reliable, practical, and organized.",
+          "challenges": "Can be seen as rigid or overly cautious."
+        },
+        "5": {
+          "meaning": "Perceived as adventurous, energetic, and free-spirited.",
+          "challenges": "Can be seen as inconsistent or reckless."
+        },
+        "6": {
+          "meaning": "Perceived as nurturing, responsible, and compassionate.",
+          "challenges": "Can be seen as overbearing or controlling."
+        },
+        "7": {
+          "meaning": "Perceived as intellectual, introspective, and reserved.",
+          "challenges": "Can be seen as aloof or detached."
+        },
+        "8": {
+          "meaning": "Perceived as authoritative, ambitious, and powerful.",
+          "challenges": "Can be seen as materialistic or domineering."
+        },
+        "9": {
+          "meaning": "Perceived as compassionate, humanitarian, and generous.",
+          "challenges": "Can be seen as overly idealistic or naive."
+        }
+      },
+      "Destiny Numbers": {
+        "1": {
+          "meaning": "To become a leader, pioneer, and achieve success through independence.",
+          "challenges": "Avoiding isolation and learning cooperation."
+        },
+        "2": {
+          "meaning": "To create harmony, balance, and work through partnerships.",
+          "challenges": "Avoiding dependence and building self-confidence."
+        },
+        "3": {
+          "meaning": "To inspire others through creativity and communication.",
+          "challenges": "Focusing energy and avoiding superficiality."
+        },
+        "4": {
+          "meaning": "To build stability and structure through hard work and discipline.",
+          "challenges": "Avoiding rigidity and embracing flexibility."
+        },
+        "5": {
+          "meaning": "To experience freedom, change, and adventure in life.",
+          "challenges": "Maintaining focus and consistency."
+        },
+        "6": {
+          "meaning": "To take responsibility, care for others, and create a loving environment.",
+          "challenges": "Avoiding over-control and learning to delegate."
+        },
+        "7": {
+          "meaning": "To seek knowledge, develop spiritual wisdom, and introspection.",
+          "challenges": "Avoiding isolation and learning to share wisdom."
+        },
+        "8": {
+          "meaning": "To achieve power, success, and influence in the material world.",
+          "challenges": "Balancing material success with spiritual or personal fulfillment."
+        },
+        "9": {
+          "meaning": "To serve humanity, spread compassion, and work for a greater cause.",
+          "challenges": "Avoiding martyrdom and learning to balance personal needs."
+        }
+      }
+    }
+  }

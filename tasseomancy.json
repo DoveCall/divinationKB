@@ -1,0 +1,81 @@
+{
+  "tasseomancy": [
+    {
+      "symbol": "Anchor",
+      "meaning": {
+        "positive": "Stability, security, and being grounded. You may soon find solid footing in your life or a relationship.",
+        "negative": "Feeling stuck or restricted, lacking freedom or flexibility."
+      }
+    },
+    {
+      "symbol": "Bird",
+      "meaning": {
+        "positive": "News, communication, and freedom. A message or opportunity will arrive soon, bringing excitement.",
+        "negative": "Gossip, misunderstandings, or lack of direction."
+      }
+    },
+    {
+      "symbol": "Butterfly",
+      "meaning": {
+        "positive": "Transformation, change, and rebirth. You are on the verge of a personal or spiritual evolution.",
+        "negative": "Instability, fleeting opportunities, or hesitation in embracing change."
+      }
+    },
+    {
+      "symbol": "Clover",
+      "meaning": {
+        "positive": "Good luck, prosperity, and happiness. Fortunate circumstances will arise soon.",
+        "negative": "Missed opportunities or over-reliance on luck."
+      }
+    },
+    {
+      "symbol": "Cross",
+      "meaning": {
+        "positive": "Faith, spiritual protection, and sacrifice. A period of spiritual growth or a lesson may be learned.",
+        "negative": "Challenges, burdens, or suffering. You may be facing a difficult time but will gain strength from it."
+      }
+    },
+    {
+      "symbol": "Heart",
+      "meaning": {
+        "positive": "Love, relationships, and emotional fulfillment. A new or existing relationship will bring joy and deep connection.",
+        "negative": "Heartbreak, emotional loss, or difficulties in relationships."
+      }
+    },
+    {
+      "symbol": "Horse",
+      "meaning": {
+        "positive": "Movement, travel, and progress. You are on the move toward new adventures or personal achievements.",
+        "negative": "Impatience, rushing into decisions, or a lack of direction."
+      }
+    },
+    {
+      "symbol": "Key",
+      "meaning": {
+        "positive": "Unlocking opportunities, solutions, and answers. You will find the key to a problem or unlock new potential.",
+        "negative": "Secrets, something hidden, or a challenge that needs careful thought to overcome."
+      }
+    },
+    {
+      "symbol": "Moon",
+      "meaning": {
+        "positive": "Intuition, emotions, and reflection. Trust your inner feelings and explore your subconscious.",
+        "negative": "Illusions, emotional confusion, or hidden truths."
+      }
+    },
+    {
+      "symbol": "Star",
+      "meaning": {
+        "positive": "Hope, inspiration, and guidance. A period of creativity and personal success is on the horizon.",
+        "negative": "Unfulfilled hopes, disappointment, or feeling lost."
+      }
+    },
+    {
+      "symbol": "Tree",
+      "meaning": {
+        "positive": "Growth, stability, and long-term success. You are building something lasting and strong.",
+        "negative": "Stagnation, lack of growth, or deep-rooted issues."
+      }
+    }
+  ]
+}

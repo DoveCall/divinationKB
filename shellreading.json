@@ -1,0 +1,39 @@
+{
+  "shell_divination": [
+    {
+      "shell_position": "All shells face up",
+      "meaning": {
+        "positive": "A time of abundance, prosperity, and success. The shells indicate that good fortune is in your favor.",
+        "negative": "Overconfidence in material matters. You may be placing too much value on wealth and overlooking spiritual needs."
+      }
+    },
+    {
+      "shell_position": "All shells face down",
+      "meaning": {
+        "positive": "A period of introspection and patience. Now is a time to focus on inner growth and trust the process.",
+        "negative": "Stagnation or lack of progress. You may be feeling blocked in your endeavors or unsure how to move forward."
+      }
+    },
+    {
+      "shell_position": "Half shells face up, half face down",
+      "meaning": {
+        "positive": "Balance and harmony are within reach. The shells suggest that you are finding equilibrium in your life.",
+        "negative": "Indecision or mixed feelings. You may be feeling torn between two opposing choices or unsure about your next steps."
+      }
+    },
+    {
+      "shell_position": "One shell face up, the rest face down",
+      "meaning": {
+        "positive": "An opportunity or insight will soon present itself. Pay attention to small details and be open to guidance.",
+        "negative": "Missed opportunities or lack of awareness. You may not be seeing the full picture or missing important signs."
+      }
+    },
+    {
+      "shell_position": "Scattered shells in disarray",
+      "meaning": {
+        "positive": "A time of spontaneity and creative thinking. The disarray suggests new ideas will emerge from chaos.",
+        "negative": "Disorganization or confusion. You may feel overwhelmed or unsure of how to manage your current situation."
+      }
+    }
+  ]
+}

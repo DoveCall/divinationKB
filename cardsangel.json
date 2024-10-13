@@ -1,0 +1,123 @@
+{
+    "angel_cards": [
+        {
+            "name": "Archangel Michael",
+            "meaning": {
+                "upright": "Strength, protection, courage. Call on Archangel Michael for guidance in difficult situations.",
+                "reversed": "Feeling vulnerable, lacking courage, or needing protection."
+            }
+        },
+        {
+            "name": "Archangel Gabriel",
+            "meaning": {
+                "upright": "Communication, creativity, and clarity. Archangel Gabriel is the messenger angel, bringing news and insight.",
+                "reversed": "Miscommunication, confusion, or blocked creative energy."
+            }
+        },
+        {
+            "name": "Archangel Raphael",
+            "meaning": {
+                "upright": "Healing, restoration, and balance. Call on Archangel Raphael for physical, emotional, and spiritual healing.",
+                "reversed": "Resistance to healing, emotional wounds, or health issues."
+            }
+        },
+        {
+            "name": "Archangel Uriel",
+            "meaning": {
+                "upright": "Wisdom, enlightenment, and insight. Archangel Uriel helps with learning and finding solutions.",
+                "reversed": "Lack of clarity, confusion, or feeling stuck."
+            }
+        },
+        {
+            "name": "Archangel Ariel",
+            "meaning": {
+                "upright": "Nature, abundance, and courage. Archangel Ariel is connected to the natural world and helps manifest prosperity.",
+                "reversed": "Financial strain, lack of connection with nature, or feeling insecure."
+            }
+        },
+        {
+            "name": "Guardian Angel",
+            "meaning": {
+                "upright": "Divine protection, guidance, and inner peace. Your Guardian Angel is watching over you and supporting you.",
+                "reversed": "Feeling alone, disconnected from your higher guidance, or neglecting self-care."
+            }
+        },
+        {
+            "name": "Angel of Love",
+            "meaning": {
+                "upright": "Unconditional love, relationships, and compassion. This angel brings healing to your heart and helps attract love.",
+                "reversed": "Struggles in relationships, feeling unloved, or emotional detachment."
+            }
+        },
+        {
+            "name": "Angel of Peace",
+            "meaning": {
+                "upright": "Inner calm, tranquility, and resolution. This angel encourages finding peace within yourself and your environment.",
+                "reversed": "Turmoil, inner conflict, or stress in your life."
+            }
+        },
+        {
+            "name": "Angel of Abundance",
+            "meaning": {
+                "upright": "Prosperity, financial security, and blessings. This angel brings opportunities for wealth and success.",
+                "reversed": "Scarcity mindset, missed financial opportunities, or lack of abundance."
+            }
+        },
+        {
+            "name": "Angel of Protection",
+            "meaning": {
+                "upright": "Safety, divine protection, and security. You are being shielded from harm, and your path is guarded.",
+                "reversed": "Fear, lack of security, or feeling unprotected."
+            }
+        },
+        {
+            "name": "Angel of Joy",
+            "meaning": {
+                "upright": "Happiness, delight, and celebration. This angel brings joy and lifts your spirits during times of difficulty.",
+                "reversed": "Feelings of sadness, loss of joy, or disconnection from happiness."
+            }
+        },
+        {
+            "name": "Angel of Healing",
+            "meaning": {
+                "upright": "Physical, emotional, and spiritual healing. This angel helps mend wounds and bring restoration to all aspects of life.",
+                "reversed": "Unresolved issues, emotional pain, or resistance to healing."
+            }
+        },
+        {
+            "name": "Angel of Courage",
+            "meaning": {
+                "upright": "Bravery, strength, and overcoming obstacles. This angel inspires you to face fears and challenges head-on.",
+                "reversed": "Doubt, fear, or lack of confidence in yourself or your path."
+            }
+        },
+        {
+            "name": "Angel of Wisdom",
+            "meaning": {
+                "upright": "Insight, knowledge, and understanding. This angel guides you to make informed decisions and seek wisdom in all matters.",
+                "reversed": "Confusion, lack of direction, or misjudgment."
+            }
+        },
+        {
+            "name": "Angel of Compassion",
+            "meaning": {
+                "upright": "Empathy, kindness, and understanding. This angel encourages acts of compassion and generosity toward others.",
+                "reversed": "Apathy, selfishness, or lack of empathy."
+            }
+        },
+        {
+            "name": "Angel of Strength",
+            "meaning": {
+                "upright": "Endurance, resilience, and fortitude. This angel grants you the strength to persevere through hardships.",
+                "reversed": "Feeling overwhelmed, weak, or lacking the stamina to continue."
+            }
+        },
+        {
+            "name": "Angel of Forgiveness",
+            "meaning": {
+                "upright": "Letting go of past grievances and embracing forgiveness. This angel aids in releasing old wounds and moving forward with grace.",
+                "reversed": "Holding onto resentment, grudges, or difficulty in forgiving others."
+            }
+        }
+    ]
+}

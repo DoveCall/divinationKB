@@ -1,0 +1,215 @@
+elderfurthark.json
+{
+  "runes": {
+    "overview": {
+      "definition": "Runes are ancient symbols used for divination, each representing different aspects of life and the universe. The Elder Futhark is the oldest form of the runic alphabets, and it is used for insight, guidance, and understanding of personal challenges and situations.",
+      "method": "To perform a rune reading, ask a question or focus on a situation. Draw one or more runes at random and interpret their meanings in the context of your life."
+    },
+    "rune_meanings": [
+      {
+        "rune": "Fehu",
+        "symbol": "ᚠ",
+        "meaning": "Wealth, prosperity, and success. Fehu represents abundance and material gain, but also emphasizes the need for responsible stewardship.",
+        "reversed": "Loss of wealth, failure in financial matters, or blocked prosperity. Be mindful of greed or mismanagement.",
+        "historical_context": "Fehu is associated with cattle and wealth in ancient Germanic societies.",
+        "practical_application": "Invoke Fehu to attract prosperity and abundance into your life.",
+        "symbolic_associations": {
+          "element": "Earth",
+          "animal": "Cow",
+          "deity": "Frey"
+        },
+        "cultural_significance": "Fehu symbolizes the importance of wealth and resources in sustaining life.",
+        "expanded_reversed_meanings": "The reversed Fehu can indicate financial loss or mismanagement.",
+        "cross_references": ["Gebo", "Wunjo"],
+        "quote": "Wealth is not just about money; it's about the abundance of life."
+      },
+      {
+        "rune": "Hagl",
+        "symbol": "ᚼ",
+        "meaning": "Hail, disruption, and change. Hagl represents natural forces beyond your control, signaling significant, often destructive, change that can lead to growth.",
+        "reversed": "No reversed meaning. Hagl always represents disruptive forces that lead to transformation and the necessity of adaptation.",
+        "historical_context": "Hagl is associated with the unpredictable nature of weather and its impact on life and agriculture.",
+        "practical_application": "Use Hagl to embrace change and adapt to new circumstances.",
+        "symbolic_associations": {
+          "element": "Air",
+          "animal": "Raven",
+          "deity": "Odin"
+        },
+        "cultural_significance": "Hagl is a powerful reminder of the inevitability of change and the importance of resilience.",
+        "expanded_reversed_meanings": "While Hagl does not have a reversed meaning, it can indicate a refusal to accept change.",
+        "cross_references": ["Thurs", "Naudhr"],
+        "quote": "Change is the only constant in life."
+      },
+      {
+        "rune": "Naudhr",
+        "symbol": "ᚾ",
+        "meaning": "Need, constraint, and survival. Naudhr represents hardship but also the strength that comes from perseverance, emphasizing resilience in the face of challenges.",
+        "reversed": "A struggle to meet basic needs or overcome obstacles. A reminder to focus on priorities and seek support when needed.",
+        "historical_context": "Naudhr reflects the harsh realities of survival in Norse society, where resourcefulness was essential.",
+        "practical_application": "Invoke Naudhr when facing difficulties to remind yourself of your inner strength and resilience.",
+        "symbolic_associations": {
+          "element": "Earth",
+          "animal": "Bear",
+          "deity": "Freyja"
+        },
+        "cultural_significance": "Naudhr is often seen as a rune of survival and the importance of community support.",
+        "expanded_reversed_meanings": "The reversed Naudhr can indicate neglecting basic needs or refusing help.",
+        "cross_references": ["Ur", "Reið"],
+        "quote": "In the midst of winter, I found there was, within me, an invincible summer."
+      },
+      {
+        "rune": "Isa",
+        "symbol": "ᛁ",
+        "meaning": "Stillness, ice, and clarity. Isa indicates a period of rest or pause, allowing for reflection and reassessment, often representing a time for introspection.",
+        "reversed": "No reversed meaning. Isa always represents the need to wait, contemplate, and gather clarity before taking action.",
+        "historical_context": "Isa symbolizes the harsh winters of Scandinavia, where stillness and introspection were necessary for survival.",
+        "practical_application": "Use Isa to encourage patience and reflection during times of uncertainty.",
+        "symbolic_associations": {
+          "element": "Water",
+          "animal": "Owl",
+          "deity": "Nerthus"
+        },
+        "cultural_significance": "Isa serves as a reminder of the importance of stillness and contemplation in a fast-paced world.",
+        "expanded_reversed_meanings": "While Isa does not have a reversed meaning, it can indicate a refusal to pause and reflect.",
+        "cross_references": ["Ar", "Hagl"],
+        "quote": "In stillness, the world is restored."
+      },
+      {
+        "rune": "Ar",
+        "symbol": "ᛅ",
+        "meaning": "Harvest, reward, and cycles. Ar signifies the return of hard work, representing the cycles of growth, reward, and the importance of gratitude.",
+        "reversed": "No reversed meaning. Ar represents the harvest and completion of cycles, encouraging appreciation for what has been achieved.",
+        "historical_context": "Ar is linked to agricultural practices in Norse culture, symbolizing the rewards of labor.",
+        "practical_application": "Invoke Ar during times of celebration or gratitude for the fruits of your labor.",
+        "symbolic_associations": {
+          "element": "Earth",
+          "animal": "Stag",
+          "deity": "Freyr"
+        },
+        "cultural_significance": "Ar is often seen as a rune of abundance and the importance of recognizing one's achievements.",
+        "expanded_reversed_meanings": "While Ar does not have a reversed meaning, it can indicate a lack of appreciation for what one has.",
+        "cross_references": ["Sól", "Fe"],
+        "quote": "Gratitude is not only the greatest of virtues but the parent of all others."
+      },
+      {
+        "rune": "Sól",
+        "symbol": "ᛋ",
+        "meaning": "The sun, victory, and success. Sól represents life, energy, and the achievement of goals, symbolizing positivity and vitality.",
+        "reversed": "No reversed meaning. Sól always signifies vitality, positive outcomes, and the importance of maintaining a positive outlook.",
+        "historical_context": "Sól is personified as a goddess in Norse mythology, representing the sun and its life-giving properties.",
+        "practical_application": "Use Sól to inspire positivity and motivation in your endeavors.",
+        "symbolic_associations": {
+          "element": "Fire",
+          "animal": "Horse",
+          "deity": "Sól"
+        },
+        "cultural_significance": "Sól is a powerful symbol of hope and the cyclical nature of life.",
+        "expanded_reversed_meanings": "While Sól does not have a reversed meaning, it can indicate a temporary setback in achieving goals.",
+        "cross_references": ["Týr", "Ar"],
+        "quote": "Keep your face always toward the sunshine—and shadows will fall behind you."
+      },
+      {
+        "rune": "Tiwaz",
+        "symbol": "ᛏ",
+        "meaning": "Honor, justice, and leadership. Tiwaz signifies the importance of integrity and moral strength.",
+        "reversed": "Dishonor or lack of direction. You may be struggling with ethical dilemmas.",
+        "historical_context": "Tiwaz is associated with the god Tyr, representing honor and justice.",
+        "practical_application": "Invoke Tiwaz for guidance in ethical decisions and leadership.",
+        "symbolic_associations": {
+          "element": "Air",
+          "animal": "Wolf",
+          "deity": "Tyr"
+        },
+        "cultural_significance": "Tiwaz emphasizes the importance of honor and integrity in Norse culture.",
+        "expanded_reversed_meanings": "The reversed Tiwaz can indicate a lack of moral clarity or ethical confusion.",
+        "cross_references": ["Uruz", "Eihwaz"],
+        "quote": "Integrity is doing the right thing, even when no one is watching."
+      },
+      {
+        "rune": "Berkano",
+        "symbol": "ᛒ",
+        "meaning": "Growth, fertility, and new beginnings. Berkano represents the nurturing aspect of nature.",
+        "reversed": "Stagnation or lack of growth. You may be feeling blocked in your personal development.",
+        "historical_context": "Berkano symbolizes the birch tree, representing new beginnings and fertility.",
+        "practical_application": "Use Berkano to promote growth and new beginnings in your life.",
+        "symbolic_associations": {
+          "element": "Earth",
+          "animal": "Bear",
+          "deity": "Freyja"
+        },
+        "cultural_significance": "Berkano is often seen as a rune of fertility and the nurturing aspects of nature.",
+        "expanded_reversed_meanings": "The reversed Berkano can indicate a lack of growth or missed opportunities.",
+        "cross_references": ["Inguz", "Jera"],
+        "quote": "Every new beginning comes from some other beginning's end."
+      },
+      {
+        "rune": "Ehwaz",
+        "symbol": "ᛖ",
+        "meaning": "Movement, progress, and partnership. Ehwaz signifies the importance of teamwork and collaboration.",
+        "reversed": "Stagnation or lack of progress. You may be feeling stuck in a situation.",
+        "historical_context": "Ehwaz represents the horse, symbolizing movement and partnership.",
+        "practical_application": "Use Ehwaz to enhance teamwork and collaboration in your endeavors.",
+        "symbolic_associations": {
+          "element": "Horse",
+          "animal": "Horse",
+          "deity": "N/A"
+        },
+        "cultural_significance": "Ehwaz emphasizes the importance of partnership and mutual support.",
+        "expanded_reversed_meanings": "The reversed Ehwaz can indicate a breakdown in communication or teamwork.",
+        "cross_references": ["Raido", "Gebo"],
+        "quote": "Alone we can do so little; together we can do so much."
+      },
+      {
+        "rune": "Inguz",
+        "symbol": "ᛜ",
+        "meaning": "Fertility, new beginnings, and potential. Inguz signifies the power of creation and growth.",
+        "reversed": "Blocked potential or lack of progress. You may be feeling unable to move forward.",
+        "historical_context": "Inguz is associated with the god Ing, representing fertility and new life.",
+        "practical_application": "Use Inguz to manifest new beginnings and unlock your potential.",
+        "symbolic_associations": {
+          "element": "Earth",
+          "animal": "N/A",
+          "deity": "Ing"
+        },
+        "cultural_significance": "Ing embodies the fertility of the earth and the potential for growth.",
+        "expanded_reversed_meanings": "The reversed Inguz can indicate a fear of change or missed opportunities.",
+        "cross_references": ["Berkano", "Jera"],
+        "quote": "The future belongs to those who believe in the beauty of their dreams."
+      },
+      {
+        "rune": "Dagaz",
+        "symbol": "ᛞ",
+        "meaning": "Breakthrough, awakening, and transformation. Dagaz represents the dawn of a new day.",
+        "reversed": "Delays or setbacks. You may be feeling hindered in your progress.",
+        "historical_context": "Dagaz symbolizes the dawn and the transformative power of light.",
+        "practical_application": "Use Dagaz to embrace new beginnings and transformative experiences.",
+        "symbolic_associations": {
+          "element": "Day",
+          "animal": "Eagle",
+          "deity": "N/A"
+        },
+        "cultural_significance": "Dagaz emphasizes the importance of awakening and new possibilities.",
+        "expanded_reversed_meanings": "The reversed Dagaz can indicate a fear of change or resistance to new opportunities.",
+        "cross_references": ["Jera", "Sowilo"],
+        "quote": "Every sunrise is an invitation to rise and shine."
+      },
+      {
+        "rune": "Othala",
+        "symbol": "ᛟ",
+        "meaning": "Heritage, legacy, and home. Othala signifies the importance of family and ancestral ties.",
+        "reversed": "Loss of heritage or disconnection from roots. You may be feeling ungrounded.",
+        "historical_context": "Othala represents ancestral property and the importance of heritage.",
+        "practical_application": "Use Othala to connect with your roots and honor your heritage.",
+        "symbolic_associations": {
+          "element": "Earth",
+          "animal": "N/A",
+          "deity": "N/A"
+        },
+        "cultural_significance": "Othala emphasizes the importance of family and ancestral connections.",
+        "expanded_reversed_meanings": "The reversed Othala can indicate a disconnection from one's roots or heritage.",
+        "cross_references": ["Berkano", "Madr"],
+        "quote": "To be rooted is perhaps the most important and least recognized need of the human soul."
+      }
+    ]
+  }
+}

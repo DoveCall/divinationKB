@@ -1,0 +1,266 @@
+{
+  "method": "Geomancy",
+  "description": "Geomancy is a form of divination that interprets markings on the ground or the patterns formed by thrown handfuls of soil, rocks, or sand. It is often used to gain insight into questions or situations by interpreting the patterns created. Geomancy can provide guidance on personal issues, relationships, and decision-making.",
+  "version": "1.8",
+  "author": "Your Name",
+  "date_created": "2023-10-01",
+  "last_updated": "2023-10-10",
+  "figures": [
+    {
+      "name": "Puer",
+      "meaning": "Aggression, youth, strength, masculinity.",
+      "positive_aspects": "Courage, initiative, action.",
+      "negative_aspects": "Recklessness, conflict, immaturity.",
+      "example": "In a reading, Puer may indicate a need for assertiveness.",
+      "related_symbols": ["Fire", "Sword"],
+      "element": "Fire",
+      "numerical_value": 1
+    },
+    {
+      "name": "Amissio",
+      "meaning": "Loss, separation, misfortune.",
+      "positive_aspects": "Letting go of what no longer serves.",
+      "negative_aspects": "Failure, deprivation.",
+      "example": "Amissio can suggest the end of a relationship or project.",
+      "related_symbols": ["Water", "Scythe"],
+      "element": "Water",
+      "numerical_value": 2
+    },
+    {
+      "name": "Albus",
+      "meaning": "Peace, clarity, wisdom.",
+      "positive_aspects": "Serenity, understanding, truth.",
+      "negative_aspects": "Inaction, complacency.",
+      "example": "Albus may represent a time for reflection and calm.",
+      "related_symbols": ["Air", "Feather"],
+      "element": "Air",
+      "numerical_value": 3
+    },
+    {
+      "name": "Rubeus",
+      "meaning": "Danger, passion, chaos.",
+      "positive_aspects": "Intensity, transformation.",
+      "negative_aspects": "Destruction, violence.",
+      "example": "Rubeus can indicate a tumultuous period requiring caution.",
+      "related_symbols": ["Earth", "Lightning"],
+      "element": "Earth",
+      "numerical_value": 4
+    },
+    {
+      "name": "Acquisitio",
+      "meaning": "Gain, acquisition, prosperity.",
+      "positive_aspects": "Abundance, success.",
+      "negative_aspects": "Greed, overindulgence.",
+      "example": "Acquisitio suggests financial gain or new opportunities.",
+      "related_symbols": ["Gold", "Harvest"],
+      "element": "Earth",
+      "numerical_value": 5
+    },
+    {
+      "name": "Fortuna Major",
+      "meaning": "Great fortune, success.",
+      "positive_aspects": "Luck, favorable outcomes.",
+      "negative_aspects": "Complacency, overconfidence.",
+      "example": "Fortuna Major indicates a period of good luck.",
+      "related_symbols": ["Sun", "Crown"],
+      "element": "Fire",
+      "numerical_value": 6
+    },
+    {
+      "name": "Tristitia",
+      "meaning": "Sadness, loss, mourning.",
+      "positive_aspects": "Reflection, healing.",
+      "negative_aspects": "Despair, stagnation.",
+      "example": "Tristitia may suggest a time for grieving and healing.",
+      "related_symbols": ["Moon", "Tear"],
+      "element": "Water",
+      "numerical_value": 7
+    },
+    {
+      "name": "Carcer",
+      "meaning": "Restriction, confinement.",
+      "positive_aspects": "Discipline, structure.",
+      "negative_aspects": "Stagnation, oppression.",
+      "example": "Carcer may indicate a need to break free from limitations.",
+      "related_symbols": ["Chains", "Wall"],
+      "element": "Earth",
+      "numerical_value": 8
+    },
+    {
+      "name": "Laetitia",
+      "meaning": "Joy, happiness, celebration.",
+      "positive_aspects": "Optimism, positivity.",
+      "negative_aspects": "Naivety, superficiality.",
+      "example": "Laetitia suggests a time of joy and celebration.",
+      "related_symbols": ["Flower", "Sunshine"],
+      "element": "Fire",
+      "numerical_value": 9
+    },
+    {
+      "name": "Via",
+      "meaning": "Journey, movement, change.",
+      "positive_aspects": "Progress, adventure.",
+      "negative_aspects": "Instability, uncertainty.",
+      "example": "Via indicates a time of transition and movement.",
+      "related_symbols": ["Path", "Footsteps"],
+      "element": "Air",
+      "numerical_value": 10
+    },
+    {
+      "name": "Fortuna Minor",
+      "meaning": "Minor fortune, small successes.",
+      "positive_aspects": "Opportunities, small gains.",
+      "negative_aspects": "Missed chances, minor setbacks.",
+      "example": "Fortuna Minor may indicate a small but positive change.",
+      "related_symbols": ["Star", "Coin"],
+      "element": "Air",
+      "numerical_value": 11
+    },
+    {
+      "name": "Sors",
+      "meaning": "Fate, destiny, chance.",
+      "positive_aspects": "Acceptance, surrender.",
+      "negative_aspects": "Helplessness, lack of control.",
+      "example": "Sors suggests that events are beyond one's control.",
+      "related_symbols": ["Wheel", "Dice"],
+      "element": "Water",
+      "numerical_value": 12
+    },
+    {
+      "name": "Fortuna",
+      "meaning": "Fortune, luck, fate.",
+      "positive_aspects": "Prosperity, success.",
+      "negative_aspects": "Unpredictability, risk.",
+      "example": "Fortuna may indicate a turning point in fortune.",
+      "related_symbols": ["Wheel of Fortune", "Dice"],
+      "element": "Air",
+      "numerical_value": 13
+    },
+    {
+      "name": "Nox",
+      "meaning": "Night, mystery, the unknown.",
+      "positive_aspects": "Intuition, dreams, hidden knowledge.",
+      "negative_aspects": "Fear, confusion, deception.",
+      "example": "Nox may suggest a need to explore the subconscious.",
+      "related_symbols": ["Darkness", "Moon"],
+      "element": "Water",
+      "numerical_value": 14
+    },
+    {
+      "name": "Lux",
+      "meaning": "Light, clarity, enlightenment.",
+      "positive_aspects": "Truth, understanding, revelation.",
+      "negative_aspects": "Overexposure, harshness.",
+      "example": "Lux indicates a time for clarity and truth-seeking.",
+      "related_symbols": ["Sun", "Light"],
+      "element": "Fire",
+      "numerical_value": 15
+    },
+    {
+      "name": "Aqua",
+      "meaning": "Fluidity, adaptability, emotions.",
+      "positive_aspects": "Flexibility, intuition, healing.",
+      "negative_aspects": "Instability, overwhelm.",
+      "example": "Aqua may suggest a need to go with the flow.",
+      "related_symbols": ["Water", "Wave"],
+      "element": "Water",
+      "numerical_value": 16
+    },
+    {
+      "name": "Terra",
+      "meaning": "Stability, grounding, materiality.",
+      "positive_aspects": "Security, practicality, nourishment.",
+      "negative_aspects": "Stagnation, materialism.",
+      "example": "Terra indicates a focus on the physical and practical aspects of life.",
+      "related_symbols": ["Earth", "Stone"],
+      "element": "Earth",
+      "numerical_value": 17
+    },
+    {
+      "name": "Caput Draconis",
+      "meaning": "Beginning, new opportunities.",
+      "positive_aspects": "Initiation, potential.",
+      "negative_aspects": "Insecurity, fear of change.",
+      "example": "Caput Draconis may indicate a time to start new ventures.",
+      "related_symbols": ["Dragon's Head", "New Moon"],
+      "element": "Air",
+      "numerical_value": 18
+    },
+    {
+      "name": "Cauda Draconis",
+      "meaning": "Endings, closure.",
+      "positive_aspects": "Completion, resolution.",
+      "negative_aspects": "Stagnation, missed opportunities.",
+      "example": "Cauda Draconis suggests the need to let go of the past.",
+      "related_symbols": ["Dragon's Tail", "Full Moon"],
+      "element": "Earth",
+      "numerical_value": 19
+    },
+    {
+      "name": "Fortuna Major",
+      "meaning": "Great fortune, success.",
+      "positive_aspects": "Luck, favorable outcomes.",
+      "negative_aspects": "Complacency, overconfidence.",
+      "example": "Fortuna Major indicates a period of good luck.",
+      "related_symbols": ["Sun", "Crown"],
+      "element": "Fire",
+      "numerical_value": 20
+    },
+    {
+      "name": "Fortuna Minor",
+      "meaning": "Minor fortune, small successes.",
+      "positive_aspects": "Opportunities, small gains.",
+      "negative_aspects": "Missed chances, minor setbacks.",
+      "example": "Fortuna Minor may indicate a small but positive change.",
+      "related_symbols": ["Star", "Coin"],
+      "element": "Air",
+      "numerical_value": 21
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Art of Geomancy",
+      "author": "John Doe",
+      "year": 2020,
+      "url": "https://example.com/art-of-geomancy"
+    },
+    {
+      "title": "Geomancy: A Guide to Divination",
+      "author": "Jane Smith",
+      "year": 2019,
+      "url": "https://example.com/geomancy-guide"
+    },
+    {
+      "title": "Geomancy Explained",
+      "author": "Alice Johnson",
+      "year": 2021,
+      "url": "https://example.com/geomancy-explained"
+    },
+    {
+      "title": "The Complete Guide to Geomancy",
+      "author": "Emily Brown",
+      "year": 2022,
+      "url": "https://example.com/complete-guide-geomancy"
+    },
+    {
+      "title": "Geomancy in Practice",
+      "author": "Michael Green",
+      "year": 2023,
+      "url": "https://example.com/geomancy-in-practice"
+    }
+  ],
+  "additional_information": {
+    "history": "Geomancy has roots in various cultures, including African, Arabic, and European traditions. It has been practiced for centuries as a means of divination and insight.",
+    "methods": [
+      "Casting stones or soil to create patterns.",
+      "Using a geomantic chart to interpret figures.",
+      "Incorporating astrological elements for deeper insights."
+    ],
+    "applications": [
+      "Personal guidance and decision-making.",
+      "Relationship insights.",
+      "Career and financial advice."
+    ],
+    "cultural_significance": "Geomancy has been used in various cultures for spiritual and practical purposes, often linked to agriculture, land use, and personal guidance."
+  }
+}

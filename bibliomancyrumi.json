@@ -1,0 +1,13 @@
+{
+  "method": "Rumi’s Poetry Bibliomancy",
+  "poems": {
+    "poem_1": {
+      "verse_1": "The wound is the place where the Light enters you...",
+      "verse_2": "Let yourself be silently drawn by the strange pull of what you really love."
+    }
+  },
+  "interpretation": {
+    "verse_1": "Focuses on healing and spiritual growth through suffering.",
+    "verse_2": "Encourages following one's true passion and inner calling."
+  }
+}

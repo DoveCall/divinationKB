@@ -1,0 +1,74 @@
+{
+  "angel_numbers": [
+    {
+      "number": "111",
+      "meaning": {
+        "positive": "New beginnings, manifestation, and alignment with your higher self. The universe is signaling that your thoughts are turning into reality, so keep them positive.",
+        "negative": "Caution against negative thinking. You may be focusing too much on fears or doubts, which could manifest if not addressed."
+      }
+    },
+    {
+      "number": "222",
+      "meaning": {
+        "positive": "Balance, harmony, and cooperation. This is a reminder to trust the process, stay patient, and maintain balance in relationships and partnerships.",
+        "negative": "Disruption in balance or uncertainty in relationships. You may be feeling out of sync or lacking harmony in your interactions."
+      }
+    },
+    {
+      "number": "333",
+      "meaning": {
+        "positive": "Creativity, growth, and spiritual guidance. The number 333 indicates that your angels are close, supporting your personal and spiritual development.",
+        "negative": "Stagnation or creative block. You may be struggling to grow or express yourself fully."
+      }
+    },
+    {
+      "number": "444",
+      "meaning": {
+        "positive": "Protection, foundation, and stability. Your angels are watching over you, and you are being guided to build a solid foundation for future success.",
+        "negative": "Instability or lack of direction. You may need to focus on grounding yourself and creating a more secure base in your life."
+      }
+    },
+    {
+      "number": "555",
+      "meaning": {
+        "positive": "Change, transformation, and new opportunities. This number signals that significant changes are ahead, and you should embrace them with an open heart.",
+        "negative": "Resistance to change or fear of the unknown. You may be struggling to accept or adapt to new circumstances."
+      }
+    },
+    {
+      "number": "666",
+      "meaning": {
+        "positive": "Reflection, balance, and realignment. The number encourages you to focus on rebalancing your life, particularly in areas of overindulgence or material concerns.",
+        "negative": "Misalignment or unhealthy attachments. You may be too focused on material things, neglecting your spiritual well-being."
+      }
+    },
+    {
+      "number": "777",
+      "meaning": {
+        "positive": "Luck, spiritual awakening, and divine guidance. This number suggests that you are in perfect alignment with the universe, and good fortune is on the way.",
+        "negative": "Overconfidence or relying too much on luck. You may be ignoring practical matters or taking success for granted."
+      }
+    },
+    {
+      "number": "888",
+      "meaning": {
+        "positive": "Abundance, success, and financial prosperity. The number 888 is a powerful sign of financial blessings and abundance flowing into your life.",
+        "negative": "Overindulgence or mismanagement of resources. You may need to focus on financial discipline and avoid overspending."
+      }
+    },
+    {
+      "number": "999",
+      "meaning": {
+        "positive": "Completion, closure, and preparation for new cycles. The number 999 signifies the end of a phase and the readiness for new beginnings.",
+        "negative": "Difficulty letting go or fear of endings. You may be holding on to the past and struggling to move forward."
+      }
+    },
+    {
+      "number": "000",
+      "meaning": {
+        "positive": "Infinite potential, unity, and connection with the divine. This number represents a reset or new spiritual journey.",
+        "negative": "Lack of direction or feeling lost. You may be at a crossroads and unsure of your next steps."
+      }
+    }
+  ]
+}

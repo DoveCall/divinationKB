@@ -1,0 +1,52 @@
+{
+  "IChing": {
+    "hexagrams": [
+      {
+        "number": 1,
+        "name": "Ch'ien (The Creative)",
+        "keywords": ["creativity", "strong action", "initiative"],
+        "trigrams": {
+          "upper": "Heaven",
+          "lower": "Heaven"
+        },
+        "element": "Metal",
+        "judgement": "The Creative works sublime success, furthering through perseverance.",
+        "image": "The movement of heaven is full of power. Thus the superior man makes himself strong and untiring.",
+        "changing_lines": {
+          "line_1": "Hidden dragon. Do not act.",
+          "line_2": "Dragon appearing in the field. It furthers one to see the great man.",
+          "line_3": "All day long the superior man is creatively active.",
+          "line_4": "Wavering flight over the depths. No blame.",
+          "line_5": "Flying dragon in the heavens. It furthers one to see the great man.",
+          "line_6": "Arrogant dragon will have cause to repent."
+        },
+        "advice": "Be strong and persevere in your actions.",
+        "related_hexagrams": [2, 14],
+        "interpretation": "Ch'ien is about creative power and initiative. It advises being strong and persevering."
+      },
+      {
+        "number": 64,
+        "name": "Wei Chi (Before Completion)",
+        "keywords": ["incompletion", "transition", "preparation"],
+        "trigrams": {
+          "upper": "Water",
+          "lower": "Fire"
+        },
+        "element": "Water",
+        "judgement": "Before Completion. Success. It furthers one to be cautious and to prepare.",
+        "image": "Water over fire: the image of Before Completion.",
+        "changing_lines": {
+          "line_1": "The fish is caught in the net. No blame.",
+          "line_2": "The fish is caught in the net. Good fortune.",
+          "line_3": "The fish is caught in the net. Misfortune.",
+          "line_4": "The fish is caught in the net. Good fortune.",
+          "line_5": "The fish is caught in the net. Good fortune.",
+          "line_6": "The fish is caught in the net. Misfortune."
+        },
+        "advice": "Be prepared for transitions and remain cautious.",
+        "related_hexagrams": [63, 1],
+        "interpretation": "Wei Chi represents the state of being before completion. It advises careful preparation and awareness of transitions."
+      }
+    ]
+  }
+}

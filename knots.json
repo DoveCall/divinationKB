@@ -1,0 +1,256 @@
+{
+  "knot_divination": [
+    {
+      "knot_pattern": "Simple Knot",
+      "meaning": {
+        "positive": "Simplicity, clarity, and focus. The simple knot suggests that you are on a clear and straightforward path.",
+        "negative": "Underestimation or overlooking details. You may be oversimplifying a situation and missing key elements."
+      }
+    },
+    {
+      "knot_pattern": "Double Knot",
+      "meaning": {
+        "positive": "Commitment, bonding, and long-term plans. The double knot indicates strong connections and the reinforcement of relationships.",
+        "negative": "Complications or entanglement. You may be feeling tied down or trapped by commitments."
+      }
+    },
+    {
+      "knot_pattern": "Looped Knot",
+      "meaning": {
+        "positive": "Flexibility, adaptability, and open possibilities. The looped knot suggests that there is room for change and growth in your current situation.",
+        "negative": "Indecision or lack of direction. You may be going in circles, unable to break free from repetitive patterns."
+      }
+    },
+    {
+      "knot_pattern": "Complex Knot",
+      "meaning": {
+        "positive": "Intricacy, creativity, and problem-solving. The complex knot symbolizes the need for innovative thinking to untangle difficulties.",
+        "negative": "Overcomplication or confusion. You may be making things harder than they need to be or struggling with too many factors at once."
+      }
+    },
+    {
+      "knot_pattern": "Celtic Knot",
+      "meaning": {
+        "positive": "Eternity, interconnectedness, and unity. The Celtic knot represents the idea that all things are connected and that life is a continuous cycle.",
+        "negative": "Stagnation or being stuck in a loop. You may feel trapped in a situation with no clear way out."
+      }
+    },
+    {
+      "knot_pattern": "Square Knot",
+      "meaning": {
+        "positive": "Balance, stability, and security. The square knot signifies a solid foundation and the importance of structure in your life.",
+        "negative": "Rigidity or inflexibility. You may be resistant to change or too set in your ways."
+      }
+    },
+    {
+      "knot_pattern": "Bowline Knot",
+      "meaning": {
+        "positive": "Trust, reliability, and safety. The bowline knot indicates that you can rely on your support systems and that help is available.",
+        "negative": "Dependency or over-reliance. You may be leaning too heavily on others and neglecting your own strength."
+      }
+    },
+    {
+      "knot_pattern": "Figure Eight Knot",
+      "meaning": {
+        "positive": "Endurance, resilience, and continuity. The figure eight knot symbolizes the ability to overcome challenges and keep moving forward.",
+        "negative": "Repetition of mistakes. You may find yourself facing the same issues repeatedly without learning from them."
+      }
+    },
+    {
+      "knot_pattern": "Lark's Head Knot",
+      "meaning": {
+        "positive": "Connection and unity. The lark's head knot signifies the joining of two paths or ideas, fostering collaboration.",
+        "negative": "Disconnection or lack of commitment. You may feel that your connections are superficial or not fully realized."
+      }
+    },
+    {
+      "knot_pattern": "Sheepshank Knot",
+      "meaning": {
+        "positive": "Temporary solutions and adaptability. The sheepshank knot represents the ability to manage and adjust to changing circumstances.",
+        "negative": "Instability or lack of permanence. You may be relying on makeshift solutions that are not sustainable."
+      }
+    },
+    {
+      "knot_pattern": "Trucker's Hitch",
+      "meaning": {
+        "positive": "Control and security. The trucker's hitch symbolizes the ability to secure your goals and maintain control over your situation.",
+        "negative": "Overextension or being too controlling. You may be trying to hold onto too much, leading to stress or burnout."
+      }
+    },
+    {
+      "knot_pattern": "Alpine Butterfly Knot",
+      "meaning": {
+        "positive": "Strength and versatility. The alpine butterfly knot represents the ability to create multiple loops and connections, symbolizing resourcefulness.",
+        "negative": "Overcommitment or distraction. You may be spreading yourself too thin and losing focus on your primary goals."
+      }
+    },
+    {
+      "knot_pattern": "Buntline Hitch",
+      "meaning": {
+        "positive": "Stability and security. The buntline hitch signifies a strong hold on your ambitions and the ability to stay grounded.",
+        "negative": "Stagnation or fear of change. You may be hesitant to take risks or explore new opportunities."
+      }
+    },
+    {
+      "knot_pattern": "Taut-Line Hitch",
+      "meaning": {
+        "positive": "Flexibility and adaptability. The taut-line hitch symbolizes the ability to adjust your approach as circumstances change.",
+        "negative": "Inconsistency or unpredictability. You may struggle to maintain a steady course in your endeavors."
+      }
+    },
+    {
+      "knot_pattern": "Fisherman's Knot",
+      "meaning": {
+        "positive": "Connection and unity. The fisherman's knot symbolizes the joining of two elements, representing collaboration and teamwork.",
+        "negative": "Fragility or vulnerability. You may feel that your connections are weak or easily broken."
+      }
+    },
+    {
+      "knot_pattern": "Constrictor Knot",
+      "meaning": {
+        "positive": "Control and dominance. The constrictor knot signifies a strong hold over a situation, indicating power and influence.",
+        "negative": "Oppression or suffocation. You may feel overwhelmed or restricted by external pressures."
+      }
+    },
+    {
+      "knot_pattern": "Sheet Bend",
+      "meaning": {
+        "positive": "Adaptability and resourcefulness. The sheet bend represents the ability to connect different ideas or paths effectively.",
+        "negative": "Incompatibility or disconnection. You may struggle to integrate different aspects of your life."
+      }
+    },
+    {
+      "knot_pattern": "Bowline on a Bight",
+      "meaning": {
+        "positive": "Safety and security in uncertain situations. This knot provides a reliable loop for rescue or support.",
+        "negative": "Overconfidence in safety. You may be taking unnecessary risks, believing you are secure."
+      }
+    },
+    {
+      "knot_pattern": "Monkey's Fist",
+      "meaning": {
+        "positive": "Strength and protection. The monkey's fist knot symbolizes a strong defense against challenges.",
+        "negative": "Aggression or hostility. You may be overly defensive or confrontational in your interactions."
+      }
+    },
+    {
+      "knot_pattern": "Carrick Bend",
+      "meaning": {
+        "positive": "Unity and connection. The carrick bend represents strong bonds and the ability to work together.",
+        "negative": "Complexity or confusion. You may be facing challenges in collaboration or communication."
+      }
+    },
+    {
+      "knot_pattern": "Water Knot",
+      "meaning": {
+        "positive": "Security and permanence. The water knot signifies a strong and lasting connection, often used in climbing and outdoor activities.",
+        "negative": "False security. You may feel overly confident in a situation that requires caution."
+      }
+    },
+    {
+      "knot_pattern": "Zigzag Knot",
+      "meaning": {
+        "positive": "Creativity and innovation. The zigzag knot represents the ability to think outside the box and find unique solutions.",
+        "negative": "Disorder or chaos. You may be struggling to maintain focus or direction in your endeavors."
+      }
+    },
+    {
+      "knot_pattern": "Flemish Bend",
+      "meaning": {
+        "positive": "Stability and reliability. The Flemish bend is known for its strength and is often used in climbing.",
+        "negative": "Overconfidence in stability. You may be relying too heavily on a situation that is not as secure as it seems."
+      }
+    },
+    {
+      "knot_pattern": "Prusik Knot",
+      "meaning": {
+        "positive": "Self-reliance and independence. The Prusik knot allows for movement while providing security.",
+        "negative": "Isolation or detachment. You may feel that you are too independent and missing out on support from others."
+      }
+    },
+    {
+      "knot_pattern": "Clove Hitch",
+      "meaning": {
+        "positive": "Flexibility and adaptability. The clove hitch allows for quick adjustments and changes in direction.",
+        "negative": "Instability. You may feel that your plans are not secure or that you are easily swayed."
+      }
+    },
+    {
+      "knot_pattern": "Bowline Knot",
+      "meaning": {
+        "positive": "Trust and reliability. The bowline knot signifies a dependable connection.",
+        "negative": "Overconfidence. You may be too trusting in situations that require caution."
+      }
+    },
+    {
+      "knot_pattern": "Tangle Knot",
+      "meaning": {
+        "positive": "Complexity and depth. The tangle knot represents intricate relationships and situations.",
+        "negative": "Confusion. You may feel overwhelmed by the complexity of your circumstances."
+      }
+    },
+    {
+      "knot_pattern": "Fisherman's Bend",
+      "meaning": {
+        "positive": "Collaboration and teamwork. The fisherman's bend signifies working together towards a common goal.",
+        "negative": "Dependency. You may feel reliant on others for support."
+      }
+    },
+    {
+      "knot_pattern": "Braid Knot",
+      "meaning": {
+        "positive": "Unity and strength. The braid knot symbolizes the power of combined efforts.",
+        "negative": "Disconnection. You may feel that your connections are fraying or weak."
+      }
+    },
+    {
+      "knot_pattern": "Sailor's Knot",
+      "meaning": {
+        "positive": "Adventure and exploration. The sailor's knot represents a journey into the unknown.",
+        "negative": "Risk. You may be venturing into uncertain territory without adequate preparation."
+      }
+    },
+    {
+      "knot_pattern": "Crown Knot",
+      "meaning": {
+        "positive": "Achievement and success. The crown knot signifies reaching a pinnacle or goal.",
+        "negative": "Ego. You may be overly focused on personal success at the expense of others."
+      }
+    },
+    {
+      "knot_pattern": "Lasso Knot",
+      "meaning": {
+        "positive": "Control and capture. The lasso knot represents the ability to seize opportunities.",
+        "negative": "Restriction. You may feel trapped by your own ambitions."
+      }
+    },
+    {
+      "knot_pattern": "Buntline Hitch",
+      "meaning": {
+        "positive": "Stability and security. The buntline hitch signifies a strong hold on your ambitions.",
+        "negative": "Fear of change. You may be hesitant to take risks or explore new opportunities."
+      }
+    },
+    {
+      "knot_pattern": "Overhand Knot",
+      "meaning": {
+        "positive": "Simplicity and straightforwardness. The overhand knot represents basic connections.",
+        "negative": "Lack of depth. You may be overlooking important details in your life."
+      }
+    },
+    {
+      "knot_pattern": "Figure Eight on a Bight",
+      "meaning": {
+        "positive": "Safety and security. This knot provides a reliable loop for safety.",
+        "negative": "Overconfidence. You may be taking unnecessary risks, believing you are secure."
+      }
+    },
+    {
+      "knot_pattern": "Trucker's Hitch",
+      "meaning": {
+        "positive": "Control and security. The trucker's hitch symbolizes the ability to secure your goals.",
+        "negative": "Overextension. You may be trying to hold onto too much, leading to stress."
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "method": "Shakespeare Bibliomancy",
+  "plays": {
+    "Hamlet": {
+      "act_1_scene_1": {
+        "verse_1": "To be, or not to be: that is the question..."
+      }
+    },
+    "Macbeth": {
+      "act_1_scene_3": {
+        "verse_1": "Fair is foul, and foul is fair: Hover through the fog and filthy air."
+      }
+    }
+  },
+  "interpretation": {
+    "verse_1": "Questions the meaning of existence and purpose.",
+    "verse_2": "Highlights the duality and ambiguity of morality."
+  }
+}

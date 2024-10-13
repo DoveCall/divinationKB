@@ -1,0 +1,60 @@
+{
+    "sortilege": [
+      {
+        "name": "Good Fortune",
+        "meaning": {
+          "positive": "A time of prosperity and success is ahead. This omen suggests that your efforts will be rewarded, and good fortune is in your favor.",
+          "negative": "Overconfidence may lead to mistakes. Be careful of excessive pride and avoid reckless behavior."
+        }
+      },
+      {
+        "name": "Bad Omen",
+        "meaning": {
+          "positive": "This warning helps you avoid danger and make wiser decisions. Learn from mistakes and be cautious of the road ahead.",
+          "negative": "Difficult times are approaching. You may face challenges or disruptions in your plans, but perseverance will be key."
+        }
+      },
+      {
+        "name": "New Opportunity",
+        "meaning": {
+          "positive": "A fresh start or new venture is on the horizon. Embrace change and be open to new ideas, as they will bring positive outcomes.",
+          "negative": "Be wary of taking on too much or too many new responsibilities. Opportunities may come with unforeseen complications."
+        }
+      },
+      {
+        "name": "End of a Cycle",
+        "meaning": {
+          "positive": "A chapter in your life is closing, making way for new beginnings. Completion brings a sense of accomplishment and fulfillment.",
+          "negative": "Holding onto the past or fearing change will hinder your growth. Embrace endings with grace and prepare for renewal."
+        }
+      },
+      {
+        "name": "Conflict",
+        "meaning": {
+          "positive": "Tension can spark creative solutions. Embrace conflict as an opportunity to assert yourself and learn from the experience.",
+          "negative": "A disagreement or power struggle may arise. It’s important to avoid escalating conflicts, and seek peaceful resolutions."
+        }
+      },
+      {
+        "name": "Hidden Truths",
+        "meaning": {
+          "positive": "Secrets or unknown aspects will soon be revealed. Pay attention to your intuition and trust the information that comes to light.",
+          "negative": "Deception or hidden motives may be at play. Be careful who you trust, and take extra steps to uncover the full story."
+        }
+      },
+      {
+        "name": "Unexpected Visitor",
+        "meaning": {
+          "positive": "An important figure or surprise opportunity will come your way. This unexpected occurrence may bring joy or support.",
+          "negative": "A disruption or unwelcome event may occur. Be prepared to adjust your plans and remain flexible."
+        }
+      },
+      {
+        "name": "Divine Message",
+        "meaning": {
+          "positive": "Pay close attention to signs and symbols around you, as the divine is trying to communicate. Trust your inner guidance.",
+          "negative": "Spiritual messages may be misinterpreted or missed. Be patient and take time to reflect deeply before acting on any intuitions."
+        }
+      }
+    ]
+  }

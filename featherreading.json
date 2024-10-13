@@ -1,0 +1,340 @@
+{
+  "feather_divination": [
+    {
+      "feather": {
+        "color": "White",
+        "species": "Dove",
+        "condition": "Pristine",
+        "location": "Indoors",
+        "markings": "None"
+      },
+      "meaning": {
+        "positive": "Purity, protection, and peace. A white, pristine feather from a dove found indoors symbolizes spiritual protection and calm in personal matters.",
+        "negative": "Naivety or avoidance of conflict. You may be turning a blind eye to an important issue in your home or personal life.",
+        "contextual": "The indoor location suggests introspection and personal reflection.",
+        "cultural_significance": "In many cultures, doves symbolize peace and love.",
+        "historical_context": "Doves have been used in various rituals to symbolize hope and new beginnings."
+      },
+      "symbolic_associations": {
+        "element": "Air",
+        "astrology": "Libra",
+        "chakra": "Heart",
+        "numerology": "6 (harmony and balance)"
+      },
+      "practical_guidance": {
+        "meditation": "Focus on your heart space and visualize white light surrounding you.",
+        "journaling_prompt": "What areas of your life need more peace and clarity?",
+        "affirmation": "I embrace peace and harmony in my life.",
+        "action_steps": "Engage in a calming activity, such as yoga or meditation."
+      }
+    },
+    {
+      "feather": {
+        "color": "Black",
+        "species": "Crow",
+        "condition": "Molted",
+        "location": "In Nature",
+        "markings": "Striped"
+      },
+      "meaning": {
+        "positive": "Transformation, mystery, and insight. A black molted crow feather with stripes found in nature indicates a significant personal transformation is underway, revealing hidden truths.",
+        "negative": "Confusion or fear of the unknown. You may be hesitant to embrace change or struggling with uncertainty.",
+        "contextual": "The natural setting suggests a connection to the earth and the cycles of life.",
+        "cultural_significance": "Crows are often seen as messengers between worlds in various cultures.",
+        "historical_context": "In many traditions, crows are viewed as omens or symbols of change."
+      },
+      "symbolic_associations": {
+        "element": "Air",
+        "astrology": "Scorpio",
+        "chakra": "Root",
+        "numerology": "7 (spiritual awakening)"
+      },
+      "practical_guidance": {
+        "meditation": "Reflect on the changes in your life and embrace the unknown.",
+        "journaling_prompt": "What transformations are you currently experiencing?",
+        "affirmation": "I welcome change and transformation in my life.",
+        "action_steps": "Take a step towards a change you've been avoiding."
+      }
+    },
+    {
+      "feather": {
+        "color": "Brown",
+        "species": "Owl",
+        "condition": "Broken",
+        "location": "Near Water",
+        "markings": "Spotted"
+      },
+      "meaning": {
+        "positive": "Wisdom and emotional healing. A brown spotted feather from an owl found near water symbolizes deep emotional wisdom and the process of healing from past experiences.",
+        "negative": "Emotional stagnation or resistance to learning from past mistakes. You may be stuck in old patterns, struggling to move forward.",
+        "contextual": "The proximity to water suggests emotional depth and reflection.",
+        "cultural_significance": "Owls are often associated with wisdom and the ability to see what others cannot.",
+        "historical_context": "In ancient cultures, owls were seen as protectors of the underworld and guides for the soul."
+      },
+      "symbolic_associations": {
+        "element": "Earth",
+        "astrology": "Pisces",
+        "chakra": "Third Eye",
+        "numerology": "9 (completion and wisdom)"
+      },
+      "practical_guidance": {
+        "meditation": "Visualize healing light washing over you as you reflect on past experiences.",
+        "journaling_prompt": "What lessons have you learned from your past?",
+        "affirmation": "I embrace my wisdom and learn from my experiences.",
+        "action_steps": "Engage in a reflective practice, such as journaling or therapy."
+      }
+    },
+    {
+      "feather": {
+        "color": "Gray",
+        "species": "Eagle",
+        "condition": "Pristine",
+        "location": "Near a Doorway",
+        "markings": "None"
+      },
+      "meaning": {
+        "positive": "Balance and opportunity. A gray, pristine eagle feather found near a doorway suggests that a new opportunity for personal balance and harmony is approaching.",
+        "negative": "Indecision or reluctance to move forward. You may feel stuck in a gray area, unable to decide whether to take advantage of a new opportunity.",
+        "contextual": "The doorway symbolizes transitions and new beginnings.",
+        "cultural_significance": "Eagles are often seen as symbols of freedom and vision.",
+        "historical_context": "In many Native American cultures, eagles are revered as spiritual messengers."
+      },
+      "symbolic_associations": {
+        "element": "Air",
+        "astrology": "Sagittarius",
+        "chakra": "Solar Plexus",
+        "numerology": "3 (creativity and growth)"
+      },
+      "practical_guidance": {
+        "meditation": "Envision yourself soaring like an eagle, embracing new opportunities.",
+        "journaling_prompt": "What opportunities are you hesitating to pursue?",
+        "affirmation": "I am open to new opportunities and experiences.",
+        "action_steps": "Identify one opportunity you want to pursue and take a small step towards it."
+      }
+    },
+    {
+      "feather": {
+        "color": "Blue",
+        "species": "Blue Jay",
+        "condition": "Pristine",
+        "location": "In Nature",
+        "markings": "Striped"
+      },
+      "meaning": {
+        "positive": "Communication, clarity, and wisdom. A blue pristine feather with stripes from a Blue Jay found in nature symbolizes clear communication and wisdom being imparted to you.",
+        "negative": "Miscommunication or lack of clarity. You may need to improve how you express yourself to avoid misunderstandings.",
+        "contextual": "The natural setting emphasizes the importance of being in tune with your surroundings.",
+        "cultural_significance": "Blue Jays are often seen as symbols of intelligence and adaptability.",
+        "historical_context": "In folklore, Blue Jays are considered protectors and bringers of messages."
+      },
+      "symbolic_associations": {
+        "element": "Air",
+        "astrology": "Gemini",
+        "chakra": "Throat",
+        "numerology": "5 (change and adaptability)"
+      },
+      "practical_guidance": {
+        "meditation": "Focus on your throat chakra and visualize clear communication.",
+        "journaling_prompt": "How can you express your thoughts more clearly?",
+        "affirmation": "I communicate my truth with clarity and confidence.",
+        "action_steps": "Practice active listening in your conversations."
+      }
+    },
+    {
+      "feather": {
+        "color": "Red",
+        "species": "Hawk",
+        "condition": "Molted",
+        "location": "Near Water",
+        "markings": "None"
+      },
+      "meaning": {
+        "positive": "Passion and strength. A red molted hawk feather near water suggests that emotional strength and clarity are emerging, and you have the power to pursue your passions.",
+        "negative": "Anger or impulsiveness. You may be acting too rashly in emotional matters, leading to tension.",
+        "contextual": "The water's presence indicates emotional depth and the need for balance.",
+        "cultural_significance": "Hawks are often seen as messengers and symbols of vision.",
+        "historical_context": "In various cultures, hawks are viewed as symbols of power and guardianship."
+      },
+      "symbolic_associations": {
+        "element": "Fire",
+        "astrology": "Aries",
+        "chakra": "Root",
+        "numerology": "1 (new beginnings)"
+      },
+      "practical_guidance": {
+        "meditation": "Visualize your passions igniting like a flame, guiding your actions.",
+        "journaling_prompt": "What passions are you currently pursuing or neglecting?",
+        "affirmation": "I embrace my passions and pursue them with confidence.",
+        "action_steps": "Identify one passion project and dedicate time to it this week."
+      }
+    },
+    {
+      "feather": {
+        "color": "Yellow",
+        "species": "Canary",
+        "condition": "Broken",
+        "location": "Indoors",
+        "markings": "None"
+      },
+      "meaning": {
+        "positive": "Optimism and creativity. A broken yellow feather from a canary found indoors suggests that despite difficulties, hope and creative inspiration are still available to you.",
+        "negative": "Caution or hesitancy. You may feel vulnerable or unsure about taking the next step in a creative or personal venture.",
+        "contextual": "The indoor setting indicates a need for self-reflection and nurturing creativity.",
+        "cultural_significance": "Canaries are often associated with joy and the expression of creativity.",
+        "historical_context": "Historically, canaries were used in coal mines as indicators of danger, symbolizing vigilance."
+      },
+      "symbolic_associations": {
+        "element": "Air",
+        "astrology": "Leo",
+        "chakra": "Solar Plexus",
+        "numerology": "2 (partnership and balance)"
+      },
+      "practical_guidance": {
+        "meditation": "Visualize a bright yellow light filling your creative space.",
+        "journaling_prompt": "What creative projects inspire you right now?",
+        "affirmation": "I embrace my creativity and express it freely.",
+        "action_steps": "Start a new creative project or hobby that excites you."
+      }
+    },
+    {
+      "feather": {
+        "color": "Green",
+        "species": "Parrot",
+        "condition": "Pristine",
+        "location": "In Nature",
+        "markings": "Multi-colored"
+      },
+      "meaning": {
+        "positive": "Growth, abundance, and healing. A green multi-colored feather from a parrot found in nature represents positive change and healing, especially in your relationships or health.",
+        "negative": "Envy or stagnation. You may be feeling jealous of others' progress or stuck in your personal growth.",
+        "contextual": "The natural setting emphasizes the importance of growth and connection to nature.",
+        "cultural_significance": "Parrots symbolize communication and vibrant life.",
+        "historical_context": "In some cultures, parrots are seen as messengers of the gods."
+      },
+      "symbolic_associations": {
+        "element": "Earth",
+        "astrology": "Taurus",
+        "chakra": "Heart",
+        "numerology": "4 (stability and foundation)"
+      },
+      "practical_guidance": {
+        "meditation": "Visualize green energy flowing through your body, promoting healing.",
+        "journaling_prompt": "What areas of your life are ripe for growth?",
+        "affirmation": "I welcome growth and abundance into my life.",
+        "action_steps": "Identify one area of your life where you want to see growth and take action."
+      }
+    },
+    {
+      "feather": {
+        "color": "Purple",
+        "species": "Raven",
+        "condition": "Molted",
+        "location": "Near a Doorway",
+        "markings": "None"
+      },
+      "meaning": {
+        "positive": "Spiritual insight and intuition. A purple molted feather from a raven found near a doorway symbolizes that new spiritual knowledge is being revealed, guiding you toward important decisions.",
+        "negative": "Overthinking or disconnect from practical matters. You may be too focused on abstract ideas and need to ground yourself in reality.",
+        "contextual": "The doorway symbolizes transitions and new beginnings.",
+        "cultural_significance": "Ravens are often seen as symbols of mystery and intelligence.",
+        "historical_context": "In various mythologies, ravens are considered guides for souls in the afterlife."
+      },
+      "symbolic_associations": {
+        "element": "Air",
+        "astrology": "Aquarius",
+        "chakra": "Third Eye",
+        "numerology": "11 (spiritual insight)"
+      },
+      "practical_guidance": {
+        "meditation": "Focus on your third eye chakra and seek clarity in your intuition.",
+        "journaling_prompt": "What intuitive insights have you been receiving?",
+        "affirmation": "I trust my intuition and embrace my spiritual journey.",
+        "action_steps": "Spend time in nature to ground yourself and connect with your intuition."
+      }
+    },
+    {
+      "feather": {
+        "color": "Orange",
+        "species": "Robin",
+        "condition": "Pristine",
+        "location": "Indoors",
+        "markings": "None"
+      },
+      "meaning": {
+        "positive": "Creativity, joy, and confidence. A pristine orange feather from a robin found indoors represents a burst of creative energy and enthusiasm, especially in your personal or home life.",
+        "negative": "Restlessness or lack of focus. You may be feeling scattered or unsure of how to channel your creative energy productively.",
+        "contextual": "The indoor setting suggests a need to nurture your creative spirit.",
+        "cultural_significance": "Robins are often seen as harbingers of spring and renewal.",
+        "historical_context": "In folklore, robins are associated with new beginnings and the arrival of spring."
+      },
+      "symbolic_associations": {
+        "element": "Fire",
+        "astrology": "Cancer",
+        "chakra": "Sacral",
+        "numerology": "3 (creativity and self-expression)"
+      },
+      "practical_guidance": {
+        "meditation": "Visualize a warm orange glow surrounding you, igniting your creativity.",
+        "journaling_prompt": "What creative outlets bring you joy?",
+        "affirmation": "I express my creativity with joy and confidence.",
+        "action_steps": "Engage in a creative activity that excites you."
+      }
+    },
+    {
+      "feather": {
+        "color": "Pink",
+        "species": "Flamingo",
+        "condition": "Pristine",
+        "location": "Near Water",
+        "markings": "None"
+      },
+      "meaning": {
+        "positive": "Love, beauty, and harmony. A pristine pink feather from a flamingo found near water symbolizes the presence of love and beauty in your life.",
+        "negative": "Superficiality or overindulgence. You may be focusing too much on appearances rather than deeper connections.",
+        "contextual": "The water's presence indicates emotional depth and the need for balance in relationships.",
+        "cultural_significance": "Flamingos are often associated with love and social connections.",
+        "historical_context": "In some cultures, flamingos are seen as symbols of beauty and grace."
+      },
+      "symbolic_associations": {
+        "element": "Water",
+        "astrology": "Libra",
+        "chakra": "Heart",
+        "numerology": "2 (partnership and balance)"
+      },
+      "practical_guidance": {
+        "meditation": "Visualize pink light surrounding your heart, inviting love and harmony.",
+        "journaling_prompt": "What relationships in your life need more attention and care?",
+        "affirmation": "I attract love and harmony into my life.",
+        "action_steps": "Reach out to someone you care about and express your feelings."
+      }
+    },
+    {
+      "feather": {
+        "color": "Gold",
+        "species": "Goldfinch",
+        "condition": "Pristine",
+        "location": "In Nature",
+        "markings": "None"
+      },
+      "meaning": {
+        "positive": "Wealth, prosperity, and joy. A pristine gold feather from a goldfinch found in nature symbolizes abundance and joy coming into your life.",
+        "negative": "Greed or materialism. You may be focusing too much on material wealth at the expense of emotional fulfillment.",
+        "contextual": "The natural setting emphasizes the importance of appreciating life's simple joys.",
+        "cultural_significance": "Goldfinches are often seen as symbols of prosperity and happiness.",
+        "historical_context": "In folklore, goldfinches are associated with good fortune and joy."
+      },
+      "symbolic_associations": {
+        "element": "Fire",
+        "astrology": "Leo",
+        "chakra": "Solar Plexus",
+        "numerology": "1 (new beginnings)"
+      },
+      "practical_guidance": {
+        "meditation": "Visualize golden light surrounding you, attracting abundance.",
+        "journaling_prompt": "What brings you true joy beyond material possessions?",
+        "affirmation": "I am open to receiving abundance and joy.",
+        "action_steps": "Practice gratitude by listing things you are thankful for."
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "method": "Book of Shadows Bibliomancy",
+  "spells": {
+    "spell_1": {
+      "verse_1": "By the light of the moon, I cast my will, to bring about change, and magic fulfill."
+    },
+    "spell_2": {
+      "verse_1": "As above, so below, let my desires to the universe flow."
+    }
+  },
+  "interpretation": {
+    "verse_1": "Focuses on the manifestation of personal will and power.",
+    "verse_2": "A reminder of cosmic balance and harmony in desires."
+  }
+}

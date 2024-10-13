@@ -1,0 +1,158 @@
+{
+  "tarot_reversals": [
+    {
+      "card": "The Fool",
+      "reversed_meaning": {
+        "positive": "A need for caution or careful planning. While the Fool typically represents new beginnings, its reversal suggests avoiding impulsiveness.",
+        "negative": "Recklessness, poor judgment, or naivety. The reversed Fool warns against taking unnecessary risks."
+      }
+    },
+    {
+      "card": "The Magician",
+      "reversed_meaning": {
+        "positive": "A time to pause and refine your skills. The reversed Magician may suggest that you need to master your abilities before moving forward.",
+        "negative": "Manipulation, deceit, or misuse of power. The reversed Magician can indicate trickery or underhanded behavior."
+      }
+    },
+    {
+      "card": "The High Priestess",
+      "reversed_meaning": {
+        "positive": "Trusting external guidance rather than intuition. The reversed High Priestess may suggest seeking wisdom from others.",
+        "negative": "Secrets, blocked intuition, or hidden truths. The reversed card can represent something being withheld or a lack of self-awareness."
+      }
+    },
+    {
+      "card": "The Empress",
+      "reversed_meaning": {
+        "positive": "An opportunity to focus on self-care and personal growth. The reversed Empress encourages nurturing yourself.",
+        "negative": "Neglect, dependence, or overindulgence. The reversed Empress suggests a disconnection from natural rhythms or creativity."
+      }
+    },
+    {
+      "card": "The Emperor",
+      "reversed_meaning": {
+        "positive": "A chance to rethink authority and structure in your life. The reversed Emperor may indicate finding flexibility in rigid systems.",
+        "negative": "Domination, control, or lack of discipline. The reversed Emperor warns of authoritarian tendencies or power struggles."
+      }
+    },
+    {
+      "card": "The Hierophant",
+      "reversed_meaning": {
+        "positive": "Encouragement to break away from traditional values or norms. The reversed Hierophant may indicate the need to seek personal truths.",
+        "negative": "Dogma, rigidity, or intolerance. The reversed Hierophant warns of blind adherence to rules or authority without question."
+      }
+    },
+    {
+      "card": "The Lovers",
+      "reversed_meaning": {
+        "positive": "A time for introspection and self-love. The reversed Lovers may suggest focusing on personal values rather than external relationships.",
+        "negative": "Disharmony, imbalance, or conflict in relationships. The reversed Lovers point to difficulties in making choices or aligning with others."
+      }
+    },
+    {
+      "card": "The Chariot",
+      "reversed_meaning": {
+        "positive": "A moment to slow down and reconsider your direction. The reversed Chariot suggests that reassessing your goals may be beneficial.",
+        "negative": "Lack of control, indecision, or stagnation. The reversed Chariot warns against forcing things forward without clarity."
+      }
+    },
+    {
+      "card": "Strength",
+      "reversed_meaning": {
+        "positive": "The reversed Strength card can indicate a time to tap into inner reserves of patience and compassion.",
+        "negative": "Self-doubt, weakness, or a lack of confidence. The reversed Strength suggests a need to overcome personal fears."
+      }
+    },
+    {
+      "card": "The Hermit",
+      "reversed_meaning": {
+        "positive": "An invitation to seek connection rather than isolation. The reversed Hermit suggests rejoining the world after a period of introspection.",
+        "negative": "Loneliness, withdrawal, or avoidance. The reversed Hermit warns against excessive isolation or disconnection from others."
+      }
+    },
+    {
+      "card": "Wheel of Fortune",
+      "reversed_meaning": {
+        "positive": "A reminder to remain adaptable and open to change. The reversed Wheel of Fortune encourages finding growth in adversity.",
+        "negative": "Resistance to change, bad luck, or external setbacks. The reversed Wheel of Fortune warns of feeling stuck in a cycle or facing challenges."
+      }
+    },
+    {
+      "card": "Justice",
+      "reversed_meaning": {
+        "positive": "A time to examine fairness and make amends. The reversed Justice suggests seeking balance and accountability.",
+        "negative": "Dishonesty, imbalance, or unfair treatment. The reversed Justice warns against a lack of integrity or facing unjust outcomes."
+      }
+    },
+    {
+      "card": "The Hanged Man",
+      "reversed_meaning": {
+        "positive": "An opportunity to take action after a period of waiting. The reversed Hanged Man suggests that the time for contemplation is over.",
+        "negative": "Stubbornness, resistance, or feeling stuck. The reversed Hanged Man warns against avoiding necessary sacrifices or changes."
+      }
+    },
+    {
+      "card": "Death",
+      "reversed_meaning": {
+        "positive": "A time of transformation and renewal. The reversed Death card encourages letting go of the old to welcome the new.",
+        "negative": "Fear of change, stagnation, or clinging to the past. The reversed Death card warns of resisting necessary transitions."
+      }
+    },
+    {
+      "card": "Temperance",
+      "reversed_meaning": {
+        "positive": "A chance to reassess balance and harmony in your life. The reversed Temperance card suggests finding moderation.",
+        "negative": "Imbalance, excess, or lack of control. The reversed Temperance warns of extremes or neglecting self-care."
+      }
+    },
+    {
+      "card": "The Devil",
+      "reversed_meaning": {
+        "positive": "A time to break free from negative patterns or addictions. The reversed Devil encourages liberation from unhealthy influences.",
+        "negative": "Bondage, temptation, or materialism. The reversed Devil warns of being trapped by desires or unhealthy attachments."
+      }
+    },
+    {
+      "card": "The Tower",
+      "reversed_meaning": {
+        "positive": "A period of rebuilding after upheaval. The reversed Tower suggests that lessons have been learned and progress is being made.",
+        "negative": "Avoidance of change, fear of disaster, or denial. The reversed Tower warns of delaying inevitable transformations."
+      }
+    },
+    {
+      "card": "The Star",
+      "reversed_meaning": {
+        "positive": "An invitation to find hope within yourself. The reversed Star encourages inner healing and personal faith.",
+        "negative": "Despair, loss of faith, or a lack of direction. The reversed Star warns of losing sight of one's dreams or purpose."
+      }
+    },
+    {
+      "card": "The Moon",
+      "reversed_meaning": {
+        "positive": "Clarity and overcoming illusions. The reversed Moon suggests that hidden truths are coming to light.",
+        "negative": "Confusion, deception, or fear. The reversed Moon warns of being misled or caught in uncertainty."
+      }
+    },
+    {
+      "card": "The Sun",
+      "reversed_meaning": {
+        "positive": "A period of growth and personal fulfillment. The reversed Sun encourages finding joy in small moments.",
+        "negative": "Overconfidence, arrogance, or clouded judgment. The reversed Sun warns against ignoring important details or becoming complacent."
+      }
+    },
+    {
+      "card": "Judgment",
+      "reversed_meaning": {
+        "positive": "A time of self-reflection and inner clarity. The reversed Judgment encourages examining personal decisions and growth.",
+        "negative": "Self-doubt, fear of judgment, or avoiding responsibility. The reversed Judgment warns of reluctance to make important life changes."
+      }
+    },
+    {
+      "card": "The World",
+      "reversed_meaning": {
+        "positive": "An invitation to tie up loose ends before moving forward. The reversed World suggests completing unfinished business.",
+        "negative": "Incompletion, delays, or lack of closure. The reversed World warns of resisting finality or feeling stuck at the end of a cycle."
+      }
+    }
+  ]
+}

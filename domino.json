@@ -1,0 +1,200 @@
+{
+  "domino_divination": [
+    {
+      "domino": "0-0",
+      "meaning": {
+        "positive": "A time for rest, introspection, and renewal. This is a quiet period where little change will occur, but it’s a good opportunity for self-reflection.",
+        "negative": "Stagnation or lack of progress. You may feel stuck or unmotivated, and it's important to find ways to break through."
+      }
+    },
+    {
+      "domino": "0-1",
+      "meaning": {
+        "positive": "New beginnings or a fresh start in a project or relationship. This marks the start of something important in your life.",
+        "negative": "Uncertainty about the future or hesitation to begin a new journey. Fear of failure may be holding you back."
+      }
+    },
+    {
+      "domino": "0-2",
+      "meaning": {
+        "positive": "Partnerships and cooperation. You are likely to find success by collaborating with others and seeking support.",
+        "negative": "A potential for misunderstandings or discord in partnerships. You may need to work on improving communication."
+      }
+    },
+    {
+      "domino": "0-3",
+      "meaning": {
+        "positive": "Creativity and self-expression. You are entering a time of artistic inspiration and joyful pursuits.",
+        "negative": "Scattered focus or too many distractions. You may need to concentrate on one task to avoid feeling overwhelmed."
+      }
+    },
+    {
+      "domino": "0-4",
+      "meaning": {
+        "positive": "Stability and foundation. This is a time to focus on creating a secure base for future endeavors.",
+        "negative": "Rigid thinking or reluctance to adapt. You may need to be more flexible in your approach."
+      }
+    },
+    {
+      "domino": "0-5",
+      "meaning": {
+        "positive": "Change is coming, especially in financial or material matters. This domino suggests growth and expansion.",
+        "negative": "Instability or financial setbacks. You may face unexpected expenses or a period of uncertainty in money matters."
+      }
+    },
+    {
+      "domino": "0-6",
+      "meaning": {
+        "positive": "Harmony and balance in relationships. This is a good time for resolving conflicts and strengthening bonds.",
+        "negative": "A period of disharmony or disconnection from loved ones. You may need to work on resolving emotional issues."
+      }
+    },
+    {
+      "domino": "1-1",
+      "meaning": {
+        "positive": "Strong foundations and personal development. This is a time for self-reliance and individual growth.",
+        "negative": "Over-dependence on others. You may need to assert your independence and make decisions for yourself."
+      }
+    },
+    {
+      "domino": "1-2",
+      "meaning": {
+        "positive": "A new partnership or collaboration. Success will come through cooperation with others.",
+        "negative": "Difficulty working with others or trust issues. You may need to focus on building trust and improving communication."
+      }
+    },
+    {
+      "domino": "1-3",
+      "meaning": {
+        "positive": "Creative endeavors and new ideas. You are entering a phase of innovation and fresh concepts.",
+        "negative": "Lack of focus or distraction from too many ideas. You may need to narrow your goals to achieve success."
+      }
+    },
+    {
+      "domino": "1-4",
+      "meaning": {
+        "positive": "Structure and discipline. This is a time for organizing your life and setting long-term plans.",
+        "negative": "Resistance to change or rigidity in thinking. You may need to adopt a more open-minded approach."
+      }
+    },
+    {
+      "domino": "1-5",
+      "meaning": {
+        "positive": "Financial improvement or material gain. This domino indicates positive changes in wealth or resources.",
+        "negative": "Greed or over-ambition. Be careful not to let material desires lead to poor decisions."
+      }
+    },
+    {
+      "domino": "1-6",
+      "meaning": {
+        "positive": "Completion and success. You are approaching the end of a significant phase in your life with favorable outcomes.",
+        "negative": "A fear of endings or reluctance to move on. It’s important to embrace closure and new beginnings."
+      }
+    },
+    {
+      "domino": "2-2",
+      "meaning": {
+        "positive": "A strong partnership or duality. This domino suggests balance and harmony in relationships or collaborations.",
+        "negative": "Conflict or imbalance in partnerships. You may face difficulties in maintaining harmony with others."
+      }
+    },
+    {
+      "domino": "2-3",
+      "meaning": {
+        "positive": "Creative expression and the beginning of something new. This is a great time to explore new ideas and opportunities.",
+        "negative": "Lack of inspiration or creative blockages. You may feel stagnant or stuck in a routine."
+      }
+    },
+    {
+      "domino": "2-4",
+      "meaning": {
+        "positive": "Growth and expansion. This domino indicates progress and the development of new skills or ideas.",
+        "negative": "Overexpansion or taking on too much. Be careful not to spread yourself too thin."
+      }
+    },
+    {
+      "domino": "2-5",
+      "meaning": {
+        "positive": "Financial growth or new material opportunities. You may experience increased wealth or abundance.",
+        "negative": "Potential financial loss or missed opportunities. It's important to manage resources carefully."
+      }
+    },
+    {
+      "domino": "2-6",
+      "meaning": {
+        "positive": "Balance in relationships and partnerships. This is a time for fostering harmony and mutual understanding.",
+        "negative": "Imbalance or disconnection in relationships. You may need to work on improving communication and empathy."
+      }
+    },
+    {
+      "domino": "3-3",
+      "meaning": {
+        "positive": "Creativity and collaboration. This domino indicates a period of teamwork and shared success.",
+        "negative": "Lack of cooperation or too many conflicting ideas. You may struggle to find common ground with others."
+      }
+    },
+    {
+      "domino": "3-4",
+      "meaning": {
+        "positive": "Expansion of ideas and plans. This is a time to think big and push forward with new ventures.",
+        "negative": "Overexpansion or scattered focus. You may need to rein in your ideas and concentrate on one goal at a time."
+      }
+    },
+    {
+      "domino": "3-5",
+      "meaning": {
+        "positive": "Positive financial growth or new opportunities for material gain. You are entering a prosperous phase.",
+        "negative": "Potential losses or setbacks in financial matters. Be mindful of where you invest your time and resources."
+      }
+    },
+    {
+      "domino": "3-6",
+      "meaning": {
+        "positive": "Harmony in relationships and partnerships. This is a time for mutual support and understanding.",
+        "negative": "Conflict or misunderstandings in relationships. You may need to work on resolving issues with loved ones."
+      }
+    },
+    {
+      "domino": "4-4",
+      "meaning": {
+        "positive": "Stability and security in all aspects of life. This is a time to focus on creating a solid foundation.",
+        "negative": "Stubbornness or resistance to change. You may need to embrace flexibility and adaptability."
+      }
+    },
+    {
+      "domino": "4-5",
+      "meaning": {
+        "positive": "Material success and abundance. This domino indicates financial growth and stability.",
+        "negative": "Overemphasis on material wealth. Be cautious of letting greed or desire for success cloud your judgment."
+      }
+    },
+    {
+      "domino": "4-6",
+      "meaning": {
+        "positive": "Balance and harmony in relationships. This is a time for mutual understanding and emotional connection.",
+        "negative": "Disharmony or conflict in relationships. You may need to address unresolved issues with loved ones."
+      }
+    },
+    {
+      "domino": "5-5",
+      "meaning": {
+        "positive": "Significant growth and expansion. This domino suggests financial success or personal development.",
+        "negative": "Greed or overambition. You may be pushing yourself too hard or pursuing material success at the expense of other areas."
+      }
+    },
+    {
+      "domino": "5-6",
+      "meaning": {
+        "positive": "Completion of a cycle or phase. This domino suggests success and accomplishment in your endeavors.",
+        "negative": "Fear of moving on or closing a chapter. You may need to embrace endings and new beginnings."
+      }
+    },
+    {
+      "domino": "6-6",
+      "meaning": {
+        "positive": "Ultimate harmony and balance in all areas of life. This domino represents fulfillment and completion.",
+        "negative": "Complacency or overindulgence. Be cautious of becoming too comfortable and neglecting future growth."
+      }
+    }
+  ]
+}

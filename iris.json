@@ -1,0 +1,32 @@
+{
+  "iris_divination": [
+    {
+      "iris_marking": "Bright spots",
+      "meaning": {
+        "positive": "Energy, creativity, and vitality. Bright spots in the iris suggest a burst of energy or creative insight.",
+        "negative": "Restlessness or overstimulation. You may be feeling overwhelmed or scattered in your energy."
+      }
+    },
+    {
+      "iris_marking": "Dark patches",
+      "meaning": {
+        "positive": "Grounding, introspection, and depth. Dark patches suggest that you are connecting with deeper emotional or spiritual layers.",
+        "negative": "Depression, negativity, or unresolved trauma. Dark patches may indicate emotional blockages or past pain."
+      }
+    },
+    {
+      "iris_marking": "Concentric circles",
+      "meaning": {
+        "positive": "Harmony, balance, and focus. Concentric circles suggest a need for centering and aligning different aspects of your life.",
+        "negative": "Overthinking or obsessive behavior. You may be fixating on something to the detriment of your overall well-being."
+      }
+    },
+    {
+      "iris_marking": "Streaks",
+      "meaning": {
+        "positive": "Movement, progress, and dynamic change. Streaks in the iris suggest that you are moving toward a goal with clear direction.",
+        "negative": "Unresolved tension or scattered focus. You may be feeling pulled in too many directions at once."
+      }
+    }
+  ]
+}

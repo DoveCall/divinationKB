@@ -1,0 +1,32 @@
+{
+  "aura_reading": [
+    {
+      "aura_color": "Red",
+      "meaning": {
+        "positive": "Passion, energy, and vitality. A red aura represents dynamic energy and the desire to take action.",
+        "negative": "Anger, aggression, or impatience. A red aura may indicate frustration or difficulty managing intense emotions."
+      }
+    },
+    {
+      "aura_color": "Blue",
+      "meaning": {
+        "positive": "Calm, communication, and clarity. A blue aura suggests inner peace and the ability to express oneself clearly.",
+        "negative": "Emotional suppression or withdrawal. You may be holding back your feelings or avoiding difficult conversations."
+      }
+    },
+    {
+      "aura_color": "Yellow",
+      "meaning": {
+        "positive": "Optimism, creativity, and intellect. A yellow aura signifies a bright, creative mind and positive outlook.",
+        "negative": "Overthinking or anxiety. You may be caught up in mental loops, struggling to let go of worries."
+      }
+    },
+    {
+      "aura_color": "Green",
+      "meaning": {
+        "positive": "Healing, growth, and compassion. A green aura represents healing energy, both physical and emotional.",
+        "negative": "Jealousy, stagnation, or resentment. You may be holding onto negative feelings that are blocking your growth."
+      }
+    }
+  ]
+}

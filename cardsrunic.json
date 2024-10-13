@@ -1,0 +1,487 @@
+{
+  "runic_cards": [
+    {
+      "rune": "Fehu",
+      "meaning": {
+        "upright": "Wealth, prosperity, and abundance. Fehu indicates financial success and the rewards of hard work.",
+        "reversed": "Loss of wealth or missed opportunities. There may be challenges in managing resources or financial instability."
+      },
+      "element": "Earth",
+      "associated_deity": "Freyja",
+      "keywords": ["wealth", "prosperity", "abundance", "success", "material gain"],
+      "historical_context": "Fehu is the first rune of the Elder Futhark and represents cattle, a symbol of wealth in ancient societies.",
+      "symbol": "ᚠ",
+      "practical_application": "Use Fehu in rituals focused on attracting wealth and abundance.",
+      "affirmation": "I am open to receiving abundance in all forms.",
+      "related_runes": ["Gebo", "Uruz"],
+      "cultural_significance": "Freyja, associated with love and fertility, also governs wealth and prosperity.",
+      "usage_in_spells": "Incorporate Fehu in spells for financial success or to enhance personal resources.",
+      "numerical_association": 1,
+      "astrological_correspondence": "Venus",
+      "meditation_practice": "Visualize a golden light surrounding you, representing abundance and prosperity.",
+      "practical_exercise": "Create a vision board focused on your financial goals and desires."
+    },
+    {
+      "rune": "Uruz",
+      "meaning": {
+        "upright": "Strength, endurance, and vitality. Uruz symbolizes physical and emotional strength, encouraging perseverance.",
+        "reversed": "Weakness, exhaustion, or loss of control. You may be feeling drained or unable to handle a current challenge."
+      },
+      "element": "Earth",
+      "associated_deity": "Tyr",
+      "keywords": ["strength", "endurance", "vitality"],
+      "historical_context": "Uruz represents the wild aurochs, a powerful and untamed animal, symbolizing strength and resilience.",
+      "symbol": "ᚢ",
+      "practical_application": "Invoke Uruz for physical strength and endurance in challenging situations.",
+      "affirmation": "I am strong and resilient, capable of overcoming any challenge.",
+      "related_runes": ["Tiwaz", "Eihwaz"],
+      "cultural_significance": "Tyr, the god of war and justice, embodies the qualities of strength and honor.",
+      "usage_in_spells": "Use Uruz in spells for physical health and vitality.",
+      "numerical_association": 2,
+      "astrological_correspondence": "Mars",
+      "meditation_practice": "Visualize a powerful aurochs charging forward, embodying strength and vitality.",
+      "practical_exercise": "Engage in physical activities that challenge your endurance."
+    },
+    {
+      "rune": "Thurisaz",
+      "meaning": {
+        "upright": "Protection, defense, and caution. Thurisaz warns you to stay vigilant and protect yourself from harm.",
+        "reversed": "Vulnerability or misplaced trust. You may be leaving yourself open to threats or ignoring warning signs."
+      },
+      "element": "Fire",
+      "associated_deity": "Thor",
+      "keywords": ["protection", "defense", "caution"],
+      "historical_context": "Thurisaz is associated with the giants (Jotunn) and represents the protective power of Thor.",
+      "symbol": "ᚦ",
+      "practical_application": "Use Thurisaz for protection in rituals and to ward off negative influences.",
+      "affirmation": "I am protected and safe from harm.",
+      "related_runes": ["Algiz", "Eihwaz"],
+      "cultural_significance": "Thor, the god of thunder, is known for his strength and protective nature.",
+      "usage_in_spells": "Incorporate Thurisaz in spells for protection and defense.",
+      "numerical_association": 3,
+      "astrological_correspondence": "Mars",
+      "meditation_practice": "Visualize a shield of light surrounding you, providing protection.",
+      "practical_exercise": "Create a protective charm or talisman."
+    },
+    {
+      "rune": "Ansuz",
+      "meaning": {
+        "upright": "Communication, wisdom, and divine inspiration. Ansuz brings clarity and the ability to speak your truth.",
+        "reversed": "Miscommunication or lack of clarity. You may be struggling to express yourself or understand others."
+      },
+      "element": "Air",
+      "associated_deity": "Odin",
+      "keywords": ["communication", "wisdom", "inspiration"],
+      "historical_context": "Ansuz is linked to the god Odin, who is associated with knowledge and communication.",
+      "symbol": "ᚨ",
+      "practical_application": "Invoke Ansuz for clarity in communication and to enhance your understanding.",
+      "affirmation": "I express my truth with clarity and confidence.",
+      "related_runes": ["Raido", "Kenaz"],
+      "cultural_significance": "Odin is the god of wisdom, poetry, and knowledge, often seeking truth and understanding.",
+      "usage_in_spells": "Use Ansuz in spells for communication and clarity in relationships.",
+      "numerical_association": 4,
+      "astrological_correspondence": "Mercury",
+      "meditation_practice": "Visualize a flowing river of words, representing clear communication.",
+      "practical_exercise": "Practice active listening in conversations."
+    },
+    {
+      "rune": "Raido",
+      "meaning": {
+        "upright": "Travel, movement, and progress. Raido signifies a journey, whether physical or spiritual.",
+        "reversed": "Stagnation or delays. You may be feeling stuck or unable to move forward."
+      },
+      "element": "Air",
+      "associated_deity": "Hermod",
+      "keywords": ["journey", "movement", "progress"],
+      "historical_context": "Raido represents the journey of life and the importance of movement and change.",
+      "symbol": "ᚱ",
+      "practical_application": "Use Raido to enhance your travels and personal journeys.",
+      "affirmation": "I embrace the journey of life and welcome new experiences.",
+      "related_runes": ["Ansuz", "Ehwaz"],
+      "cultural_significance": "Hermod is known as the messenger of the gods, symbolizing the importance of travel and communication.",
+      "usage_in_spells": "Incorporate Raido in spells for safe travels and personal growth.",
+      "numerical_association": 5,
+      "astrological_correspondence": "Jupiter",
+      "meditation_practice": "Visualize yourself on a path, moving forward with purpose.",
+      "practical_exercise": "Plan a journey or adventure, whether physical or metaphorical."
+    },
+    {
+      "rune": "Kenaz",
+      "meaning": {
+        "upright": "Creativity, inspiration, and illumination. Kenaz represents the spark of creativity and the light of knowledge.",
+        "reversed": "Blockages in creativity or lack of direction. You may be feeling uninspired or lost."
+      },
+      "element": "Fire",
+      "associated_deity": "Brigid",
+      "keywords": ["creativity", "inspiration", "illumination"],
+      "historical_context": "Kenaz symbolizes the torch, representing knowledge and the creative fire within.",
+      "symbol": "ᚲ",
+      "practical_application": "Invoke Kenaz to ignite your creativity and inspire new ideas.",
+      "affirmation": "I am a vessel of creativity and inspiration.",
+      "related_runes": ["Gebo", "Wunjo"],
+      "cultural_significance": "Brigid is a goddess of inspiration, poetry, and the hearth, embodying the creative spirit.",
+      "usage_in_spells": "Use Kenaz in spells for creativity and artistic endeavors.",
+      "numerical_association": 6,
+      "astrological_correspondence": "Sun",
+      "meditation_practice": "Visualize a flame igniting your creative potential.",
+      "practical_exercise": "Engage in a creative project, such as painting or writing."
+    },
+    {
+      "rune": "Gebo",
+      "meaning": {
+        "upright": "Gift, generosity, and partnership. Gebo signifies the importance of giving and receiving.",
+        "reversed": "Imbalance in relationships or selfishness. You may be taking more than you give."
+      },
+      "element": "Earth",
+      "associated_deity": "Freyr",
+      "keywords": ["gift", "generosity", "partnership"],
+      "historical_context": "Gebo represents the gift of love and the balance of giving and receiving.",
+      "symbol": "ᚷ",
+      "practical_application": "Use Gebo to strengthen partnerships and foster generosity.",
+      "affirmation": "I give and receive love and abundance freely.",
+      "related_runes": ["Fehu", "Wunjo"],
+      "cultural_significance": "Freyr is associated with fertility and prosperity, emphasizing the importance of generosity.",
+      "usage_in_spells": "Incorporate Gebo in spells for love and harmonious relationships.",
+      "numerical_association": 7,
+      "astrological_correspondence": "Venus",
+      "meditation_practice": "Visualize a circle of hands exchanging gifts, symbolizing balance.",
+      "practical_exercise": "Perform an act of kindness or generosity."
+    },
+    {
+      "rune": "Wunjo",
+      "meaning": {
+        "upright": "Joy, pleasure, and harmony. Wunjo represents happiness and the fulfillment of desires.",
+        "reversed": "Discontent, loss of joy, or disharmony. You may be feeling isolated or disconnected."
+      },
+      "element": "Joy",
+      "associated_deity": "Freyja",
+      "keywords": ["joy", "harmony", "pleasure"],
+      "historical_context": "Wunjo symbolizes the joy of community and the fulfillment of wishes.",
+      "symbol": "ᚹ",
+      "practical_application": "Invoke Wunjo to attract joy and harmony into your life.",
+      "affirmation": "I embrace joy and harmony in all aspects of my life.",
+      "related_runes": ["Fehu", "Gebo"],
+      "cultural_significance": "Freyja embodies love and joy, representing the happiness found in relationships.",
+      "usage_in_spells": "Use Wunjo in spells for happiness and fulfillment.",
+      "numerical_association": 8,
+      "astrological_correspondence": "Jupiter",
+      "meditation_practice": "Visualize a warm light surrounding you, filling you with joy.",
+      "practical_exercise": "Spend time with loved ones or engage in activities that bring you joy."
+    },
+    {
+      "rune": "Hagalaz",
+      "meaning": {
+        "upright": "Disruption, chaos, and transformation. Hagalaz signifies the power of nature and the need for change.",
+        "reversed": "Resistance to change or stagnation. You may be avoiding necessary transformations."
+      },
+      "element": "Ice",
+      "associated_deity": "N/A",
+      "keywords": ["disruption", "transformation", "chaos"],
+      "historical_context": "Hagalaz represents hail, symbolizing the destructive forces of nature that lead to transformation.",
+      "symbol": "ᚺ",
+      "practical_application": "Use Hagalaz to embrace change and transformation in your life.",
+      "affirmation": "I welcome change and transformation as part of my growth.",
+      "related_runes": ["Nauthiz", "Eihwaz"],
+      "cultural_significance": "Hagalaz teaches the importance of embracing chaos for personal growth.",
+      "usage_in_spells": "Incorporate Hagalaz in spells for transformation and overcoming obstacles.",
+      "numerical_association": 9,
+      "astrological_correspondence": "Saturn",
+      "meditation_practice": "Visualize a storm clearing, revealing new growth.",
+      "practical_exercise": "Identify an area in your life where change is needed and take steps to embrace it."
+    },
+    {
+      "rune": "Nauthiz",
+      "meaning": {
+        "upright": "Need, necessity, and survival. Nauthiz indicates the importance of addressing your needs.",
+        "reversed": "Overcoming obstacles or feeling trapped. You may be struggling with limitations."
+      },
+      "element": "Fire",
+      "associated_deity": "N/A",
+      "keywords": ["need", "survival", "necessity"],
+      "historical_context": "Nauthiz represents the need for survival and the importance of addressing one's basic needs.",
+      "symbol": "ᚾ",
+      "practical_application": "Invoke Nauthiz to identify and address your essential needs.",
+      "affirmation": "I recognize and fulfill my needs for growth and survival.",
+      "related_runes": ["Hagalaz", "Isa"],
+      "cultural_significance": "Nauthiz emphasizes the importance of survival and resilience in challenging times.",
+      "usage_in_spells": "Use Nauthiz in spells for survival and overcoming challenges.",
+      "numerical_association": 10,
+      "astrological_correspondence": "Pluto",
+      "meditation_practice": "Visualize a fire igniting your inner strength and resilience.",
+      "practical_exercise": "List your essential needs and take steps to fulfill them."
+    },
+    {
+      "rune": "Isa",
+      "meaning": {
+        "upright": "Stasis, stillness, and ice. Isa represents a time for reflection and patience.",
+        "reversed": "Movement or change. You may be ready to break free from stagnation."
+      },
+      "element": "Ice",
+      "associated_deity": "N/A",
+      "keywords": ["stasis", "stillness", "ice"],
+      "historical_context": "Isa symbolizes ice, representing stillness and the need for introspection.",
+      "symbol": "ᛁ",
+      "practical_application": "Use Isa for reflection and to find clarity in stillness.",
+      "affirmation": "I embrace stillness and find clarity within.",
+      "related_runes": ["Nauthiz", "Jera"],
+      "cultural_significance": "Isa teaches the value of patience and reflection in personal growth.",
+      "usage_in_spells": "Incorporate Isa in spells for meditation and introspection.",
+      "numerical_association": 11,
+      "astrological_correspondence": "N/A",
+      "meditation_practice": "Visualize a frozen lake, reflecting your inner stillness.",
+      "practical_exercise": "Spend time in quiet reflection or meditation."
+    },
+    {
+      "rune": "Jera",
+      "meaning": {
+        "upright": "Harvest, cycles, and rewards. Jera signifies the natural cycles of life and the rewards of hard work.",
+        "reversed": "Impatience or lack of progress. You may be feeling frustrated with slow results."
+      },
+      "element": "Earth",
+      "associated_deity": "N/A",
+      "keywords": ["harvest", "cycles", "rewards"],
+      "historical_context": "Jera represents the cycle of the seasons and the importance of patience in reaping rewards.",
+      "symbol": "ᛃ",
+      "practical_application": "Use Jera to recognize and celebrate the cycles of life.",
+      "affirmation": "I trust the cycles of life and embrace the rewards of my efforts.",
+      "related_runes": ["Eihwaz", "Inguz"],
+      "cultural_significance": "Jera emphasizes the importance of patience and timing in achieving goals.",
+      "usage_in_spells": "Incorporate Jera in spells for abundance and successful outcomes.",
+      "numerical_association": 12,
+      "astrological_correspondence": "N/A",
+      "meditation_practice": "Visualize the changing seasons and the cycles of nature.",
+      "practical_exercise": "Reflect on the cycles in your life and celebrate your achievements."
+    },
+    {
+      "rune": "Eihwaz",
+      "meaning": {
+        "upright": "Defense, protection, and resilience. Eihwaz symbolizes the strength to overcome challenges.",
+        "reversed": "Weakness or vulnerability. You may be feeling exposed or unprotected."
+      },
+      "element": "Yew",
+      "associated_deity": "N/A",
+      "keywords": ["defense", "protection", "resilience"],
+      "historical_context": "Eihwaz is associated with the yew tree, symbolizing endurance and protection.",
+      "symbol": "ᛇ",
+      "practical_application": "Invoke Eihwaz for protection and to build resilience.",
+      "affirmation": "I am strong and protected, capable of overcoming any challenge.",
+      "related_runes": ["Thurisaz", "Algiz"],
+      "cultural_significance": "Eihwaz teaches the importance of resilience and defense in the face of adversity.",
+      "usage_in_spells": "Use Eihwaz in spells for protection and strength.",
+      "numerical_association": 13,
+      "astrological_correspondence": "N/A",
+      "meditation_practice": "Visualize a strong yew tree, representing your resilience.",
+      "practical_exercise": "Identify areas in your life where you need to build resilience."
+    },
+    {
+      "rune": "Perthro",
+      "meaning": {
+        "upright": "Mystery, fate, and chance. Perthro represents the unknown and the unfolding of destiny.",
+        "reversed": "Fear of the unknown or avoidance of fate. You may be resisting change."
+      },
+      "element": "Water",
+      "associated_deity": "N/A",
+      "keywords": ["mystery", "fate", "chance"],
+      "historical_context": "Perthro symbolizes the unknown and the mysteries of fate and chance.",
+      "symbol": "ᛈ",
+      "practical_application": "Use Perthro to embrace the unknown and trust in the unfolding of your path.",
+      "affirmation": "I trust the journey of life and embrace the mysteries it brings.",
+      "related_runes": ["Algiz", "Eihwaz"],
+      "cultural_significance": "Perthro teaches the importance of accepting fate and the unknown.",
+      "usage_in_spells": "Incorporate Perthro in spells for divination and understanding fate.",
+      "numerical_association": 14,
+      "astrological_correspondence": "N/A",
+      "meditation_practice": "Visualize a flowing river, representing the flow of fate.",
+      "practical_exercise": "Engage in a divination practice, such as tarot or runes."
+    },
+    {
+      "rune": "Algiz",
+      "meaning": {
+        "upright": "Protection, defense, and spiritual guidance. Algiz signifies a connection to the divine.",
+        "reversed": "Vulnerability or lack of protection. You may be feeling exposed to danger."
+      },
+      "element": "Air",
+      "associated_deity": "N/A",
+      "keywords": ["protection", "defense", "guidance"],
+      "historical_context": "Algiz symbolizes the elk and represents protection and spiritual guidance.",
+      "symbol": "ᛉ",
+      "practical_application": "Invoke Algiz for spiritual protection and guidance.",
+      "affirmation": "I am protected and guided by divine forces.",
+      "related_runes": ["Thurisaz", "Eihwaz"],
+      "cultural_significance": "Algiz emphasizes the importance of spiritual protection and connection to the divine.",
+      "usage_in_spells": "Use Algiz in spells for protection and spiritual guidance.",
+      "numerical_association": 15,
+      "astrological_correspondence": "N/A",
+      "meditation_practice": "Visualize a protective shield surrounding you, connecting you to the divine.",
+      "practical_exercise": "Create a protective ritual or prayer."
+    },
+    {
+      "rune": "Sowilo",
+      "meaning": {
+        "upright": "Success, vitality, and energy. Sowilo represents the power of the sun and personal achievement.",
+        "reversed": "Failure or lack of direction. You may be feeling lost or unmotivated."
+      },
+      "element": "Fire",
+      "associated_deity": "Sunna",
+      "keywords": ["success", "vitality", "energy"],
+      "historical_context": "Sowilo symbolizes the sun and represents success and vitality.",
+      "symbol": "ᛋ",
+      "practical_application": "Use Sowilo to attract success and vitality into your life.",
+      "affirmation": "I radiate success and vitality in all that I do.",
+      "related_runes": ["Tiwaz", "Wunjo"],
+      "cultural_significance": "Sunna is the goddess of the sun, embodying light, warmth, and success.",
+      "usage_in_spells": "Incorporate Sowilo in spells for success and personal achievement.",
+      "numerical_association": 16,
+      "astrological_correspondence": "Sun",
+      "meditation_practice": "Visualize the sun's rays energizing and empowering you.",
+      "practical_exercise": "Set a goal and take actionable steps towards achieving it."
+    },
+    {
+      "rune": "Tiwaz",
+      "meaning": {
+        "upright": "Honor, justice, and leadership. Tiwaz signifies the importance of integrity and moral strength.",
+        "reversed": "Dishonor or lack of direction. You may be struggling with ethical dilemmas."
+      },
+      "element": "Air",
+      "associated_deity": "Tyr",
+      "keywords": ["honor", "justice", "leadership"],
+      "historical_context": "Tiwaz is associated with the god Tyr, representing honor and justice.",
+      "symbol": "ᛏ",
+      "practical_application": "Invoke Tiwaz for guidance in ethical decisions and leadership.",
+      "affirmation": "I act with honor and integrity in all my endeavors.",
+      "related_runes": ["Uruz", "Eihwaz"],
+      "cultural_significance": "Tyr is known for his bravery and commitment to justice.",
+      "usage_in_spells": "Use Tiwaz in spells for justice and ethical clarity.",
+      "numerical_association": 17,
+      "astrological_correspondence": "Mars",
+      "meditation_practice": "Visualize a sword of justice cutting through confusion.",
+      "practical_exercise": "Reflect on your values and how they guide your actions."
+    },
+    {
+      "rune": "Berkano",
+      "meaning": {
+        "upright": "Growth, fertility, and new beginnings. Berkano represents the nurturing aspect of nature.",
+        "reversed": "Stagnation or lack of growth. You may be feeling blocked in your personal development."
+      },
+      "element": "Earth",
+      "associated_deity": "Freyja",
+      "keywords": ["growth", "fertility", "new beginnings"],
+      "historical_context": "Berkano symbolizes the birch tree, representing new beginnings and fertility.",
+      "symbol": "ᛒ",
+      "practical_application": "Use Berkano to promote growth and new beginnings in your life.",
+      "affirmation": "I embrace growth and new beginnings with open arms.",
+      "related_runes": ["Inguz", "Jera"],
+      "cultural_significance": "Freyja is associated with fertility and the nurturing aspects of nature.",
+      "usage_in_spells": "Incorporate Berkano in spells for fertility and new projects.",
+      "numerical_association": 18,
+      "astrological_correspondence": "Venus",
+      "meditation_practice": "Visualize a birch tree growing strong and tall, symbolizing your growth.",
+      "practical_exercise": "Plant a seed or start a new project that nurtures your growth."
+    },
+    {
+      "rune": "Ehwaz",
+      "meaning": {
+        "upright": "Movement, progress, and partnership. Ehwaz signifies the importance of teamwork and collaboration.",
+        "reversed": "Stagnation or lack of progress. You may be feeling stuck in a situation."
+      },
+      "element": "Horse",
+      "associated_deity": "N/A",
+      "keywords": ["movement", "progress", "partnership"],
+      "historical_context": "Ehwaz represents the horse, symbolizing movement and partnership.",
+      "symbol": "ᛖ",
+      "practical_application": "Use Ehwaz to enhance teamwork and collaboration in your endeavors.",
+      "affirmation": "I move forward with confidence and embrace collaboration.",
+      "related_runes": ["Raido", "Gebo"],
+      "cultural_significance": "Ehwaz emphasizes the importance of partnership and mutual support.",
+      "usage_in_spells": "Incorporate Ehwaz in spells for teamwork and progress.",
+      "numerical_association": 19,
+      "astrological_correspondence": "N/A",
+      "meditation_practice": "Visualize a team of horses running together, symbolizing unity and progress.",
+      "practical_exercise": "Collaborate with someone on a project or goal."
+    },
+    {
+      "rune": "Madr",
+      "meaning": {
+        "upright": "Unity, family, and community. Madr represents the importance of relationships and connections.",
+        "reversed": "Isolation or disconnection. You may be feeling alone or unsupported."
+      },
+      "element": "Earth",
+      "associated_deity": "N/A",
+      "keywords": ["unity", "family", "community"],
+      "historical_context": "Madr symbolizes the importance of family and community ties.",
+      "symbol": "ᛗ",
+      "practical_application": "Use Madr to strengthen family bonds and community connections.",
+      "affirmation": "I cherish my connections with family and community.",
+      "related_runes": ["Gebo", "Wunjo"],
+      "cultural_significance": "Madr emphasizes the value of unity and support within communities.",
+      "usage_in_spells": "Incorporate Madr in spells for family harmony and community support.",
+      "numerical_association": 20,
+      "astrological_correspondence": "N/A",
+      "meditation_practice": "Visualize a circle of family and friends, representing your support network.",
+      "practical_exercise": "Reach out to a family member or friend to strengthen your connection."
+    },
+    {
+      "rune": "Inguz",
+      "meaning": {
+        "upright": "Fertility, new beginnings, and potential. Inguz signifies the power of creation and growth.",
+        "reversed": "Blocked potential or lack of progress. You may be feeling unable to move forward."
+      },
+      "element": "Earth",
+      "associated_deity": "Ing",
+      "keywords": ["fertility", "new beginnings", "potential"],
+      "historical_context": "Inguz is associated with the god Ing, representing fertility and new life.",
+      "symbol": "ᛜ",
+      "practical_application": "Use Inguz to manifest new beginnings and unlock your potential.",
+      "affirmation": "I embrace my potential and welcome new beginnings.",
+      "related_runes": ["Berkano", "Jera"],
+      "cultural_significance": "Ing embodies the fertility of the earth and the potential for growth.",
+      "usage_in_spells": "Incorporate Inguz in spells for fertility and new projects.",
+      "numerical_association": 21,
+      "astrological_correspondence": "N/A",
+      "meditation_practice": "Visualize a seed sprouting, representing your potential.",
+      "practical_exercise": "Identify a new project or goal and take the first step towards it."
+    },
+    {
+      "rune": "Dagaz",
+      "meaning": {
+        "upright": "Breakthrough, awakening, and transformation. Dagaz represents the dawn of a new day.",
+        "reversed": "Delays or setbacks. You may be feeling hindered in your progress."
+      },
+      "element": "Day",
+      "associated_deity": "N/A",
+      "keywords": ["breakthrough", "awakening", "transformation"],
+      "historical_context": "Dagaz symbolizes the dawn and the transformative power of light.",
+      "symbol": "ᛞ",
+      "practical_application": "Use Dagaz to embrace new beginnings and transformative experiences.",
+      "affirmation": "I welcome transformation and embrace new opportunities.",
+      "related_runes": ["Jera", "Sowilo"],
+      "cultural_significance": "Dagaz emphasizes the importance of awakening and new possibilities.",
+      "usage_in_spells": "Incorporate Dagaz in spells for transformation and new beginnings.",
+      "numerical_association": 22,
+      "astrological_correspondence": "N/A",
+      "meditation_practice": "Visualize the sunrise, symbolizing new beginnings.",
+      "practical_exercise": "Reflect on a recent change and how it has transformed you."
+    },
+    {
+      "rune": "Othala",
+      "meaning": {
+        "upright": "Heritage, legacy, and home. Othala signifies the importance of family and ancestral ties.",
+        "reversed": "Loss of heritage or disconnection from roots. You may be feeling ungrounded."
+      },
+      "element": "Earth",
+      "associated_deity": "N/A",
+      "keywords": ["heritage", "legacy", "home"],
+      "historical_context": "Othala represents ancestral property and the importance of heritage.",
+      "symbol": "ᛟ",
+      "practical_application": "Use Othala to connect with your roots and honor your heritage.",
+      "affirmation": "I honor my heritage and embrace my roots.",
+      "related_runes": ["Berkano", "Madr"],
+      "cultural_significance": "Othala emphasizes the importance of family and ancestral connections.",
+      "usage_in_spells": "Incorporate Othala in spells for family harmony and connection to heritage.",
+      "numerical_association": 23,
+      "astrological_correspondence": "N/A",
+      "meditation_practice": "Visualize your family tree, connecting you to your ancestors.",
+      "practical_exercise": "Research your family history and reflect on your roots."
+    }
+  ]
+}

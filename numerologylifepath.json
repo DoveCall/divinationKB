@@ -1,0 +1,204 @@
+{
+  "overview": {
+    "definition": "Life path numbers are a core aspect of numerology, representing an individual's natural talents, abilities, and life purpose.",
+    "calculation": "The life path number is calculated by reducing the digits of your birth date to a single digit or master number (11, 22, 33). For example, a birth date of July 20, 1985, would be calculated as 7 + 2 + 0 + 1 + 9 + 8 + 5 = 32, then 3 + 2 = 5.",
+    "significance": "Life path numbers provide insights into personality traits, challenges, and potential life paths."
+  },
+  "life_path_numbers": [
+    {
+      "number": "1",
+      "meaning": "Leadership, independence, and innovation.",
+      "challenges": "Can be overly self-reliant and struggle with teamwork.",
+      "strengths": "Strong leadership skills and a pioneering spirit.",
+      "famous_personalities": ["Steve Jobs", "Martin Luther King Jr."],
+      "career": "Entrepreneur, leader, or any role that allows for independence.",
+      "relationships": "May need to work on balancing independence with partnership.",
+      "health": "May need to focus on stress management due to high ambition.",
+      "spirituality": "Often seeks personal enlightenment and self-discovery.",
+      "compatibility": "Best with 3, 5, and 6. Challenging with 2 and 8.",
+      "life_lessons": "Learn to collaborate and value others' input.",
+      "karmic_debt": "19/1 - Overcoming selfishness and learning to cooperate."
+    },
+    {
+      "number": "2",
+      "meaning": "Cooperation, partnership, and diplomacy.",
+      "challenges": "May avoid conflict and struggle with decision-making.",
+      "strengths": "Excellent mediator and team player.",
+      "famous_personalities": ["Mother Teresa", "Barack Obama"],
+      "career": "Counselor, diplomat, or any role that involves collaboration.",
+      "relationships": "Thrives in partnerships and values harmony.",
+      "health": "May need to prioritize self-care due to high emotional demands.",
+      "spirituality": "Often seeks spiritual guidance and support.",
+      "compatibility": "Best with 4, 6, and 8. Challenging with 1 and 5.",
+      "life_lessons": "Develop assertiveness and decision-making skills.",
+      "karmic_debt": "None"
+    },
+    {
+      "number": "3",
+      "meaning": "Creativity, expression, and social interaction.",
+      "challenges": "Can be scattered and lack focus.",
+      "strengths": "Highly creative and expressive.",
+      "famous_personalities": ["Walt Disney", "John Lennon"],
+      "career": "Artist, writer, or any role that involves creativity.",
+      "relationships": "Enjoys socializing and values communication.",
+      "health": "May need to manage stress related to creative pursuits.",
+      "spirituality": "Often seeks spiritual inspiration and guidance.",
+      "compatibility": "Best with 1, 5, and 7. Challenging with 4 and 8.",
+      "life_lessons": "Focus on discipline and follow-through.",
+      "karmic_debt": "None"
+    },
+    {
+      "number": "4",
+      "meaning": "Stability, discipline, and hard work.",
+      "challenges": "Can be rigid and resistant to change.",
+      "strengths": "Highly disciplined and reliable.",
+      "famous_personalities": ["Oprah Winfrey", "Bill Gates"],
+      "career": "Engineer, accountant, or any role that requires structure.",
+      "relationships": "Values stability and long-term commitment.",
+      "health": "May need to prioritize physical health due to high stress levels.",
+      "spirituality": "Often seeks spiritual guidance and support.",
+      "compatibility": "Best with 2, 6, and 8. Challenging with 3 and 5.",
+      "life_lessons": "Embrace flexibility and adaptability.",
+      "karmic_debt": "13/4 - Overcoming laziness and embracing hard work."
+    },
+    {
+      "number": "5",
+      "meaning": "Freedom, adventure, and change.",
+      "challenges": "May struggle with commitment and consistency.",
+      "strengths": "Adaptable and adventurous.",
+      "famous_personalities": ["Angelina Jolie", "Abraham Lincoln"],
+      "career": "Travel writer, entrepreneur, or any role that offers variety.",
+      "relationships": "Needs freedom and may resist traditional roles.",
+      "health": "May need to manage stress related to constant change.",
+      "spirituality": "Often seeks spiritual inspiration and guidance.",
+      "compatibility": "Best with 1, 3, and 7. Challenging with 4 and 6.",
+      "life_lessons": "Cultivate stability and commitment.",
+      "karmic_debt": "14/5 - Overcoming indulgence and learning moderation."
+    },
+    {
+      "number": "6",
+      "meaning": "Responsibility, nurturing, and service.",
+      "challenges": "Can be overly self-sacrificing and neglect personal needs.",
+      "strengths": "Compassionate and nurturing.",
+      "famous_personalities": ["Albert Einstein", "Eleanor Roosevelt"],
+      "career": "Teacher, nurse, or any role that involves caregiving.",
+      "relationships": "Values family and community, often takes on a caregiving role.",
+      "health": "May need to prioritize self-care due to high emotional demands.",
+      "spirituality": "Often seeks spiritual guidance and support.",
+      "compatibility": "Best with 2, 4, and 9. Challenging with 5 and 7.",
+      "life_lessons": "Balance self-care with caring for others.",
+      "karmic_debt": "None"
+    },
+    {
+      "number": "7",
+      "meaning": "Introspection, spirituality, and knowledge.",
+      "challenges": "May be aloof and struggle with social interactions.",
+      "strengths": "Highly analytical and introspective.",
+      "famous_personalities": ["Stephen Hawking", "Princess Diana"],
+      "career": "Researcher, philosopher, or any role that involves deep thinking.",
+      "relationships": "Values intellectual connection and may need solitude.",
+      "health": "May need to manage stress related to intense focus.",
+      "spirituality": "Often seeks spiritual enlightenment and self-discovery.",
+      "compatibility": "Best with 3, 5, and 9. Challenging with 2 and 8.",
+      "life_lessons": "Engage more with the external world.",
+      "karmic_debt": "None"
+    },
+    {
+      "number": "8",
+      "meaning": "Power, success, and material wealth.",
+      "challenges": "Can be overly focused on material success.",
+      "strengths": "Strong leadership and business acumen.",
+      "famous_personalities": ["Nelson Mandela", "Martha Stewart"],
+      "career": "CEO, financial advisor, or any role that involves leadership.",
+      "relationships": "May prioritize career over personal life.",
+      "health": "May need to prioritize physical health due to high stress levels.",
+      "spirituality": "Often seeks spiritual guidance and support.",
+      "compatibility": "Best with 2, 4, and 6. Challenging with 1 and 7.",
+      "life_lessons": "Balance material and spiritual pursuits.",
+      "karmic_debt": "None"
+    },
+    {
+      "number": "9",
+      "meaning": "Humanitarianism, compassion, and global awareness.",
+      "challenges": "Can be idealistic and struggle with practical matters.",
+      "strengths": "Compassionate and globally aware.",
+      "famous_personalities": ["Mahatma Gandhi", "Mother Teresa"],
+      "career": "Activist, humanitarian, or any role that involves service.",
+      "relationships": "Values compassion and may be drawn to humanitarian causes.",
+      "health": "May need to prioritize self-care due to high emotional demands.",
+      "spirituality": "Often seeks spiritual guidance and support.",
+      "compatibility": "Best with 6, 7, and 9. Challenging with 1 and 8.",
+      "life_lessons": "Ground ideals in practical action.",
+      "karmic_debt": "None"
+    },
+    {
+      "number": "11",
+      "meaning": "Spiritual insight, intuition, and enlightenment.",
+      "challenges": "Can be overly sensitive and struggle with self-doubt.",
+      "strengths": "Highly intuitive and spiritually aware.",
+      "famous_personalities": ["Edgar Cayce", "Wolfgang Amadeus Mozart"],
+      "career": "Spiritual leader, artist, or any role that involves inspiration.",
+      "relationships": "Values deep emotional connections and spiritual growth.",
+      "health": "May need to manage stress related to heightened sensitivity.",
+      "spirituality": "Often seeks spiritual enlightenment and understanding.",
+      "compatibility": "Best with 2, 6, and 8. Challenging with 4 and 7.",
+      "life_lessons": "Balance spiritual insights with practical action.",
+      "karmic_debt": "None"
+    },
+    {
+      "number": "22",
+      "meaning": "Master builder, vision, and practicality.",
+      "challenges": "Can be overwhelmed by the magnitude of their visions.",
+      "strengths": "Highly capable of turning dreams into reality.",
+      "famous_personalities": ["Dalai Lama", "Paul McCartney"],
+      "career": "Architect, leader, or any role that involves large-scale projects.",
+      "relationships": "Values stability and long-term commitment.",
+      "health": "May need to manage stress related to high expectations.",
+      "spirituality": "Often seeks to manifest spiritual ideals in the material world.",
+      "compatibility": "Best with 4, 6, and 9. Challenging with 1 and 5.",
+      "life_lessons": "Balance visionary goals with practical steps.",
+      "karmic_debt": "None"
+    },
+    {
+      "number": "33",
+      "meaning": "Master teacher, compassion, and healing.",
+      "challenges": "Can be overly self-sacrificing and neglect personal needs.",
+      "strengths": "Highly compassionate and nurturing.",
+      "famous_personalities": ["Albert Schweitzer", "Meryl Streep"],
+      "career": "Teacher, healer, or any role that involves service to others.",
+      "relationships": "Values deep emotional connections and community.",
+      "health": "May need to prioritize self-care due to high emotional demands.",
+      "spirituality": "Often seeks to uplift and inspire others spiritually.",
+      "compatibility": "Best with 3, 6, and 9. Challenging with 5 and 7.",
+      "life_lessons": "Balance self-care with caring for others.",
+      "karmic_debt": "None"
+    }
+  ],
+  "additional_concepts": {
+    "expression_number": "Represents your natural talents and abilities.",
+    "soul_urge_number": "Reflects your inner desires and motivations.",
+    "personality_number": "Indicates how others perceive you."
+  },
+  "cultural_perspectives": {
+    "western": "In Western cultures, numerology is often used for personal development and understanding relationships.",
+    "eastern": "In Eastern cultures, numerology is sometimes integrated with astrology and other spiritual practices."
+  },
+  "resources": [
+    {
+      "type": "book",
+      "title": "Numerology: The Complete Guide",
+      "author": "Matthew Oliver Goodwin"
+    },
+    {
+      "type": "website",
+      "url": "https://www.numerology.com",
+      "description": "A comprehensive resource for learning about numerology."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jane Doe",
+      "story": "Numerology helped me understand my strengths and weaknesses, leading to a more fulfilling career path."
+    }
+  ]
+}

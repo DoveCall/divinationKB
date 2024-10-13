@@ -1,0 +1,53 @@
+{
+  "pendulum_chakra_alignment": [
+    {
+      "chakra": "Root Chakra",
+      "alignment": {
+        "positive_movement": "Strong, steady movement indicates grounding, stability, and physical health. Your connection to the earth and sense of security are well-balanced.",
+        "negative_movement": "Erratic or weak movement suggests imbalance, insecurity, or fear. You may be feeling ungrounded or struggling with basic needs."
+      }
+    },
+    {
+      "chakra": "Sacral Chakra",
+      "alignment": {
+        "positive_movement": "Flowing, smooth movement suggests emotional balance, creativity, and healthy relationships.",
+        "negative_movement": "Blocked or slow movement indicates emotional repression, creativity blocks, or issues with intimacy."
+      }
+    },
+    {
+      "chakra": "Solar Plexus Chakra",
+      "alignment": {
+        "positive_movement": "A strong, steady movement reflects confidence, willpower, and personal power.",
+        "negative_movement": "Weak or erratic movement suggests lack of confidence, low self-esteem, or difficulty asserting yourself."
+      }
+    },
+    {
+      "chakra": "Heart Chakra",
+      "alignment": {
+        "positive_movement": "A balanced movement indicates love, compassion, and healthy emotional connections.",
+        "negative_movement": "Blocked movement may suggest grief, emotional wounds, or difficulty giving and receiving love."
+      }
+    },
+    {
+      "chakra": "Throat Chakra",
+      "alignment": {
+        "positive_movement": "A clear, flowing movement signifies open communication, truth, and self-expression.",
+        "negative_movement": "Blocked or weak movement suggests difficulty expressing yourself or holding back your truth."
+      }
+    },
+    {
+      "chakra": "Third Eye Chakra",
+      "alignment": {
+        "positive_movement": "A steady movement indicates intuition, insight, and spiritual awareness.",
+        "negative_movement": "Weak movement suggests lack of clarity, intuition blocks, or difficulty trusting your inner wisdom."
+      }
+    },
+    {
+      "chakra": "Crown Chakra",
+      "alignment": {
+        "positive_movement": "Strong, aligned movement indicates spiritual connection, enlightenment, and higher consciousness.",
+        "negative_movement": "Disruption or blockage may suggest disconnection from spiritual guidance or feeling lost on your spiritual path."
+      }
+    }
+  ]
+}

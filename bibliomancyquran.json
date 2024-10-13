@@ -1,0 +1,72 @@
+{
+  "bibliomancy_quran": {
+    "surahs": {
+      "1": {
+        "name": "Al-Fatiha",
+        "description": "The Opening",
+        "meaning": "Al-Fatiha is a prayer for guidance, lordship, and mercy. It is often considered the key to the Quran.",
+        "guidance": "Seek clarity and guidance in your life; Al-Fatiha encourages you to ask for the right path and divine assistance."
+      },
+      "2": {
+        "name": "Al-Baqarah",
+        "description": "The Cow",
+        "meaning": "Al-Baqarah provides guidance on various aspects of faith, laws, and morality. It speaks of perseverance in faith and reliance on Allah.",
+        "guidance": "This Surah encourages patience in trials and steadfastness in faith. It reminds you to be humble and to trust in the divine plan."
+      },
+      "3": {
+        "name": "Al-Imran",
+        "description": "The Family of Imran",
+        "meaning": "Al-Imran emphasizes the importance of unity in faith and trust in Allah's wisdom. It also addresses important family and moral values.",
+        "guidance": "Turn to your family and community for support, and strengthen your faith through unity and trust in divine wisdom."
+      },
+      "4": {
+        "name": "An-Nisa",
+        "description": "The Women",
+        "meaning": "This Surah discusses social justice, the rights of women, and responsibility within the family and community.",
+        "guidance": "Focus on fairness, justice, and responsibility. An-Nisa asks you to respect the rights of others, especially those under your care."
+      },
+      "5": {
+        "name": "Al-Maidah",
+        "description": "The Table Spread",
+        "meaning": "This Surah focuses on fulfilling promises, being truthful, and adhering to divine laws.",
+        "guidance": "Al-Maidah encourages honesty, fulfilling your commitments, and staying true to your moral compass."
+      },
+      "6": {
+        "name": "Al-An’am",
+        "description": "The Cattle",
+        "meaning": "This Surah speaks of God's signs in nature and calls for gratitude and acknowledgment of divine blessings.",
+        "guidance": "Al-An’am advises you to reflect on the signs in your life, appreciate your blessings, and stay grateful for the divine presence."
+      },
+      "7": {
+        "name": "Al-Araf",
+        "description": "The Heights",
+        "meaning": "This Surah discusses the struggle between good and evil, and the choices individuals must make in life.",
+        "guidance": "Al-Araf encourages introspection and moral clarity. It asks you to recognize the battle between good and evil in your life and make righteous choices."
+      },
+      "18": {
+        "name": "Al-Kahf",
+        "description": "The Cave",
+        "meaning": "Al-Kahf tells the story of the people of the cave and touches on themes of perseverance, faith, and trust in Allah during difficult times.",
+        "guidance": "If you are facing challenges, Al-Kahf reminds you to stay patient, trust in divine timing, and have faith that everything will work out."
+      },
+      "36": {
+        "name": "Yaseen",
+        "description": "Yaseen",
+        "meaning": "Known as the 'heart of the Quran,' Surah Yaseen discusses the importance of faith, guidance, and the reality of life after death.",
+        "guidance": "Turn to Surah Yaseen when in need of comfort, spiritual guidance, or when reflecting on the transient nature of life."
+      },
+      "55": {
+        "name": "Ar-Rahman",
+        "description": "The Beneficent",
+        "meaning": "This Surah is a reflection on Allah’s mercy and the balance in the creation of the universe.",
+        "guidance": "Ar-Rahman asks you to recognize the blessings and balance in your life and to express gratitude for divine mercy."
+      },
+      "112": {
+        "name": "Al-Ikhlas",
+        "description": "The Purity",
+        "meaning": "A short yet powerful Surah that declares the oneness of Allah and emphasizes pure monotheism.",
+        "guidance": "Al-Ikhlas encourages you to focus on the purity of your faith and simplify your connection with the divine."
+      }
+    }
+  }
+}

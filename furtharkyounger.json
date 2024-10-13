@@ -1,0 +1,282 @@
+{
+    "runes": {
+        "overview": {
+            "definition": "The Younger Futhark is a later runic alphabet used during the Viking Age. It has fewer characters than the Elder Futhark and is often used for divination, personal growth, and understanding spiritual and material concerns.",
+            "method": "To perform a rune reading, focus on a question or situation. Draw one or more runes at random and interpret their meanings in the context of your life. Consider the position of the rune (upright or reversed) for deeper insights."
+        },
+        "rune_meanings": [
+            {
+                "rune": "Fe",
+                "symbol": "ᚠ",
+                "meaning": "Wealth, prosperity, and resources. Fe symbolizes material and spiritual wealth, personal success, and the importance of sharing resources.",
+                "reversed": "Loss of wealth or failure in material matters. A warning against greed and poor management.",
+                "historical_context": "Fe is associated with the god Freyr, who represents fertility and prosperity. It was often invoked for abundance in harvests.",
+                "practical_application": "Use Fe in meditation to attract abundance or when making financial decisions.",
+                "symbolic_associations": {
+                    "element": "Earth",
+                    "animal": "Boar",
+                    "deity": "Freyr"
+                },
+                "cultural_significance": "Fe is often used in modern rune readings to signify the importance of sharing wealth and resources within communities.",
+                "expanded_reversed_meanings": "In addition to financial loss, the reversed Fe can indicate emotional poverty or a lack of generosity in relationships.",
+                "cross_references": ["Gebo", "Týr"],
+                "quote": "Wealth is not just what you have, but what you share."
+            },
+            {
+                "rune": "Ur",
+                "symbol": "ᚢ",
+                "meaning": "Strength, health, and endurance. Ur represents physical power, courage, and the will to overcome challenges, emphasizing the importance of self-care.",
+                "reversed": "Weakness, lack of resolve, or ill health. A call to focus on self-care and rebuilding inner strength.",
+                "historical_context": "Ur is linked to the aurochs, a powerful wild ox, symbolizing strength and vitality in Norse culture.",
+                "practical_application": "Invoke Ur when facing challenges to bolster your courage and physical health.",
+                "symbolic_associations": {
+                    "element": "Earth",
+                    "animal": "Aurochs",
+                    "deity": "Thor"
+                },
+                "cultural_significance": "Ur is often seen as a rune of empowerment, encouraging individuals to tap into their inner strength.",
+                "expanded_reversed_meanings": "The reversed Ur can also signify a lack of direction or feeling overwhelmed by challenges.",
+                "cross_references": ["Týr", "Hagl"],
+                "quote": "Strength does not come from physical capacity. It comes from an indomitable will."
+            },
+            {
+                "rune": "Thurs",
+                "symbol": "ᚦ",
+                "meaning": "Conflict, chaos, and destruction. Thurs symbolizes challenges that test your limits and require careful navigation, often representing external forces.",
+                "reversed": "Unnecessary conflict or reckless behavior. A reminder to avoid unnecessary strife and to seek resolution.",
+                "historical_context": "Thurs is associated with the giants (Jotnar) in Norse mythology, representing chaos and the primal forces of nature.",
+                "practical_application": "Use Thurs to confront and navigate through conflicts or chaotic situations.",
+                "symbolic_associations": {
+                    "element": "Fire",
+                    "animal": "Wolf",
+                    "deity": "Thor"
+                },
+                "cultural_significance": "Thurs serves as a reminder of the balance between chaos and order in life.",
+                "expanded_reversed_meanings": "The reversed Thurs can indicate avoidance of conflict or a tendency to create unnecessary drama.",
+                "cross_references": ["Hagl", "Naudhr"],
+                "quote": "In the midst of chaos, there is also opportunity."
+            },
+            {
+                "rune": "As",
+                "symbol": "ᚬ",
+                "meaning": "Wisdom, communication, and authority. As symbolizes divine inspiration, good judgment, and leadership, highlighting the importance of clear communication.",
+                "reversed": "Miscommunication or poor decision-making. A caution to be mindful of how you convey your thoughts and ideas.",
+                "historical_context": "As is often linked to the Aesir gods, representing order, wisdom, and the establishment of societal norms.",
+                "practical_application": "Invoke As when seeking clarity in communication or when in a leadership role.",
+                "symbolic_associations": {
+                    "element": "Air",
+                    "animal": "Eagle",
+                    "deity": "Odin"
+                },
+                "cultural_significance": "As is a powerful rune for those in positions of authority or those seeking to improve their communication skills.",
+                "expanded_reversed_meanings": "The reversed As can also signify manipulation or deceit in communication.",
+                "cross_references": ["Týr", "Sól"],
+                "quote": "The art of communication is the language of leadership."
+            },
+            {
+                "rune": "Reið",
+                "symbol": "ᚱ",
+                "meaning": "Journey, movement, and progress. Reið indicates that travel or movement is necessary for growth and advancement, both physically and spiritually.",
+                "reversed": "Delays, setbacks, or a need to reconsider your path. A reminder to take time to reassess your direction and intentions.",
+                "historical_context": "Reið is associated with the concept of travel and the journeys undertaken by the Norse people, both physically and spiritually.",
+                "practical_application": "Use Reið to encourage movement in your life, whether through travel or personal growth.",
+                "symbolic_associations": {
+                    "element": "Fire",
+                    "animal": "Horse",
+                    "deity": "Freyr"
+                },
+                "cultural_significance": "Reið is often seen as a rune of progress and the importance of taking action.",
+                "expanded_reversed_meanings": "The reversed Reið can indicate stagnation or feeling lost in your journey.",
+                "cross_references": ["Naudhr", "Hagl"],
+                "quote": "The journey of a thousand miles begins with one step."
+            },
+            {
+                "rune": "Kaun",
+                "symbol": "ᚴ",
+                "meaning": "Illness, fire, and transformation. Kaun signifies challenges but also the potential for healing and renewal, representing the transformative power of adversity.",
+                "reversed": "Prolonged suffering or unhealed wounds. A call to focus on recovery, healing, and personal transformation.",
+                "historical_context": "Kaun is often linked to the concept of fire as a transformative force, both destructive and purifying.",
+                "practical_application": "Invoke Kaun during times of personal crisis to facilitate healing and transformation.",
+                "symbolic_associations": {
+                    "element": "Fire",
+                    "animal": "Phoenix",
+                    "deity": "Brigid"
+                },
+                "cultural_significance": "Kaun serves as a reminder of the potential for growth through adversity.",
+                "expanded_reversed_meanings": "The reversed Kaun can also signify avoidance of necessary change or healing.",
+                "cross_references": ["Hagl", "Ur"],
+                "quote": "Out of suffering have emerged the strongest souls."
+            },
+            {
+                "rune": "Hagl",
+                "symbol": "ᚼ",
+                "meaning": "Hail, disruption, and change. Hagl represents natural forces beyond your control, signaling significant, often destructive, change that can lead to growth.",
+                "reversed": "No reversed meaning. Hagl always represents disruptive forces that lead to transformation and the necessity of adaptation.",
+                "historical_context": "Hagl is associated with the unpredictable nature of weather and its impact on life and agriculture.",
+                "practical_application": "Use Hagl to embrace change and adapt to new circumstances.",
+                "symbolic_associations": {
+                    "element": "Air",
+                    "animal": "Raven",
+                    "deity": "Odin"
+                },
+                "cultural_significance": "Hagl is a powerful reminder of the inevitability of change and the importance of resilience.",
+                "expanded_reversed_meanings": "While Hagl does not have a reversed meaning, it can indicate a refusal to accept change.",
+                "cross_references": ["Thurs", "Naudhr"],
+                "quote": "Change is the only constant in life."
+            },
+            {
+                "rune": "Naudhr",
+                "symbol": "ᚾ",
+                "meaning": "Need, constraint, and survival. Naudhr represents hardship but also the strength that comes from perseverance, emphasizing resilience in the face of challenges.",
+                "reversed": "A struggle to meet basic needs or overcome obstacles. A reminder to focus on priorities and seek support when needed.",
+                "historical_context": "Naudhr reflects the harsh realities of survival in Norse society, where resourcefulness was essential.",
+                "practical_application": "Invoke Naudhr when facing difficulties to remind yourself of your inner strength and resilience.",
+                "symbolic_associations": {
+                    "element": "Earth",
+                    "animal": "Bear",
+                    "deity": "Freyja"
+                },
+                "cultural_significance": "Naudhr is often seen as a rune of survival and the importance of community support.",
+                "expanded_reversed_meanings": "The reversed Naudhr can indicate neglecting basic needs or refusing help.",
+                "cross_references": ["Ur", "Reið"],
+                "quote": "In the midst of winter, I found there was, within me, an invincible summer."
+            },
+            {
+                "rune": "Isa",
+                "symbol": "ᛁ",
+                "meaning": "Stillness, ice, and clarity. Isa indicates a period of rest or pause, allowing for reflection and reassessment, often representing a time for introspection.",
+                "reversed": "No reversed meaning. Isa always represents the need to wait, contemplate, and gather clarity before taking action.",
+                "historical_context": "Isa symbolizes the harsh winters of Scandinavia, where stillness and introspection were necessary for survival.",
+                "practical_application": "Use Isa to encourage patience and reflection during times of uncertainty.",
+                "symbolic_associations": {
+                    "element": "Water",
+                    "animal": "Owl",
+                    "deity": "Nerthus"
+                },
+                "cultural_significance": "Isa serves as a reminder of the importance of stillness and contemplation in a fast-paced world.",
+                "expanded_reversed_meanings": "While Isa does not have a reversed meaning, it can indicate a refusal to pause and reflect.",
+                "cross_references": ["Ar", "Hagl"],
+                "quote": "In stillness, the world is restored."
+            },
+            {
+                "rune": "Ar",
+                "symbol": "ᛅ",
+                "meaning": "Harvest, reward, and cycles. Ar signifies the return of hard work, representing the cycles of growth, reward, and the importance of gratitude.",
+                "reversed": "No reversed meaning. Ar represents the harvest and completion of cycles, encouraging appreciation for what has been achieved.",
+                "historical_context": "Ar is linked to agricultural practices in Norse culture, symbolizing the rewards of labor.",
+                "practical_application": "Invoke Ar during times of celebration or gratitude for the fruits of your labor.",
+                "symbolic_associations": {
+                    "element": "Earth",
+                    "animal": "Stag",
+                    "deity": "Freyr"
+                },
+                "cultural_significance": "Ar is often seen as a rune of abundance and the importance of recognizing one's achievements.",
+                "expanded_reversed_meanings": "While Ar does not have a reversed meaning, it can indicate a lack of appreciation for what one has.",
+                "cross_references": ["Sól", "Fe"],
+                "quote": "Gratitude is not only the greatest of virtues but the parent of all others."
+            },
+            {
+                "rune": "Sól",
+                "symbol": "ᛋ",
+                "meaning": "The sun, victory, and success. Sól represents life, energy, and the achievement of goals, symbolizing positivity and vitality.",
+                "reversed": "No reversed meaning. Sól always signifies vitality, positive outcomes, and the importance of maintaining a positive outlook.",
+                "historical_context": "Sól is personified as a goddess in Norse mythology, representing the sun and its life-giving properties.",
+                "practical_application": "Use Sól to inspire positivity and motivation in your endeavors.",
+                "symbolic_associations": {
+                    "element": "Fire",
+                    "animal": "Horse",
+                    "deity": "Sól"
+                },
+                "cultural_significance": "Sól is a powerful symbol of hope and the cyclical nature of life.",
+                "expanded_reversed_meanings": "While Sól does not have a reversed meaning, it can indicate a temporary setback in achieving goals.",
+                "cross_references": ["Týr", "Ar"],
+                "quote": "Keep your face always toward the sunshine—and shadows will fall behind you."
+            },
+            {
+                "rune": "Týr",
+                "symbol": "ᛏ",
+                "meaning": "Justice, leadership, and sacrifice. Týr symbolizes strength in battle, fairness, and the willingness to make sacrifices for the greater good.",
+                "reversed": "Failure in leadership, injustice, or imbalance. A call to reevaluate decisions and actions, ensuring fairness and integrity.",
+                "historical_context": "Týr is a god of war and justice in Norse mythology, known for his bravery and sacrifice.",
+                "practical_application": "Invoke Týr when facing moral dilemmas or when in a position of leadership.",
+                "symbolic_associations": {
+                    "element": "Fire",
+                    "animal": "Wolf",
+                    "deity": "Týr"
+                },
+                "cultural_significance": "Týr serves as a reminder of the importance of integrity and justice in leadership.",
+                "expanded_reversed_meanings": "The reversed Týr can indicate a misuse of power or failure to uphold justice.",
+                "cross_references": ["As", "Fe"],
+                "quote": "Justice delayed is justice denied."
+            },
+            {
+                "rune": "Bjarkan",
+                "symbol": "ᛒ",
+                "meaning": "Birth, new beginnings, and growth. Bjarkan represents fertility, nurturing, and personal development, emphasizing the importance of new opportunities.",
+                "reversed": "Stagnation or difficulty in starting new projects. A reminder to focus on fostering growth and embracing change.",
+                "historical_context": "Bjarkan is associated with the birch tree, symbolizing renewal and new life in Norse culture.",
+                "practical_application": "Use Bjarkan to encourage new beginnings or to nurture personal projects.",
+                "symbolic_associations": {
+                    "element": "Earth",
+                    "animal": "Deer",
+                    "deity": "Freyja"
+                },
+                "cultural_significance": "Bjarkan is often seen as a rune of hope and the potential for growth.",
+                "expanded_reversed_meanings": "The reversed Bjarkan can indicate fear of change or reluctance to embrace new opportunities.",
+                "cross_references": ["Fe", "Ur"],
+                "quote": "Every new beginning comes from some other beginning's end."
+            },
+            {
+                "rune": "Maðr",
+                "symbol": "ᛘ",
+                "meaning": "Humanity, cooperation, and self-awareness. Maðr represents human potential, collaboration, and personal responsibility, highlighting the importance of community.",
+                "reversed": "Isolation, selfishness, or loss of connection with others. A reminder to reconnect with your community and foster relationships.",
+                "historical_context": "Maðr reflects the importance of community and social bonds in Norse society.",
+                "practical_application": "Invoke Maðr to strengthen relationships or to foster collaboration in group settings.",
+                "symbolic_associations": {
+                    "element": "Earth",
+                    "animal": "Human",
+                    "deity": "Freyja"
+                },
+                "cultural_significance": "Maðr serves as a reminder of the interconnectedness of all people.",
+                "expanded_reversed_meanings": "The reversed Maðr can indicate a breakdown in communication or relationships.",
+                "cross_references": ["As", "Bjarkan"],
+                "quote": "Alone we can do so little; together we can do so much."
+            },
+            {
+                "rune": "Løgr",
+                "symbol": "ᛚ",
+                "meaning": "Water, intuition, and flow. Løgr symbolizes emotional depth, the subconscious, and the ability to go with the flow, encouraging emotional awareness.",
+                "reversed": "Blocked intuition or emotional turmoil. A need to reconnect with your feelings and instincts, and to seek emotional balance.",
+                "historical_context": "Løgr is associated with the life-giving properties of water and its importance in Norse culture.",
+                "practical_application": "Use Løgr to enhance your intuition or to navigate emotional challenges.",
+                "symbolic_associations": {
+                    "element": "Water",
+                    "animal": "Fish",
+                    "deity": "Njord"
+                },
+                "cultural_significance": "Løgr serves as a reminder of the importance of emotional health and intuition.",
+                "expanded_reversed_meanings": "The reversed Løgr can indicate emotional blockages or avoidance of feelings.",
+                "cross_references": ["Isa", "Reið"],
+                "quote": "The mind is like water. When it's turbulent, it's difficult to see. When it's calm, everything becomes clear."
+            },
+            {
+                "rune": "Ýr",
+                "symbol": "ᛦ",
+                "meaning": "Yew tree, death, and rebirth. Ýr represents the cycle of life and death, endings that lead to new beginnings, emphasizing transformation.",
+                "reversed": "No reversed meaning. Ýr always symbolizes transformation through endings and new beginnings, encouraging acceptance of change.",
+                "historical_context": "Ýr is associated with the yew tree, which is often linked to death and rebirth in Norse mythology.",
+                "practical_application": "Use Ýr to embrace change and transformation in your life.",
+                "symbolic_associations": {
+                    "element": "Earth",
+                    "animal": "Owl",
+                    "deity": "Hel"
+                },
+                "cultural_significance": "Ýr serves as a powerful reminder of the cyclical nature of life.",
+                "expanded_reversed_meanings": "While Ýr does not have a reversed meaning, it can indicate resistance to necessary change.",
+                "cross_references": ["Hagl", "Kaun"],
+                "quote": "The only thing that is constant is change."
+            }
+        ]
+    }
+}

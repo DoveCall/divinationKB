@@ -1,0 +1,58 @@
+{
+    "astrology": {
+      "zodiac_signs": {
+        "Aries": {
+          "element": "Fire",
+          "quality": "Cardinal",
+          "ruling_planet": "Mars",
+          "dates": "March 21 - April 19",
+          "description": "Aries is the first sign of the zodiac, and its natives are known for their fiery passion and initiative. They are natural leaders and are always ready for action.",
+          "personality_traits": {
+            "positive": [
+              "Confident",
+              "Courageous",
+              "Determined",
+              "Enthusiastic"
+            ],
+            "negative": [
+              "Impatient",
+              "Short-tempered",
+              "Impulsive",
+              "Aggressive"
+            ]
+          },
+          "compatibility": {
+            "best_with": ["Leo", "Sagittarius", "Gemini", "Aquarius"],
+            "worst_with": ["Cancer", "Capricorn"]
+          },
+          "lucky_number": 9,
+          "lucky_color": "Red",
+          "lucky_day": "Tuesday"
+        }
+      },
+      "planets": {
+        "Mars": {
+          "description": "Mars represents action, energy, and assertiveness. It governs desires and instincts for survival. Mars is linked to power, physicality, and ambition.",
+          "rules": ["Aries", "Scorpio"],
+          "symbol": "♂",
+          "keywords": [
+            "Action",
+            "Aggression",
+            "Desire",
+            "Survival"
+          ]
+        }
+      },
+      "houses": {
+        "1st_house": {
+          "title": "House of Self",
+          "description": "The 1st house represents the self, personality, and outward behavior. It is associated with your appearance, health, and the first impression you give to others."
+        }
+      },
+      "aspects": {
+        "conjunction": {
+          "description": "The conjunction aspect occurs when two planets are very close together in the same sign. This aspect amplifies the energies of the planets involved."
+        }
+      }
+    }
+  }

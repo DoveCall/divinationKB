@@ -1,0 +1,25 @@
+{
+  "method": "Domino Divination",
+  "description": "Domino divination involves interpreting the numbers and patterns formed by dominoes to predict future events or reveal hidden truths.",
+  "dominoes": [
+    {
+      "number": "Double Blank",
+      "meaning": "Completion, potential, nothingness.",
+      "positive_aspects": "Endings, new beginnings.",
+      "negative_aspects": "Stagnation, uncertainty."
+    },
+    {
+      "number": "One and Blank",
+      "meaning": "Independence, new journey, initiation.",
+      "positive_aspects": "Fresh start, self-reliance.",
+      "negative_aspects": "Isolation, uncertainty."
+    },
+    {
+      "number": "Six and Six",
+      "meaning": "Success, abundance, fulfillment.",
+      "positive_aspects": "Victory, satisfaction.",
+      "negative_aspects": "Overindulgence, complacency."
+    }
+    // Add other dominoes as needed
+  ]
+}

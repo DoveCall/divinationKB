@@ -1,0 +1,82 @@
+{
+    "astrology": {
+        "zodiac_signs": {
+            "Aries": {
+                "element": "Fire",
+                "quality": "Cardinal",
+                "ruling_planet": "Mars",
+                "dates": "March 21 - April 19",
+                "description": "Aries is known for its fiery passion and natural leadership abilities.",
+                "positive_traits": [
+                    "Confident",
+                    "Courageous",
+                    "Determined"
+                ],
+                "negative_traits": [
+                    "Impulsive",
+                    "Impatient",
+                    "Short-tempered"
+                ]
+            },
+            "Taurus": {
+                "element": "Earth",
+                "quality": "Fixed",
+                "ruling_planet": "Venus",
+                "dates": "April 20 - May 20",
+                "description": "Taurus is known for being reliable, patient, and practical.",
+                "positive_traits": [
+                    "Reliable",
+                    "Patient",
+                    "Practical"
+                ],
+                "negative_traits": [
+                    "Stubborn",
+                    "Possessive",
+                    "Uncompromising"
+                ]
+            }
+        },
+        "planets": {
+            "Sun": {
+                "keywords": [
+                    "Ego",
+                    "Identity",
+                    "Vitality"
+                ],
+                "rules": [
+                    "Leo"
+                ],
+                "symbol": "\u2609"
+            },
+            "Moon": {
+                "keywords": [
+                    "Emotion",
+                    "Subconscious",
+                    "Instinct"
+                ],
+                "rules": [
+                    "Cancer"
+                ],
+                "symbol": "\u263d"
+            }
+        },
+        "houses": {
+            "1st_house": {
+                "name": "House of Self",
+                "description": "Represents self-image, physical appearance, and outward personality."
+            },
+            "2nd_house": {
+                "name": "House of Possessions",
+                "description": "Represents material wealth, possessions, and personal resources."
+            }
+        },
+        "aspects": {
+            "conjunction": {
+                "description": "Occurs when two planets are close to each other in the zodiac, amplifying each other's effects."
+            },
+            "opposition": {
+                "description": "Occurs when two planets are opposite each other in the zodiac, creating tension but also potential for balance."
+            }
+        }
+    }
+}

@@ -1,0 +1,821 @@
+{
+  "method": "Psalms Bibliomancy",
+  "psalms": {
+    "psalm_1": {
+      "verse_1": "Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers;",
+      "verse_2": "but his delight is in the law of the Lord, and on his law he meditates day and night."
+    },
+    "psalm_2": {
+      "verse_1": "Why do the nations rage and the peoples plot in vain?",
+      "verse_2": "The kings of the earth set themselves, and the rulers take counsel together, against the Lord and against his Anointed, saying,"
+    },
+    "psalm_3": {
+      "verse_1": "Lord, how many are my foes! Many are rising against me;",
+      "verse_2": "Many are saying of my soul, 'There is no salvation for him in God.'"
+    },
+    "psalm_4": {
+      "verse_1": "Answer me when I call, O God of my righteousness! You have given me relief when I was in distress. Be gracious to me and hear my prayer!",
+      "verse_2": "O men, how long shall my honor be turned into shame? How long will you love vain words and seek after lies?"
+    },
+    "psalm_5": {
+      "verse_1": "Give ear to my words, O Lord; consider my groaning.",
+      "verse_2": "Give attention to the sound of my cry, my King and my God, for to you do I pray."
+    },
+    "psalm_6": {
+      "verse_1": "O Lord, rebuke me not in your anger, nor discipline me in your wrath.",
+      "verse_2": "Be gracious to me, O Lord, for I am languishing; heal me, O Lord, for my bones are troubled."
+    },
+    "psalm_7": {
+      "verse_1": "O Lord my God, in you do I take refuge; save me from all my pursuers and deliver me,",
+      "verse_2": "lest like a lion they tear my soul apart, rending it in pieces, with none to deliver."
+    },
+    "psalm_8": {
+      "verse_1": "O Lord, our Lord, how majestic is your name in all the earth! You have set your glory above the heavens.",
+      "verse_2": "Out of the mouth of babies and infants, you have established strength because of your foes, to still the enemy and the avenger."
+    },
+    "psalm_9": {
+      "verse_1": "I will give thanks to the Lord with my whole heart; I will recount all of your wonderful deeds.",
+      "verse_2": "I will be glad and exult in you; I will sing praise to your name, O Most High."
+    },
+    "psalm_10": {
+      "verse_1": "Why, O Lord, do you stand far away? Why do you hide yourself in times of trouble?",
+      "verse_2": "In arrogance the wicked hotly pursue the poor; let them be caught in the schemes that they have devised."
+    },
+    // ... continue this pattern for all psalms ...
+    "psalm_149": {
+      "verse_1": "Praise the Lord! Sing to the Lord a new song, his praise in the assembly of the godly!",
+      "verse_2": "Let Israel be glad in his Maker; let the children of Zion rejoice in their King!"
+    },
+    "psalm_150": {
+      "verse_1": "Praise the Lord! Praise God in his sanctuary; praise him in his mighty heavens!",
+      "verse_2": "Praise him for his mighty deeds; praise him according to his excellent greatness!"
+    },
+    "psalm_11": {
+      "verse_1": "In the Lord I take refuge; how can you say to my soul, 'Flee like a bird to your mountain,'",
+      "verse_2": "for behold, the wicked bend the bow; they have fitted their arrow to the string to shoot in the dark at the upright in heart;"
+    },
+    "psalm_12": {
+      "verse_1": "Save, O Lord, for the godly one is gone; for the faithful have vanished from among the children of man.",
+      "verse_2": "Everyone utters lies to his neighbor; with flattering lips and a double heart they speak."
+    },
+    "psalm_13": {
+      "verse_1": "How long, O Lord? Will you forget me forever? How long will you hide your face from me?",
+      "verse_2": "How long must I take counsel in my soul and have sorrow in my heart all the day? How long shall my enemy be exalted over me?"
+    },
+    "psalm_14": {
+      "verse_1": "The fool says in his heart, 'There is no God.' They are corrupt, they do abominable deeds; there is none who does good.",
+      "verse_2": "The Lord looks down from heaven on the children of man, to see if there are any who understand, who seek after God."
+    },
+    "psalm_15": {
+      "verse_1": "O Lord, who shall sojourn in your tent? Who shall dwell on your holy hill?",
+      "verse_2": "He who walks blamelessly and does what is right and speaks truth in his heart;"
+    },
+    "psalm_16": {
+      "verse_1": "Preserve me, O God, for in you I take refuge.",
+      "verse_2": "I say to the Lord, 'You are my Lord; I have no good apart from you.'"
+    },
+    "psalm_17": {
+      "verse_1": "Hear a just cause, O Lord; attend to my cry! Give ear to my prayer from lips free of deceit!",
+      "verse_2": "From your presence let my vindication come! Let your eyes behold the right!"
+    },
+    "psalm_18": {
+      "verse_1": "I love you, O Lord, my strength.",
+      "verse_2": "The Lord is my rock and my fortress and my deliverer, my God, my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold."
+    },
+    "psalm_19": {
+      "verse_1": "The heavens declare the glory of God, and the sky above proclaims his handiwork.",
+      "verse_2": "Day to day pours out speech, and night to night reveals knowledge."
+    },
+    "psalm_20": {
+      "verse_1": "May the Lord answer you in the day of trouble! May the name of the God of Jacob protect you!",
+      "verse_2": "May he send you help from the sanctuary and give you support from Zion!"
+    },
+    "psalm_21": {
+      "verse_1": "O Lord, in your strength the king rejoices, and in your salvation how greatly he exults!",
+      "verse_2": "You have given him his heart's desire and have not withheld the request of his lips."
+    },
+    "psalm_22": {
+      "verse_1": "My God, my God, why have you forsaken me? Why are you so far from saving me, from the words of my groaning?",
+      "verse_2": "O my God, I cry by day, but you do not answer, and by night, but I find no rest."
+    },
+    "psalm_23": {
+      "verse_1": "The Lord is my shepherd; I shall not want.",
+      "verse_2": "He makes me lie down in green pastures. He leads me beside still waters."
+    },
+    "psalm_24": {
+      "verse_1": "The earth is the Lord's and the fullness thereof, the world and those who dwell therein,",
+      "verse_2": "for he has founded it upon the seas and established it upon the rivers."
+    },
+    "psalm_25": {
+      "verse_1": "To you, O Lord, I lift up my soul.",
+      "verse_2": "O my God, in you I trust; let me not be put to shame; let not my enemies exult over me."
+    },
+    "psalm_26": {
+      "verse_1": "Vindicate me, O Lord, for I have walked in my integrity, and I have trusted in the Lord without wavering.",
+      "verse_2": "Prove me, O Lord, and try me; test my heart and my mind."
+    },
+    "psalm_27": {
+      "verse_1": "The Lord is my light and my salvation; whom shall I fear?",
+      "verse_2": "The Lord is the stronghold of my life; of whom shall I be afraid?"
+    },
+    "psalm_28": {
+      "verse_1": "To you, O Lord, I call; my rock, be not deaf to me, lest, if you be silent to me, I become like those who go down to the pit.",
+      "verse_2": "Hear the voice of my pleas for mercy, when I cry to you for help, when I lift up my hands toward your most holy sanctuary."
+    },
+    "psalm_29": {
+      "verse_1": "Ascribe to the Lord, O heavenly beings, ascribe to the Lord glory and strength.",
+      "verse_2": "Ascribe to the Lord the glory due his name; worship the Lord in the splendor of holiness."
+    },
+    "psalm_30": {
+      "verse_1": "I will extol you, O Lord, for you have drawn me up and have not let my foes rejoice over me.",
+      "verse_2": "O Lord my God, I cried to you for help, and you have healed me."
+    },
+    "psalm_31": {
+      "verse_1": "In you, O Lord, do I take refuge; let me never be put to shame; in your righteousness deliver me!",
+      "verse_2": "Incline your ear to me; rescue me speedily! Be a rock of refuge for me, a strong fortress to save me!"
+    },
+    "psalm_32": {
+      "verse_1": "Blessed is the one whose transgression is forgiven, whose sin is covered.",
+      "verse_2": "Blessed is the man against whom the Lord counts no iniquity, and in whose spirit there is no deceit."
+    },
+    "psalm_33": {
+      "verse_1": "Shout for joy in the Lord, O you righteous! Praise befits the upright.",
+      "verse_2": "Give thanks to the Lord with the lyre; make melody to him with the harp of ten strings!"
+    },
+    "psalm_34": {
+      "verse_1": "I will bless the Lord at all times; his praise shall continually be in my mouth.",
+      "verse_2": "My soul makes its boast in the Lord; let the humble hear and be glad."
+    },
+    "psalm_35": {
+      "verse_1": "Contend, O Lord, with those who contend with me; fight against those who fight against me!",
+      "verse_2": "Take hold of shield and buckler and rise for my help!"
+    },
+    "psalm_36": {
+      "verse_1": "Transgression speaks to the wicked deep in his heart; there is no fear of God before his eyes.",
+      "verse_2": "For he flatters himself in his own eyes that his iniquity cannot be found out and hated."
+    },
+    "psalm_37": {
+      "verse_1": "Fret not yourself because of evildoers; be not envious of wrongdoers!",
+      "verse_2": "For they will soon fade like the grass and wither like the green herb."
+    },
+    "psalm_38": {
+      "verse_1": "O Lord, rebuke me not in your anger, nor discipline me in your wrath!",
+      "verse_2": "For your arrows have sunk into me, and your hand has come down on me."
+    },
+    "psalm_39": {
+      "verse_1": "I said, 'I will guard my ways, that I may not sin with my tongue; I will guard my mouth with a muzzle, so long as the wicked are in my presence.'",
+      "verse_2": "I was mute and silent; I held my peace to no avail, and my distress grew worse."
+    },
+    "psalm_40": {
+      "verse_1": "I waited patiently for the Lord; he inclined to me and heard my cry.",
+      "verse_2": "He drew me up from the pit of destruction, out of the miry bog, and set my feet upon a rock, making my steps secure."
+    },
+    "psalm_41": {
+      "verse_1": "Blessed is the one who considers the poor! In the day of trouble the Lord delivers him;",
+      "verse_2": "the Lord protects him and keeps him alive; he is called blessed in the land; you do not give him up to the will of his enemies."
+    },
+    "psalm_42": {
+      "verse_1": "As a deer pants for flowing streams, so pants my soul for you, O God.",
+      "verse_2": "My soul thirsts for God, for the living God. When shall I come and appear before God?"
+    },
+    "psalm_43": {
+      "verse_1": "Vindicate me, O God, and defend my cause against an ungodly people, from the deceitful and unjust man deliver me!",
+      "verse_2": "For you are the God in whom I take refuge; why have you rejected me? Why do I go about mourning because of the oppression of the enemy?"
+    },
+    "psalm_44": {
+      "verse_1": "O God, we have heard with our ears, our fathers have told us, what deeds you performed in their days, in the days of old:",
+      "verse_2": "you with your own hand drove out the nations, but them you planted; you afflicted the peoples, but them you set free;"
+    },
+    "psalm_45": {
+      "verse_1": "My heart overflows with a pleasing theme; I address my verses to the king; my tongue is like the pen of a ready scribe.",
+      "verse_2": "You are the most handsome of the sons of men; grace is poured upon your lips; therefore God has blessed you forever."
+    },
+    "psalm_46": {
+      "verse_1": "God is our refuge and strength, a very present help in trouble.",
+      "verse_2": "Therefore we will not fear, though the earth gives way, though the mountains be moved into the heart of the sea."
+    },
+    "psalm_47": {
+      "verse_1": "Clap your hands, all peoples! Shout to God with loud songs of joy!",
+      "verse_2": "For the Lord, the Most High, is to be feared, a great king over all the earth."
+    },
+    "psalm_48": {
+      "verse_1": "Great is the Lord and greatly to be praised in the city of our God! His holy mountain,",
+      "verse_2": "beautiful in elevation, is the joy of all the earth, Mount Zion, in the far north, the city of the great King."
+    },
+    "psalm_49": {
+      "verse_1": "Hear this, all peoples! Give ear, all inhabitants of the world,",
+      "verse_2": "both low and high, rich and poor together!"
+    },
+    "psalm_50": {
+      "verse_1": "The Mighty One, God the Lord, speaks and summons the earth from the rising of the sun to its setting.",
+      "verse_2": "Out of Zion, the perfection of beauty, God shines forth."
+    },
+    "psalm_51": {
+      "verse_1": "Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions.",
+      "verse_2": "Wash me thoroughly from my iniquity, and cleanse me from my sin!"
+    },
+    "psalm_52": {
+      "verse_1": "Why do you boast of evil, O mighty man? The steadfast love of God endures all the day.",
+      "verse_2": "Your tongue plots destruction, like a sharp razor, you worker of deceit."
+    },
+    "psalm_53": {
+      "verse_1": "The fool says in his heart, 'There is no God.' They are corrupt, doing abominable iniquity; there is none who does good.",
+      "verse_2": "God looks down from heaven on the children of man, to see if there are any who understand, who seek after God."
+    },
+    "psalm_54": {
+      "verse_1": "O God, save me by your name, and vindicate me by your might.",
+      "verse_2": "O God, hear my prayer; give ear to the words of my mouth."
+    },
+    "psalm_55": {
+      "verse_1": "Give ear to my prayer, O God, and hide not yourself from my plea for mercy!",
+      "verse_2": "Attend to me, and answer me; I am restless in my complaint and I moan,"
+    },
+    "psalm_56": {
+      "verse_1": "Be gracious to me, O God, for man tramples on me; all day long an attacker oppresses me;",
+      "verse_2": "my enemies trample on me all day long, for many attack me proudly."
+    },
+    "psalm_57": {
+      "verse_1": "Be merciful to me, O God, be merciful to me, for in you my soul takes refuge; in the shadow of your wings I will take refuge, till the storms of destruction pass by.",
+      "verse_2": "I cry out to God Most High, to God who fulfills his purpose for me."
+    },
+    "psalm_58": {
+      "verse_1": "Do you indeed decree what is right, you gods? Do you judge the children of man uprightly?",
+      "verse_2": "No, in your hearts you devise wrongs; your hands deal out violence on earth."
+    },
+    "psalm_59": {
+      "verse_1": "Deliver me from my enemies, O my God; protect me from those who rise up against me;",
+      "verse_2": "deliver me from those who work evil, and save me from bloodthirsty men."
+    },
+    "psalm_60": {
+      "verse_1": "O God, you have rejected us, broken our defenses; you have been angry; oh, restore us.",
+      "verse_2": "You have made the land to quake; you have torn it open; repair its breaches, for it totters."
+    },
+    "psalm_111": {
+      "verse_1": "Praise the Lord! I will give thanks to the Lord with my whole heart, in the company of the upright, in the congregation.",
+      "verse_2": "Great are the works of the Lord, studied by all who delight in them."
+    },
+    "psalm_112": {
+      "verse_1": "Praise the Lord! Blessed is the man who fears the Lord, who greatly delights in his commandments!",
+      "verse_2": "His offspring will be mighty in the land; the generation of the upright will be blessed."
+    },
+    "psalm_113": {
+      "verse_1": "Praise the Lord! Praise, O servants of the Lord, praise the name of the Lord!",
+      "verse_2": "Blessed be the name of the Lord from this time forth and forevermore!"
+    },
+    "psalm_114": {
+      "verse_1": "When Israel went out from Egypt, the house of Jacob from a people of strange language,",
+      "verse_2": "Judah became his sanctuary, Israel his dominion."
+    },
+    "psalm_115": {
+      "verse_1": "Not to us, O Lord, not to us, but to your name give glory, for the sake of your steadfast love and your faithfulness!",
+      "verse_2": "Why should the nations say, 'Where is their God?'"
+    },
+    "psalm_116": {
+      "verse_1": "I love the Lord, because he has heard my voice and my pleas for mercy.",
+      "verse_2": "Because he inclined his ear to me, therefore I will call on him as long as I live."
+    },
+    "psalm_117": {
+      "verse_1": "Praise the Lord, all nations! Extol him, all peoples!",
+      "verse_2": "For great is his steadfast love toward us, and the faithfulness of the Lord endures forever. Praise the Lord!"
+    },
+    "psalm_118": {
+      "verse_1": "Oh give thanks to the Lord, for he is good; for his steadfast love endures forever!",
+      "verse_2": "Let Israel say, 'His steadfast love endures forever.'"
+    },
+    "psalm_119": {
+      "verse_1": "Blessed are those whose way is blameless, who walk in the law of the Lord!",
+      "verse_2": "Blessed are those who keep his testimonies, who seek him with their whole heart,"
+    },
+    "psalm_120": {
+      "verse_1": "In my distress I called to the Lord, and he answered me.",
+      "verse_2": "Deliver me, O Lord, from lying lips, from a deceitful tongue."
+    },
+    "psalm_121": {
+      "verse_1": "I lift up my eyes to the hills. From where does my help come?",
+      "verse_2": "My help comes from the Lord, who made heaven and earth."
+    },
+    "psalm_122": {
+      "verse_1": "I was glad when they said to me, 'Let us go to the house of the Lord!'",
+      "verse_2": "Our feet have been standing within your gates, O Jerusalem!"
+    },
+    "psalm_123": {
+      "verse_1": "To you I lift up my eyes, O you who are enthroned in the heavens!",
+      "verse_2": "Behold, as the eyes of servants look to the hand of their master, as the eyes of a maidservant to the hand of her mistress, so our eyes look to the Lord our God, till he has mercy upon us."
+    },
+    "psalm_124": {
+      "verse_1": "If it had not been the Lord who was on our side—let Israel now say—",
+      "verse_2": "if it had not been the Lord who was on our side when people rose up against us,"
+    },
+    "psalm_125": {
+      "verse_1": "Those who trust in the Lord are like Mount Zion, which cannot be moved, but abides forever.",
+      "verse_2": "As the mountains surround Jerusalem, so the Lord surrounds his people, from this time forth and forevermore."
+    },
+    "psalm_126": {
+      "verse_1": "When the Lord restored the fortunes of Zion, we were like those who dream.",
+      "verse_2": "Then our mouth was filled with laughter, and our tongue with shouts of joy; then they said among the nations, 'The Lord has done great things for them.'"
+    },
+    "psalm_127": {
+      "verse_1": "Unless the Lord builds the house, those who build it labor in vain. Unless the Lord watches over the city, the watchman stays awake in vain.",
+      "verse_2": "It is in vain that you rise up early and go late to rest, eating the bread of anxious toil; for he gives to his beloved sleep."
+    },
+    "psalm_128": {
+      "verse_1": "Blessed is everyone who fears the Lord, who walks in his ways!",
+      "verse_2": "You shall eat the fruit of the labor of your hands; you shall be blessed, and it shall be well with you."
+    },
+    "psalm_129": {
+      "verse_1": "Greatly have they afflicted me from my youth—let Israel now say—",
+      "verse_2": "Greatly have they afflicted me from my youth, yet they have not prevailed against me."
+    },
+    "psalm_130": {
+      "verse_1": "Out of the depths I cry to you, O Lord!",
+      "verse_2": "O Lord, hear my voice! Let your ears be attentive to the voice of my pleas for mercy!"
+    },
+    "psalm_131": {
+      "verse_1": "O Lord, my heart is not lifted up; my eyes are not raised too high; I do not occupy myself with things too great and too marvelous for me.",
+      "verse_2": "But I have calmed and quieted my soul, like a weaned child with its mother; like a weaned child is my soul within me."
+    },
+    "psalm_132": {
+      "verse_1": "Remember, O Lord, in David's favor, all the hardships he endured,",
+      "verse_2": "how he swore to the Lord and vowed to the Mighty One of Jacob,"
+    },
+    "psalm_133": {
+      "verse_1": "Behold, how good and pleasant it is when brothers dwell in unity!",
+      "verse_2": "It is like the precious oil on the head, running down on the beard, on the beard of Aaron, running down on the collar of his robes!"
+    },
+    "psalm_134": {
+      "verse_1": "Come, bless the Lord, all you servants of the Lord, who stand by night in the house of the Lord!",
+      "verse_2": "Lift up your hands to the holy place and bless the Lord!"
+    },
+    "psalm_135": {
+      "verse_1": "Praise the Lord! Praise the name of the Lord, give praise, O servants of the Lord,",
+      "verse_2": "who stand in the house of the Lord, in the courts of the house of our God!"
+    },
+    "psalm_136": {
+      "verse_1": "Give thanks to the Lord, for he is good, for his steadfast love endures forever.",
+      "verse_2": "Give thanks to the God of gods, for his steadfast love endures forever."
+    },
+    "psalm_137": {
+      "verse_1": "By the waters of Babylon, there we sat down and wept, when we remembered Zion.",
+      "verse_2": "On the willows there we hung up our lyres."
+    },
+    "psalm_138": {
+      "verse_1": "I give you thanks, O Lord, with my whole heart; before the gods I sing your praise;",
+      "verse_2": "I bow down toward your holy temple and give thanks to your name for your steadfast love and your faithfulness, for you have exalted above all things your name and your word."
+    },
+    "psalm_139": {
+      "verse_1": "O Lord, you have searched me and known me!",
+      "verse_2": "You know when I sit down and when I rise up; you discern my thoughts from afar."
+    },
+    "psalm_140": {
+      "verse_1": "Deliver me, O Lord, from evil men; preserve me from violent men,",
+      "verse_2": "who plan evil things in their heart and stir up wars continually."
+    },
+    "psalm_141": {
+      "verse_1": "O Lord, I call upon you; hasten to me! Give ear to my voice when I call to you!",
+      "verse_2": "Let my prayer be counted as incense before you, and the lifting up of my hands as the evening sacrifice!"
+    },
+    "psalm_142": {
+      "verse_1": "With my voice I cry out to the Lord; with my voice I plead for mercy to the Lord.",
+      "verse_2": "I pour out my complaint before him; I tell my trouble before him."
+    },
+    "psalm_143": {
+      "verse_1": "Hear my prayer, O Lord; give ear to my pleas for mercy! In your faithfulness answer me, in your righteousness!",
+      "verse_2": "Enter not into judgment with your servant, for no one living is righteous before you."
+    },
+    "psalm_144": {
+      "verse_1": "Blessed be the Lord, my rock, who trains my hands for war, and my fingers for battle;",
+      "verse_2": "he is my steadfast love and my fortress, my stronghold and my deliverer, my shield and he in whom I take refuge, who subdues peoples under me."
+    },
+    "psalm_145": {
+      "verse_1": "I will extol you, my God and King, and bless your name forever and ever.",
+      "verse_2": "Every day I will bless you and praise your name forever and ever."
+    },
+    "psalm_146": {
+      "verse_1": "Praise the Lord! Praise the Lord, O my soul!",
+      "verse_2": "I will praise the Lord as long as I live; I will sing praises to my God while I have my being."
+    },
+    "psalm_147": {
+      "verse_1": "Praise the Lord! For it is good to sing praises to our God; for it is pleasant, and a song of praise is fitting.",
+      "verse_2": "The Lord builds up Jerusalem; he gathers the outcasts of Israel."
+    },
+    "psalm_148": {
+      "verse_1": "Praise the Lord! Praise the Lord from the heavens; praise him in the heights!",
+      "verse_2": "Praise him, all his angels; praise him, all his hosts!"
+    },
+    "psalm_149": {
+      "verse_1": "Praise the Lord! Sing to the Lord a new song, his praise in the assembly of the godly!",
+      "verse_2": "Let Israel be glad in his Maker; let the children of Zion rejoice in their King!"
+    },
+    "psalm_150": {
+      "verse_1": "Praise the Lord! Praise God in his sanctuary; praise him in his mighty heavens!",
+      "verse_2": "Praise him for his mighty deeds; praise him according to his excellent greatness!"
+    },
+    "psalm_61": {
+      "verse_1": "Hear my cry, O God, listen to my prayer;",
+      "verse_2": "from the end of the earth I call to you when my heart is faint. Lead me to the rock that is higher than I,"
+    },
+    "psalm_62": {
+      "verse_1": "For God alone my soul waits in silence; from him comes my salvation.",
+      "verse_2": "He alone is my rock and my salvation, my fortress; I shall not be greatly shaken."
+    },
+    "psalm_63": {
+      "verse_1": "O God, you are my God; earnestly I seek you; my soul thirsts for you; my flesh faints for you, as in a dry and weary land where there is no water.",
+      "verse_2": "So I have looked upon you in the sanctuary, beholding your power and glory."
+    },
+    "psalm_64": {
+      "verse_1": "Hear my voice, O God, in my complaint; preserve my life from dread of the enemy.",
+      "verse_2": "Hide me from the secret plots of the wicked, from the throng of evildoers,"
+    },
+    "psalm_65": {
+      "verse_1": "Praise is due to you, O God, in Zion, and to you shall vows be performed.",
+      "verse_2": "O you who hear prayer, to you shall all flesh come."
+    },
+    "psalm_66": {
+      "verse_1": "Shout for joy to God, all the earth;",
+      "verse_2": "sing the glory of his name; give to him glorious praise!"
+    },
+    "psalm_67": {
+      "verse_1": "May God be gracious to us and bless us and make his face to shine upon us, Selah",
+      "verse_2": "that your way may be known on earth, your saving power among all nations."
+    },
+    "psalm_68": {
+      "verse_1": "God shall arise, his enemies shall be scattered; and those who hate him shall flee before him!",
+      "verse_2": "As smoke is driven away, so you shall drive them away; as wax melts before fire, so the wicked shall perish before God!"
+    },
+    "psalm_69": {
+      "verse_1": "Save me, O God! For the waters have come up to my neck.",
+      "verse_2": "I sink in deep mire, where there is no foothold; I have come into deep waters, and the flood sweeps over me."
+    },
+    "psalm_70": {
+      "verse_1": "Make haste, O God, to deliver me! O Lord, make haste to help me!",
+      "verse_2": "Let them be put to shame and confusion who seek my life! Let them be turned back and brought to dishonor who delight in my hurt!"
+    },
+    "psalm_71": {
+      "verse_1": "In you, O Lord, do I take refuge; let me never be put to shame!",
+      "verse_2": "In your righteousness deliver me and rescue me; incline your ear to me, and save me!"
+    },
+    "psalm_72": {
+      "verse_1": "Give the king your justice, O God, and your righteousness to the royal son!",
+      "verse_2": "May he judge your people with righteousness, and your poor with justice!"
+    },
+    "psalm_73": {
+      "verse_1": "Truly God is good to Israel, to those who are pure in heart.",
+      "verse_2": "But as for me, my feet had almost stumbled, my steps had nearly slipped."
+    },
+    "psalm_74": {
+      "verse_1": "O God, why do you cast us off forever? Why does your anger smoke against the sheep of your pasture?",
+      "verse_2": "Remember your congregation, which you have purchased of old, which you have redeemed to be the tribe of your heritage! Remember Mount Zion, where you have dwelt."
+    },
+    "psalm_75": {
+      "verse_1": "We give thanks to you, O God; we give thanks, for your name is near. We recount your wondrous deeds.",
+      "verse_2": "'At the set time that I appoint I will judge with equity.'"
+    },
+    "psalm_76": {
+      "verse_1": "In Judah God is known; his name is great in Israel.",
+      "verse_2": "His abode has been established in Salem, his dwelling place in Zion."
+    },
+    "psalm_77": {
+      "verse_1": "I cry aloud to God, aloud to God, and he will hear me.",
+      "verse_2": "In the day of my trouble I seek the Lord; in the night my hand is stretched out without wearying; my soul refuses to be comforted."
+    },
+    "psalm_78": {
+      "verse_1": "Give ear, O my people, to my teaching; incline your ears to the words of my mouth!",
+      "verse_2": "I will open my mouth in a parable; I will utter dark sayings from of old,"
+    },
+    "psalm_79": {
+      "verse_1": "O God, the nations have come into your inheritance; they have defiled your holy temple; they have laid Jerusalem in ruins.",
+      "verse_2": "They have given the bodies of your servants to the birds of the heavens for food, the flesh of your faithful to the beasts of the earth."
+    },
+    "psalm_80": {
+      "verse_1": "Give ear, O Shepherd of Israel, you who lead Joseph like a flock! You who are enthroned upon the cherubim, shine forth.",
+      "verse_2": "Before Ephraim and Benjamin and Manasseh, stir up your might and come to save us!"
+    },
+    "psalm_81": {
+      "verse_1": "Sing aloud to God our strength; shout for joy to the God of Jacob!",
+      "verse_2": "Raise a song; sound the tambourine, the sweet lyre with the harp."
+    },
+    "psalm_82": {
+      "verse_1": "God has taken his place in the divine council; in the midst of the gods he holds judgment:",
+      "verse_2": "'How long will you judge unjustly and show partiality to the wicked? Selah'"
+    },
+    "psalm_83": {
+      "verse_1": "O God, do not keep silence; do not hold your peace or be still, O God!",
+      "verse_2": "For behold, your enemies make an uproar; those who hate you have raised their heads."
+    },
+    "psalm_84": {
+      "verse_1": "How lovely is your dwelling place, O Lord of hosts!",
+      "verse_2": "My soul longs, yes, faints for the courts of the Lord; my heart and flesh sing for joy to the living God."
+    },
+    "psalm_85": {
+      "verse_1": "Lord, you were favorable to your land; you restored the fortunes of Jacob.",
+      "verse_2": "You forgave the iniquity of your people; you covered all their sin. Selah"
+    },
+    "psalm_86": {
+      "verse_1": "Incline your ear, O Lord, and answer me, for I am poor and needy.",
+      "verse_2": "Preserve my life, for I am godly; save your servant, who trusts in you—you are my God."
+    },
+    "psalm_87": {
+      "verse_1": "On the holy mount stands the city he founded;",
+      "verse_2": "the Lord loves the gates of Zion more than all the dwelling places of Jacob."
+    },
+    "psalm_88": {
+      "verse_1": "O Lord, God of my salvation, I cry out day and night before you.",
+      "verse_2": "Let my prayer come before you; incline your ear to my cry!"
+    },
+    "psalm_89": {
+      "verse_1": "I will sing of the steadfast love of the Lord, forever; with my mouth I will make known your faithfulness to all generations.",
+      "verse_2": "For I said, 'Steadfast love will be built up forever; in the heavens you will establish your faithfulness.'"
+    },
+    "psalm_90": {
+      "verse_1": "Lord, you have been our dwelling place in all generations.",
+      "verse_2": "Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God."
+    },
+    "psalm_91": {
+      "verse_1": "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty.",
+      "verse_2": "I will say to the Lord, 'My refuge and my fortress, my God, in whom I trust.'"
+    },
+    "psalm_92": {
+      "verse_1": "It is good to give thanks to the Lord, to sing praises to your name, O Most High;",
+      "verse_2": "to declare your steadfast love in the morning, and your faithfulness by night,"
+    },
+    "psalm_93": {
+      "verse_1": "The Lord reigns; he is robed in majesty; the Lord is robed; he has put on strength as his belt. Yes, the world is established; it shall never be moved.",
+      "verse_2": "Your throne is established from of old; you are from everlasting."
+    },
+    "psalm_94": {
+      "verse_1": "O Lord, God of vengeance, O God of vengeance, shine forth!",
+      "verse_2": "Rise up, O judge of the earth; repay to the proud what they deserve!"
+    },
+    "psalm_95": {
+      "verse_1": "Oh come, let us sing to the Lord; let us make a joyful noise to the rock of our salvation!",
+      "verse_2": "Let us come into his presence with thanksgiving; let us make a joyful noise to him with songs of praise!"
+    },
+    "psalm_96": {
+      "verse_1": "Oh sing to the Lord a new song; sing to the Lord, all the earth!",
+      "verse_2": "Sing to the Lord, bless his name; tell of his salvation from day to day."
+    },
+    "psalm_97": {
+      "verse_1": "The Lord reigns, let the earth rejoice; let the many coastlands be glad!",
+      "verse_2": "Clouds and thick darkness are all around him; righteousness and justice are the foundation of his throne."
+    },
+    "psalm_98": {
+      "verse_1": "Oh sing to the Lord a new song, for he has done marvelous things! His right hand and his holy arm have worked salvation for him.",
+      "verse_2": "The Lord has made known his salvation; he has revealed his righteousness in the sight of the nations."
+    },
+    "psalm_99": {
+      "verse_1": "The Lord reigns; let the peoples tremble! He sits enthroned upon the cherubim; let the earth quake!",
+      "verse_2": "The Lord is great in Zion; he is exalted over all the peoples."
+    },
+    "psalm_100": {
+      "verse_1": "Make a joyful noise to the Lord, all the earth!",
+      "verse_2": "Serve the Lord with gladness! Come into his presence with singing!"
+    },
+    "psalm_101": {
+      "verse_1": "I will sing of steadfast love and justice; to you, O Lord, I will make music.",
+      "verse_2": "I will ponder the way that is blameless. Oh when will you come to me? I will walk with integrity of heart within my house;"
+    },
+    "psalm_102": {
+      "verse_1": "Hear my prayer, O Lord; let my cry come to you!",
+      "verse_2": "Do not hide your face from me in the day of my distress! Incline your ear to me; answer me speedily in the day when I call!"
+    },
+    "psalm_103": {
+      "verse_1": "Bless the Lord, O my soul, and all that is within me, bless his holy name!",
+      "verse_2": "Bless the Lord, O my soul, and forget not all his benefits,"
+    },
+    "psalm_104": {
+      "verse_1": "Bless the Lord, O my soul! O Lord my God, you are very great! You are clothed with splendor and majesty,",
+      "verse_2": "covering yourself with light as with a garment, stretching out the heavens like a tent."
+    },
+    "psalm_105": {
+      "verse_1": "Oh give thanks to the Lord; call upon his name; make known his deeds among the peoples!",
+      "verse_2": "Sing to him, sing praises to him; tell of all his wondrous works!"
+    },
+    "psalm_106": {
+      "verse_1": "Praise the Lord! Oh give thanks to the Lord, for he is good, for his steadfast love endures forever!",
+      "verse_2": "Who can utter the mighty deeds of the Lord, or declare all his praise?"
+    },
+    "psalm_107": {
+      "verse_1": "Oh give thanks to the Lord, for he is good, for his steadfast love endures forever!",
+      "verse_2": "Let the redeemed of the Lord say so, whom he has redeemed from trouble"
+    },
+    "psalm_108": {
+      "verse_1": "My heart is steadfast, O God! I will sing and make melody with all my being!",
+      "verse_2": "Awake, O harp and lyre! I will awake the dawn!"
+    },
+    "psalm_109": {
+      "verse_1": "Be not silent, O God of my praise!",
+      "verse_2": "For wicked and deceitful mouths are opened against me, speaking against me with lying tongues."
+    },
+    "psalm_110": {
+      "verse_1": "The Lord says to my Lord: 'Sit at my right hand, until I make your enemies your footstool.'",
+      "verse_2": "The Lord sends forth from Zion your mighty scepter. Rule in the midst of your enemies!"
+    }
+  },
+  "interpretation": {
+    "psalm_1_verse_1": "Encourages avoiding negative influences and seeking wisdom.",
+    "psalm_1_verse_2": "Highlights the importance of finding joy and guidance in spiritual teachings.",
+    "psalm_2_verse_1": "Reflects on the futility of opposing divine will.",
+    "psalm_2_verse_2": "Highlights the unity of earthly powers against divine authority.",
+    "psalm_3_verse_1": "Expresses a cry for help amidst overwhelming opposition.",
+    "psalm_3_verse_2": "Acknowledges the doubts of others regarding divine salvation.",
+    "psalm_4_verse_1": "A plea for divine response and relief from distress.",
+    "psalm_4_verse_2": "Questions the pursuit of vanity and falsehood.",
+    "psalm_5_verse_1": "A call for divine attention to personal struggles.",
+    "psalm_5_verse_2": "Expresses reliance on divine listening and intervention.",
+    "psalm_6_verse_1": "A request for mercy and relief from divine anger.",
+    "psalm_6_verse_2": "A plea for healing and comfort in times of distress.",
+    "psalm_7_verse_1": "Expresses trust in divine protection and deliverance.",
+    "psalm_7_verse_2": "Describes the threat of being overwhelmed by adversaries.",
+    "psalm_8_verse_1": "Celebrates the majesty and glory of the divine name.",
+    "psalm_8_verse_2": "Acknowledges the strength found in innocence and purity.",
+    "psalm_9_verse_1": "Encourages gratitude and remembrance of divine deeds.",
+    "psalm_9_verse_2": "Calls for joy and praise in recognition of divine greatness.",
+    "psalm_10_verse_1": "Questions the perceived absence of divine presence in trouble.",
+    "psalm_10_verse_2": "Critiques the arrogance and schemes of the wicked.",
+    // ... continue this pattern for all interpretations ...
+    "psalm_149_verse_1": "Calls for new expressions of praise and worship.",
+    "psalm_149_verse_2": "Encourages joy and celebration in the divine presence.",
+    "psalm_150_verse_1": "Calls for praise and worship in all places.",
+    "psalm_150_verse_2": "Celebrates the greatness and power of the divine.",
+    "psalm_11_verse_1": "Expresses trust in divine protection despite threats.",
+    "psalm_11_verse_2": "Acknowledges the dangers posed by the wicked.",
+    "psalm_12_verse_1": "Laments the scarcity of faithful and godly people.",
+    "psalm_12_verse_2": "Critiques deceit and insincerity among people.",
+    "psalm_13_verse_1": "A cry for divine remembrance and presence.",
+    "psalm_13_verse_2": "Expresses sorrow and longing for divine intervention.",
+    "psalm_14_verse_1": "Critiques disbelief and moral corruption.",
+    "psalm_14_verse_2": "Describes divine observation of humanity's faithfulness.",
+    "psalm_15_verse_1": "Inquires about the qualities of those who dwell with God.",
+    "psalm_15_verse_2": "Highlights integrity and truthfulness as key virtues.",
+    "psalm_16_verse_1": "A plea for divine preservation and refuge.",
+    "psalm_16_verse_2": "Acknowledges God as the source of all goodness.",
+    "psalm_17_verse_1": "A call for divine attention to a just cause.",
+    "psalm_17_verse_2": "Seeks vindication and divine justice.",
+    "psalm_18_verse_1": "Expresses love and reliance on divine strength.",
+    "psalm_18_verse_2": "Describes God as a protector and savior.",
+    "psalm_19_verse_1": "Celebrates the revelation of God's glory in creation.",
+    "psalm_19_verse_2": "Acknowledges the continuous testimony of nature.",
+    "psalm_20_verse_1": "A blessing for divine assistance in times of trouble.",
+    "psalm_20_verse_2": "Seeks divine support and strength from sacred places.",
+    "psalm_21_verse_1": "Rejoices in divine strength and salvation.",
+    "psalm_21_verse_2": "Acknowledges the fulfillment of desires through divine favor.",
+    "psalm_22_verse_1": "Expresses a profound sense of abandonment.",
+    "psalm_22_verse_2": "Describes persistent cries for divine response.",
+    "psalm_23_verse_1": "Symbolizes divine guidance and provision.",
+    "psalm_23_verse_2": "Represents peace and restoration through faith.",
+    "psalm_24_verse_1": "Affirms God's ownership of the earth and its inhabitants.",
+    "psalm_24_verse_2": "Describes the divine foundation of the world.",
+    "psalm_25_verse_1": "Expresses trust and reliance on God.",
+    "psalm_25_verse_2": "Seeks protection from shame and enemies.",
+    "psalm_26_verse_1": "Asks for divine vindication based on integrity.",
+    "psalm_26_verse_2": "Requests divine examination and testing of character.",
+    "psalm_27_verse_1": "Emphasizes trust in divine protection and fearlessness.",
+    "psalm_27_verse_2": "Highlights the strength and security found in faith.",
+    "psalm_28_verse_1": "A plea for divine response and protection.",
+    "psalm_28_verse_2": "Seeks divine mercy and help in prayer.",
+    "psalm_29_verse_1": "Calls for recognition of divine glory and strength.",
+    "psalm_29_verse_2": "Encourages worship in the beauty of holiness.",
+    "psalm_30_verse_1": "Praises God for deliverance from enemies.",
+    "psalm_30_verse_2": "Acknowledges divine healing and help.",
+    "psalm_31_verse_1": "Seeks refuge and deliverance in divine righteousness.",
+    "psalm_31_verse_2": "Requests swift rescue and protection.",
+    "psalm_32_verse_1": "Blesses those forgiven and free from sin.",
+    "psalm_32_verse_2": "Highlights the joy of integrity and divine pardon.",
+    "psalm_33_verse_1": "Calls for joyful praise among the righteous.",
+    "psalm_33_verse_2": "Encourages musical worship and thanksgiving.",
+    "psalm_34_verse_1": "Encourages constant praise and gratitude.",
+    "psalm_34_verse_2": "Highlights humility and joy in divine presence.",
+    "psalm_35_verse_1": "Seeks divine intervention against adversaries.",
+    "psalm_35_verse_2": "Requests divine protection and defense.",
+    "psalm_36_verse_1": "Describes the inner voice of transgression.",
+    "psalm_36_verse_2": "Critiques self-deception and hidden sin.",
+    "psalm_37_verse_1": "Advises against envy and worry over evildoers.",
+    "psalm_37_verse_2": "Assures the temporary nature of wrongdoing.",
+    "psalm_38_verse_1": "A plea for mercy amidst divine discipline.",
+    "psalm_38_verse_2": "Describes the weight of divine correction.",
+    "psalm_39_verse_1": "Commits to guarding speech and behavior.",
+    "psalm_39_verse_2": "Expresses the struggle of silent suffering.",
+    "psalm_40_verse_1": "Testifies to divine attentiveness and rescue.",
+    "psalm_40_verse_2": "Describes deliverance from despair to stability.",
+    "psalm_41_verse_1": "Blesses those who care for the needy.",
+    "psalm_41_verse_2": "Affirms divine protection and blessing.",
+    "psalm_42_verse_1": "Expresses deep longing for divine presence.",
+    "psalm_42_verse_2": "Describes spiritual thirst and anticipation.",
+    "psalm_43_verse_1": "Seeks divine vindication and deliverance.",
+    "psalm_43_verse_2": "Questions divine absence amidst oppression.",
+    "psalm_44_verse_1": "Recalls past divine deeds and deliverance.",
+    "psalm_44_verse_2": "Acknowledges divine power in historical victories.",
+    "psalm_45_verse_1": "Introduces a royal and celebratory theme.",
+    "psalm_45_verse_2": "Praises the king's grace and divine blessing.",
+    "psalm_46_verse_1": "Affirms God's presence and support in times of trouble.",
+    "psalm_46_verse_2": "Encourages faith and calmness amidst chaos and change.",
+    "psalm_47_verse_1": "Calls for joyful praise and celebration.",
+    "psalm_47_verse_2": "Acknowledges divine sovereignty over the earth.",
+    "psalm_48_verse_1": "Praises God's greatness and holy city.",
+    "psalm_48_verse_2": "Describes the beauty and joy of Zion.",
+    "psalm_49_verse_1": "Calls for universal attention to wisdom.",
+    "psalm_49_verse_2": "Addresses all social classes with insight.",
+    "psalm_50_verse_1": "Describes God's majestic call to the earth.",
+    "psalm_50_verse_2": "Highlights divine beauty and revelation from Zion.",
+    "psalm_51_verse_1": "A plea for mercy and forgiveness.",
+    "psalm_51_verse_2": "A request for cleansing and purification.",
+    "psalm_52_verse_1": "Critiques the arrogance of evildoers.",
+    "psalm_52_verse_2": "Describes the destructive power of deceit.",
+    "psalm_53_verse_1": "Critiques disbelief and moral corruption.",
+    "psalm_53_verse_2": "Describes divine observation of humanity's faithfulness.",
+    "psalm_54_verse_1": "Seeks divine salvation and vindication.",
+    "psalm_54_verse_2": "Requests divine attention to prayer.",
+    "psalm_55_verse_1": "A plea for divine attention and mercy.",
+    "psalm_55_verse_2": "Expresses restlessness and distress.",
+    "psalm_56_verse_1": "Seeks divine grace amidst oppression.",
+    "psalm_56_verse_2": "Describes the relentless attacks of enemies.",
+    "psalm_57_verse_1": "Seeks refuge in divine mercy and protection.",
+    "psalm_57_verse_2": "Calls out to God for fulfillment of purpose.",
+    "psalm_58_verse_1": "Questions the justice of earthly rulers.",
+    "psalm_58_verse_2": "Critiques the hidden violence of the wicked.",
+    "psalm_59_verse_1": "Seeks divine deliverance from enemies.",
+    "psalm_59_verse_2": "Requests protection from evildoers.",
+    "psalm_60_verse_1": "A plea for restoration after divine rejection.",
+    "psalm_60_verse_2": "Describes the effects of divine anger on the land.",
+    "psalm_111_verse_1": "Calls for wholehearted gratitude in community.",
+    "psalm_111_verse_2": "Celebrates the greatness and study of divine works.",
+    "psalm_112_verse_1": "Blesses those who fear and delight in divine commandments.",
+    "psalm_112_verse_2": "Promises strength and blessing to the righteous lineage.",
+    "psalm_113_verse_1": "Encourages praise from the servants of the Lord.",
+    "psalm_113_verse_2": "Affirms the eternal blessing of God's name.",
+    "psalm_114_verse_1": "Recalls the exodus and divine presence with Israel.",
+    "psalm_114_verse_2": "Describes God's dominion and sanctuary among his people.",
+    "psalm_115_verse_1": "Seeks glory for God's name, not human recognition.",
+    "psalm_115_verse_2": "Questions the doubt of nations regarding God's presence.",
+    "psalm_116_verse_1": "Expresses love for God due to answered prayers.",
+    "psalm_116_verse_2": "Commits to lifelong prayer and reliance on God.",
+    "psalm_117_verse_1": "Calls for global praise and exaltation of God.",
+    "psalm_117_verse_2": "Affirms God's enduring love and faithfulness.",
+    "psalm_118_verse_1": "Encourages thanksgiving for God's enduring love.",
+    "psalm_118_verse_2": "Calls for Israel to affirm God's steadfast love.",
+    "psalm_119_verse_1": "Blesses those who live blamelessly and follow divine law.",
+    "psalm_119_verse_2": "Highlights the joy of seeking God wholeheartedly.",
+    "psalm_120_verse_1": "Describes calling on God in distress and receiving an answer.",
+    "psalm_120_verse_2": "Seeks deliverance from deceit and falsehood.",
+    "psalm_121_verse_1": "Questions the source of help, affirming divine assistance.",
+    "psalm_121_verse_2": "Affirms God's role as creator and helper.",
+    "psalm_122_verse_1": "Expresses joy in going to the house of the Lord.",
+    "psalm_122_verse_2": "Describes the stability and presence in Jerusalem.",
+    "psalm_123_verse_1": "Lifts eyes to God, seeking mercy.",
+    "psalm_123_verse_2": "Compares reliance on God to servants looking to their master.",
+    "psalm_124_verse_1": "Acknowledges divine help in times of adversity.",
+    "psalm_124_verse_2": "Reflects on God's protection against human threats.",
+    "psalm_125_verse_1": "Compares trust in God to the immovability of Mount Zion.",
+    "psalm_125_verse_2": "Describes God's protective presence around his people.",
+    "psalm_126_verse_1": "Recalls the joy of divine restoration.",
+    "psalm_126_verse_2": "Describes the joyful testimony of God's great deeds.",
+    "psalm_127_verse_1": "Emphasizes the futility of human effort without divine blessing.",
+    "psalm_127_verse_2": "Highlights God's provision of rest and sustenance.",
+    "psalm_128_verse_1": "Blesses those who fear God and follow his ways.",
+    "psalm_128_verse_2": "Promises prosperity and well-being to the faithful.",
+    "psalm_129_verse_1": "Reflects on enduring affliction and divine deliverance.",
+    "psalm_129_verse_2": "Affirms the ultimate failure of adversaries.",
+    "psalm_130_verse_1": "Cries out to God from the depths of despair.",
+    "psalm_130_verse_2": "Seeks attentive divine mercy and forgiveness.",
+    "psalm_131_verse_1": "Expresses humility and contentment in divine presence.",
+    "psalm_131_verse_2": "Describes a calm and quieted soul, like a child.",
+    "psalm_132_verse_1": "Calls for divine remembrance of David's devotion.",
+    "psalm_132_verse_2": "Recalls David's vow to honor God.",
+    "psalm_133_verse_1": "Celebrates the goodness of unity among brethren.",
+    "psalm_133_verse_2": "Compares unity to anointing oil, symbolizing blessing.",
+    "psalm_134_verse_1": "Calls for night-time worship and blessing of God.",
+    "psalm_134_verse_2": "Encourages lifting hands in worship and blessing.",
+    "psalm_135_verse_1": "Calls for praise from God's servants.",
+    "psalm_135_verse_2": "Describes worship in God's house and courts.",
+    "psalm_136_verse_1": "Encourages thanksgiving for God's enduring love.",
+    "psalm_136_verse_2": "Affirms God's supremacy and steadfast love.",
+    "psalm_137_verse_1": "Laments the exile and longing for Zion.",
+    "psalm_137_verse_2": "Describes the sorrow and silence of captivity.",
+    "psalm_138_verse_1": "Expresses gratitude and praise for God's faithfulness.",
+    "psalm_138_verse_2": "Acknowledges God's exaltation of his name and word.",
+    "psalm_139_verse_1": "Affirms God's intimate knowledge of the individual.",
+    "psalm_139_verse_2": "Describes God's awareness of thoughts and actions.",
+    "psalm_140_verse_1": "Seeks deliverance from evil and violence.",
+    "psalm_140_verse_2": "Describes the malicious intent of adversaries.",
+    "psalm_141_verse_1": "Calls for divine attention and response to prayer.",
+    "psalm_141_verse_2": "Compares prayer to incense and sacrifice.",
+    "psalm_142_verse_1": "Cries out to God for mercy and help.",
+    "psalm_142_verse_2": "Pours out troubles before God, seeking relief.",
+    "psalm_143_verse_1": "Seeks divine hearing and mercy in prayer.",
+    "psalm_143_verse_2": "Acknowledges human unrighteousness before God.",
+    "psalm_144_verse_1": "Blesses God for training and protection.",
+    "psalm_144_verse_2": "Describes God as a fortress and deliverer.",
+    "psalm_145_verse_1": "Commits to eternal praise of God.",
+    "psalm_145_verse_2": "Promises daily praise and blessing of God's name.",
+    "psalm_146_verse_1": "Calls for lifelong praise of God.",
+    "psalm_146_verse_2": "Commits to praising God throughout life.",
+    "psalm_147_verse_1": "Encourages praise for God's goodness and restoration.",
+    "psalm_147_verse_2": "Describes God's rebuilding and gathering of his people.",
+    "psalm_148_verse_1": "Calls for praise from the heavens and all creation.",
+    "psalm_148_verse_2": "Encourages praise from angels and heavenly hosts.",
+    "psalm_149_verse_1": "Calls for a new song of praise in the assembly.",
+    "psalm_149_verse_2": "Encourages joy and celebration in God.",
+    "psalm_150_verse_1": "Calls for praise in God's sanctuary and heavens.",
+    "psalm_150_verse_2": "Encourages praise for God's mighty deeds and greatness."
+  }
+}

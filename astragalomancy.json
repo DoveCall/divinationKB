@@ -1,0 +1,70 @@
+{
+  "DiceDivination": {
+    "method": "Astragalomancy",
+    "description": "Dice divination, also known as astragalomancy, involves casting dice to reveal insights and guidance. Each number or combination has a specific meaning that can answer questions or provide direction.",
+    "instructions": {
+      "steps": [
+        "Formulate a clear question before casting the dice.",
+        "Roll one or more dice.",
+        "Interpret the numbers based on the meanings provided."
+      ]
+    },
+    "meanings": {
+      "single_die": {
+        "1": {
+          "meaning": "New beginnings. A fresh start or the emergence of something new. Be open to new opportunities."
+        },
+        "2": {
+          "meaning": "Partnership or balance. Collaboration is key, and decisions may involve a second person."
+        },
+        "3": {
+          "meaning": "Creativity and growth. This is a time for expansion, creativity, and communication."
+        },
+        "4": {
+          "meaning": "Stability and foundations. A focus on building strong foundations for the future."
+        },
+        "5": {
+          "meaning": "Change and adaptability. Embrace flexibility as things are shifting rapidly."
+        },
+        "6": {
+          "meaning": "Harmony and balance. Completion of a cycle and a time to enjoy the fruits of your labor."
+        }
+      },
+      "two_dice_combinations": {
+        "2": {
+          "meaning": "Uncertainty. Challenges ahead require patience and introspection."
+        },
+        "3": {
+          "meaning": "Unexpected surprises. Be cautious of quick changes or disruptions."
+        },
+        "4": {
+          "meaning": "Small victories. Progress may come in small steps, but it's meaningful."
+        },
+        "5": {
+          "meaning": "A message of change. Be prepared to shift your approach or mindset."
+        },
+        "6": {
+          "meaning": "Balance in partnerships. Relationships and collaborations are important now."
+        },
+        "7": {
+          "meaning": "Spiritual insight. The universe is guiding you, pay attention to intuitive messages."
+        },
+        "8": {
+          "meaning": "Material success. Focus on practical matters, including finances and career."
+        },
+        "9": {
+          "meaning": "New beginnings. A new path or opportunity is unfolding, take the leap."
+        },
+        "10": {
+          "meaning": "End of a cycle. Completion of a phase, and it’s time to move forward."
+        },
+        "11": {
+          "meaning": "Challenge and conflict. Tread carefully in matters of disagreement."
+        },
+        "12": {
+          "meaning": "Fulfillment and closure. A chapter is closing, allowing for peace and resolution."
+        }
+      }
+    }
+  }
+}

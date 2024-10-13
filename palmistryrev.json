@@ -1,0 +1,74 @@
+{
+  "palmistry_reversals": {
+    "lines": [
+      {
+        "name": "Heart Line",
+        "reversed_meaning": {
+          "short": "Emotional withdrawal or fear of intimacy. A short heart line suggests difficulty in connecting with others.",
+          "curved downward": "Emotional blockage or inability to forgive. This indicates unresolved feelings or heartache.",
+          "chained": "Emotional turmoil or relationship issues. A chained heart line may indicate a series of emotional ups and downs.",
+          "broken": "Heartbreak or emotional trauma. A broken heart line can signify past emotional wounds that have not healed.",
+          "island": "Periods of emotional stress or depression. An island on the heart line may indicate a time of emotional difficulty.",
+          "double": "Intense emotional experiences or dual relationships. A double heart line may suggest a person with deep emotional capacity.",
+          "absent": "Lack of emotional expression or detachment. An absent heart line may suggest a person who struggles to connect emotionally."
+        }
+      },
+      {
+        "name": "Head Line",
+        "reversed_meaning": {
+          "short": "Lack of focus or indecision. You may be struggling with mental clarity or scattered thinking.",
+          "broken": "Mental strain or confusion. A broken head line may indicate burnout or a lack of clear direction.",
+          "wavy": "Inconsistent thinking or indecisiveness. A wavy head line suggests fluctuating mental states.",
+          "forked": "Conflicting thoughts or dual interests. A forked head line may indicate a person torn between two paths.",
+          "island": "Periods of mental stress or confusion. An island on the head line may suggest a time of mental difficulty.",
+          "double": "Enhanced mental capacity or dual interests. A double head line may indicate a person with a versatile mind.",
+          "absent": "Lack of intellectual engagement or apathy. An absent head line may suggest a person who avoids deep thinking."
+        }
+      },
+      {
+        "name": "Life Line",
+        "reversed_meaning": {
+          "faint": "Lack of vitality or motivation. A faint life line suggests that you may be feeling unenergetic or uninspired.",
+          "fragmented": "Health issues or instability. A fragmented life line may reflect physical or emotional challenges.",
+          "forked": "Life changes or transitions. A forked life line may indicate a significant change in life path or direction.",
+          "double": "Strong support system or dual life paths. A double life line can suggest protection or a second chance.",
+          "island": "Periods of illness or stress. An island on the life line may indicate a time of health challenges.",
+          "curved outward": "Adventurous spirit or openness to new experiences. A curved life line may suggest a person who embraces change.",
+          "absent": "Lack of grounding or stability. An absent life line may suggest a person who feels disconnected from their roots."
+        }
+      },
+      {
+        "name": "Fate Line",
+        "reversed_meaning": {
+          "absent": "Lack of direction or purpose. An absent fate line may suggest a feeling of being lost or without a clear path.",
+          "crossed": "Obstacles or challenges. A crossed fate line may indicate difficulties in achieving goals.",
+          "broken": "Interrupted career or life path. A broken fate line can signify unexpected changes or disruptions.",
+          "island": "Periods of career or life instability. An island on the fate line may suggest a time of uncertainty.",
+          "double": "Multiple career paths or dual ambitions. A double fate line may indicate a person with diverse interests.",
+          "curved": "Adaptability or change in career direction. A curved fate line may suggest a person who frequently changes their professional path."
+        }
+      },
+      {
+        "name": "Sun Line",
+        "reversed_meaning": {
+          "faint": "Lack of recognition or success. A faint sun line may suggest struggles with self-expression or creativity.",
+          "broken": "Interrupted success or setbacks. A broken sun line may indicate challenges in achieving personal goals.",
+          "absent": "Lack of fame or public recognition. An absent sun line may suggest a life lived out of the spotlight.",
+          "island": "Periods of creative block or lack of recognition. An island on the sun line may indicate struggles with self-expression.",
+          "double": "Enhanced creativity or dual talents. A double sun line may suggest a person with multiple creative outlets.",
+          "curved": "Fluctuating creativity or changing artistic focus. A curved sun line may indicate a person who explores various creative paths."
+        }
+      },
+      {
+        "name": "Mercury Line",
+        "reversed_meaning": {
+          "absent": "Communication issues or lack of business acumen. An absent mercury line may suggest difficulties in expressing oneself.",
+          "broken": "Interrupted communication or business setbacks. A broken mercury line can indicate challenges in these areas.",
+          "island": "Periods of communication difficulties or business challenges. An island on the mercury line may suggest temporary setbacks.",
+          "double": "Enhanced communication skills or dual business ventures. A double mercury line may indicate a person with strong networking abilities.",
+          "curved": "Adaptability in communication or business strategies. A curved mercury line may suggest a person who is flexible in their approach."
+        }
+      }
+    ]
+  }
+}

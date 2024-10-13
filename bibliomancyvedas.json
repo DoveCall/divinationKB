@@ -1,0 +1,17 @@
+{
+  "method": "Vedas Bibliomancy",
+  "verses": {
+    "Rigveda": {
+      "hymn_1": {
+        "verse_1": "Agni, the divine priest, the wise and the true..."
+      },
+      "hymn_2": {
+        "verse_1": "The eternal light shines through the heavens."
+      }
+    }
+  },
+  "interpretation": {
+    "verse_1": "Symbolizes divine knowledge and wisdom.",
+    "verse_2": "Reflects the eternal nature of the cosmos."
+  }
+}
