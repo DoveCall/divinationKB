@@ -7,7 +7,9 @@
           "long": "Indicates a balanced, emotionally open individual with deep connections.",
           "short": "Suggests a person who is private and may struggle with expressing their emotions.",
           "curved": "Represents a person who is intuitive and emotionally expressive.",
-          "straight": "Indicates a more logical and reserved approach to relationships."
+          "straight": "Indicates a more logical and reserved approach to relationships.",
+          "feathered": "Shows emotional sensitivity and vulnerability.",
+          "crossed": "Indicates conflicting emotions or internal struggles."
         }
       },
       "head_line": {
@@ -16,7 +18,9 @@
           "long": "Denotes a deep thinker who is focused and determined.",
           "short": "Indicates someone who is straightforward and tends to act quickly.",
           "curved": "Shows creativity and imagination in thinking.",
-          "straight": "Represents a logical, practical mindset."
+          "straight": "Represents a logical, practical mindset.",
+          "wavy": "Suggests fluctuating thoughts or indecisiveness.",
+          "forked": "Indicates dual interests or conflicting thoughts."
         }
       },
       "life_line": {
@@ -124,7 +128,9 @@
     },
     "other_elements": {
       "finger_shapes": {
-        "definition": "The shape of the fingers indicates personality traits. Long fingers suggest a thoughtful and analytical nature, while short fingers show action-oriented behavior."
+        "definition": "The shape of the fingers indicates personality traits. Long fingers suggest a thoughtful and analytical nature, while short fingers show action-oriented behavior.",
+        "tapered": "Indicates a refined, artistic nature.",
+        "square": "Suggests practicality and a straightforward approach."
       },
       "hand_shapes": {
         "earth_hand": {
@@ -138,10 +144,18 @@
         },
         "water_hand": {
           "definition": "Long palms with long fingers, suggesting sensitivity, creativity, and emotional depth."
+        },
+        "mixed_hand": {
+          "definition": "A combination of different hand shapes, indicating versatility and adaptability."
         }
       },
       "fingerprints": {
         "definition": "Fingerprints also carry significance in palmistry. Whorls, loops, and arches reflect different personality traits such as determination, adaptability, and creativity."
+      },
+      "skin_texture": {
+        "definition": "The texture of the skin on the palm can indicate different personality traits.",
+        "soft": "Suggests sensitivity and a gentle nature.",
+        "rough": "Indicates a practical, hardworking individual."
       }
     }
   }

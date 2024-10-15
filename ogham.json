@@ -224,21 +224,21 @@
       "symbolic_foods": ["Elderberries"]
     },
     {
-      "name": "Ailim (Fir)",
-      "meaning": "Stability, strength, endurance.",
-      "positive_aspects": "Support, protection.",
+      "name": "Ailm (Elm)",
+      "meaning": "Resilience, endurance, and protection.",
+      "positive_aspects": "Strength, stability.",
       "negative_aspects": "Rigidity, stubbornness.",
       "interpretations": {
-        "love": "Symbolizes stable relationships.",
-        "career": "Encourages perseverance.",
-        "health": "Promotes physical endurance."
+        "love": "Represents enduring love and commitment.",
+        "career": "Encourages perseverance and long-term planning.",
+        "health": "Symbolizes physical strength and recovery."
       },
-      "image_url": "http://example.com/ailim_image.jpg",
-      "symbolic_animals": ["Wolf"],
-      "elemental_associations": "Fire",
+      "image_url": "http://example.com/ailm_image.jpg",
+      "symbolic_animals": ["Bear"],
+      "elemental_associations": "Earth",
       "chakra_connections": "Solar Plexus Chakra",
-      "affirmations": "I am stable and strong, enduring through all challenges.",
-      "symbolic_foods": ["Fir needles"]
+      "affirmations": "I am resilient and strong, capable of overcoming any challenge.",
+      "symbolic_foods": ["Elm bark"]
     },
     {
       "name": "Onn (Gorse)",

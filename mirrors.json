@@ -2,31 +2,223 @@
   "mirror_divination": [
     {
       "vision": "Clear Reflection",
+      "category": "Clarity and Truth",
       "meaning": {
-        "positive": "Clarity, truth, and self-awareness. A clear reflection indicates that you are seeing the situation clearly and are in alignment with your true self.",
-        "negative": "Over-focus on appearances. You may be too concerned with how things appear on the surface, ignoring deeper truths."
-      }
+        "positive": "Clarity, truth, and self-awareness. Indicates that you are seeing situations clearly and are aligned with your true self.",
+        "negative": "Overemphasis on appearances; you may be too concerned with surface impressions, ignoring deeper truths."
+      },
+      "strengths": "Strong self-awareness and clear perception.",
+      "challenges": "Risk of superficiality and neglecting deeper issues.",
+      "advice": "Balance your focus between appearances and underlying truths."
+    },
+    {
+      "vision": "Pristine Mirror",
+      "category": "Clarity and Truth",
+      "meaning": {
+        "positive": "Purity of intention and honest communication. Suggests transparency in dealings and relationships.",
+        "negative": "Naivety and lack of depth. Possibly overlooking complexities by focusing only on what's apparent."
+      },
+      "strengths": "Honesty, transparency, and pure intentions.",
+      "challenges": "Potential naivety and overlooking hidden complexities.",
+      "advice": "Stay honest but be mindful of underlying factors."
     },
     {
       "vision": "Distorted Reflection",
+      "category": "Distortion and Change",
       "meaning": {
-        "positive": "Change, transformation, and new perspectives. A distorted reflection can indicate that things are shifting, allowing for new ways of seeing.",
+        "positive": "Change, transformation, and new perspectives. Indicates that shifts are allowing for new ways of seeing.",
         "negative": "Confusion, deception, or unclear perceptions. You may be misled by illusions or misunderstandings."
-      }
+      },
+      "strengths": "Adaptability and openness to transformation.",
+      "challenges": "Potential confusion and susceptibility to deception.",
+      "advice": "Embrace change but seek clarity to avoid misunderstandings."
+    },
+    {
+      "vision": "Rippling Reflection",
+      "category": "Distortion and Change",
+      "meaning": {
+        "positive": "Emotional depth and adaptability. Embracing fluidity leads to growth.",
+        "negative": "Emotional instability and turmoil. Difficulty finding balance.",
+      },
+      "strengths": "Ability to adapt emotionally and go with the flow.",
+      "challenges": "Emotional swings and lack of stability.",
+      "advice": "Seek emotional balance while embracing adaptability."
     },
     {
       "vision": "No Reflection",
+      "category": "Absence and Mystery",
       "meaning": {
-        "positive": "Mystery, the unknown, and spiritual exploration. The absence of a reflection can suggest that the answer is hidden or requires deeper spiritual investigation.",
-        "negative": "A loss of identity or disconnect from self. You may feel out of touch with who you are or unsure of your path."
-      }
+        "positive": "Mystery, the unknown, and spiritual exploration. Suggests that answers require deeper investigation.",
+        "negative": "Loss of identity or disconnect from self. Feeling out of touch or unsure of your path."
+      },
+      "strengths": "Openness to spiritual exploration and embracing mystery.",
+      "challenges": "Feeling lost or disconnected from oneself.",
+      "advice": "Engage in self-discovery and spiritual practices to find direction."
+    },
+    {
+      "vision": "Fading Reflection",
+      "category": "Absence and Mystery",
+      "meaning": {
+        "positive": "Letting go and transition. Moving away from past identities.",
+        "negative": "Fear of being forgotten or feelings of insignificance. Concern over losing impact or presence."
+      },
+      "strengths": "Ability to release the past and embrace change.",
+      "challenges": "Anxiety about loss of identity or relevance.",
+      "advice": "Embrace transitions as opportunities for growth."
     },
     {
       "vision": "Shadows in the Reflection",
+      "category": "Shadows and Secrets",
       "meaning": {
-        "positive": "Hidden truths, protection, and guidance from unseen forces. Shadows may indicate that protective forces are working in your favor.",
-        "negative": "Fear, secrets, or unresolved issues. Shadows in the reflection can symbolize hidden fears or things that you are avoiding."
-      }
+        "positive": "Hidden truths, protection, and guidance from unseen forces. Protective energies are at work.",
+        "negative": "Fear, secrets, or unresolved issues. Symbolizes hidden fears or avoidance."
+      },
+      "strengths": "Intuition and connection to protective forces.",
+      "challenges": "Confronting hidden fears and unresolved issues.",
+      "advice": "Acknowledge and address what is hidden to move forward."
+    },
+    {
+      "vision": "Dark Figures Behind You",
+      "category": "Shadows and Secrets",
+      "meaning": {
+        "positive": "Ancestral support and wisdom from the past.",
+        "negative": "Lingering past issues and unresolved history affecting the present."
+      },
+      "strengths": "Access to ancestral knowledge and guidance.",
+      "challenges": "Being held back by past events or traumas.",
+      "advice": "Learn from the past but do not let it hinder your present."
+    },
+    {
+      "vision": "Glowing Reflection",
+      "category": "Light and Illumination",
+      "meaning": {
+        "positive": "Enlightenment and inner beauty shining outward. Indicates a radiant personal energy.",
+        "negative": "Overexposure and vulnerability. Possibly sharing too much or being overly transparent."
+      },
+      "strengths": "Radiant energy and positive influence on others.",
+      "challenges": "Feeling exposed or overly vulnerable.",
+      "advice": "Share your light but set healthy boundaries."
+    },
+    {
+      "vision": "Blinding Light",
+      "category": "Light and Illumination",
+      "meaning": {
+        "positive": "Revelation and sudden clarity. Epiphanies or significant insights are imminent.",
+        "negative": "Overwhelm and inability to see details. Important nuances may be missed."
+      },
+      "strengths": "Receiving powerful insights and clarity.",
+      "challenges": "Overlooking important details due to overwhelming information.",
+      "advice": "Take time to process revelations thoroughly."
+    },
+    {
+      "vision": "Cracked Mirror",
+      "category": "Fragmentation and Multiplicity",
+      "meaning": {
+        "positive": "Breaking old patterns and resilience. Strength gained through adversity.",
+        "negative": "Feeling broken, bad luck, or misfortune. Potential for self-image issues."
+      },
+      "strengths": "Resilience and ability to rebuild.",
+      "challenges": "Struggling with self-image and feelings of brokenness.",
+      "advice": "Focus on healing and learning from challenges."
+    },
+    {
+      "vision": "Shattered Reflection",
+      "category": "Fragmentation and Multiplicity",
+      "meaning": {
+        "positive": "Liberation from constraints and complete transformation.",
+        "negative": "Chaos, loss of self, and fragmentation. Difficulty in reassembling pieces of life."
+      },
+      "strengths": "Embracing transformation and new beginnings.",
+      "challenges": "Coping with chaos and loss of direction.",
+      "advice": "Allow yourself to rebuild and redefine who you are."
+    },
+    {
+      "vision": "Inverted Reflection",
+      "category": "Inversion and Perspective",
+      "meaning": {
+        "positive": "New perspectives and challenging norms. Encourages thinking outside the box.",
+        "negative": "Distorted self-image and misinterpretation. Potential for misunderstanding situations."
+      },
+      "strengths": "Creative thinking and openness to new ideas.",
+      "challenges": "Confusion due to altered perceptions.",
+      "advice": "Seek clarity by verifying perceptions with trusted sources."
+    },
+    {
+      "vision": "Mirror Image Moving Independently",
+      "category": "Inversion and Perspective",
+      "meaning": {
+        "positive": "Connection to higher self and intuition guiding actions.",
+        "negative": "Loss of control and subconscious influences overriding conscious decisions."
+      },
+      "strengths": "Strong intuition and spiritual connection.",
+      "challenges": "Feeling disconnected from reality or personal agency.",
+      "advice": "Balance intuition with conscious decision-making."
+    },
+    {
+      "vision": "Reflection of Another Person",
+      "category": "Others in Reflection",
+      "meaning": {
+        "positive": "Empathy, deep connections, and understanding others.",
+        "negative": "Living vicariously and neglecting self-needs. Possible codependency."
+      },
+      "strengths": "Strong relationships and empathetic abilities.",
+      "challenges": "Neglecting personal needs for others.",
+      "advice": "Maintain personal boundaries while nurturing relationships."
+    },
+    {
+      "vision": "Crowded Reflection",
+      "category": "Others in Reflection",
+      "meaning": {
+        "positive": "Community support and teamwork.",
+        "negative": "Overwhelm by others' opinions and lack of personal space."
+      },
+      "strengths": "Strong network and collaborative opportunities.",
+      "challenges": "Difficulty asserting individuality.",
+      "advice": "Find balance between community involvement and personal time."
+    },
+    {
+      "vision": "Symbols in Reflection (Runes, Letters)",
+      "category": "Hidden Messages and Symbols",
+      "meaning": {
+        "positive": "Receiving messages and heightened intuition.",
+        "negative": "Misinterpretation and overcomplicating simple matters."
+      },
+      "strengths": "Enhanced intuition and receptiveness to guidance.",
+      "challenges": "Confusion due to symbolic meanings.",
+      "advice": "Take time to interpret symbols carefully."
+    },
+    {
+      "vision": "Moving Symbols",
+      "category": "Hidden Messages and Symbols",
+      "meaning": {
+        "positive": "Dynamic opportunities and change in fortune.",
+        "negative": "Instability and fleeting chances."
+      },
+      "strengths": "Ability to seize opportunities quickly.",
+      "challenges": "Difficulty maintaining stability.",
+      "advice": "Act decisively but consider long-term effects."
+    },
+    {
+      "vision": "Natural Scenes (Forests, Oceans)",
+      "category": "Environmental Elements",
+      "meaning": {
+        "positive": "Harmony with nature, grounding, and renewal.",
+        "negative": "Feeling lost in vastness and insignificance."
+      },
+      "strengths": "Connection to nature and grounding energy.",
+      "challenges": "Overwhelmed by the immensity of situations.",
+      "advice": "Find grounding practices to center yourself."
+    },
+    {
+      "vision": "Fire in Reflection",
+      "category": "Environmental Elements",
+      "meaning": {
+        "positive": "Passion, transformation, and purification.",
+        "negative": "Destruction, uncontrolled emotions, and danger."
+      },
+      "strengths": "Strong passion and transformative energy.",
+      "challenges": "Risk of burnout or destructive behaviors.",
+      "advice": "Channel passion constructively and monitor emotional intensity."
     }
   ]
 }

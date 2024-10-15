@@ -32,6 +32,632 @@
         "position_9": "Hopes and fears.",
         "position_10": "Final outcome."
       }
+    },
+    {
+      "spread_name": "Seven Card Chakra Spread",
+      "meaning": {
+        "position_1": "Root Chakra - Basic needs and security.",
+        "position_2": "Sacral Chakra - Emotions and creativity.",
+        "position_3": "Solar Plexus Chakra - Personal power and confidence.",
+        "position_4": "Heart Chakra - Love and relationships.",
+        "position_5": "Throat Chakra - Communication and expression.",
+        "position_6": "Third Eye Chakra - Intuition and insight.",
+        "position_7": "Crown Chakra - Spiritual connection and enlightenment."
+      }
+    },
+    {
+      "spread_name": "Astrological Spread",
+      "meaning": {
+        "position_1": "Aries - Self and identity.",
+        "position_2": "Taurus - Values and possessions.",
+        "position_3": "Gemini - Communication and learning.",
+        "position_4": "Cancer - Home and family.",
+        "position_5": "Leo - Creativity and self-expression.",
+        "position_6": "Virgo - Work and health.",
+        "position_7": "Libra - Partnerships and balance.",
+        "position_8": "Scorpio - Transformation and power.",
+        "position_9": "Sagittarius - Exploration and beliefs.",
+        "position_10": "Capricorn - Career and ambitions.",
+        "position_11": "Aquarius - Community and innovation.",
+        "position_12": "Pisces - Spirituality and dreams."
+      }
+    },
+    {
+      "spread_name": "Relationship Spread",
+      "meaning": {
+        "position_1": "You in the relationship.",
+        "position_2": "Your partner in the relationship.",
+        "position_3": "The relationship's strengths.",
+        "position_4": "The relationship's challenges.",
+        "position_5": "Advice for improvement.",
+        "position_6": "Potential outcome."
+      }
+    },
+    {
+      "spread_name": "Career Path Spread",
+      "meaning": {
+        "position_1": "Current career situation.",
+        "position_2": "Skills and talents.",
+        "position_3": "Challenges or obstacles.",
+        "position_4": "Opportunities for growth.",
+        "position_5": "Advice for advancement.",
+        "position_6": "Long-term career potential."
+      }
+    },
+    {
+      "spread_name": "Year Ahead Spread",
+      "meaning": {
+        "position_1": "January - New beginnings.",
+        "position_2": "February - Relationships and connections.",
+        "position_3": "March - Growth and development.",
+        "position_4": "April - Challenges and obstacles.",
+        "position_5": "May - Opportunities and expansion.",
+        "position_6": "June - Reflection and introspection.",
+        "position_7": "July - Emotional well-being.",
+        "position_8": "August - Creativity and expression.",
+        "position_9": "September - Work and productivity.",
+        "position_10": "October - Balance and harmony.",
+        "position_11": "November - Transformation and change.",
+        "position_12": "December - Completion and closure."
+      }
+    },
+    {
+      "spread_name": "Elemental Spread",
+      "meaning": {
+        "position_1": "Earth - Stability and material concerns.",
+        "position_2": "Water - Emotions and intuition.",
+        "position_3": "Fire - Passion and transformation.",
+        "position_4": "Air - Thoughts and communication."
+      }
+    },
+    {
+      "spread_name": "Decision-Making Spread",
+      "meaning": {
+        "position_1": "The decision at hand.",
+        "position_2": "Pros of the decision.",
+        "position_3": "Cons of the decision.",
+        "position_4": "Hidden factors.",
+        "position_5": "Advice for moving forward."
+      }
+    },
+    {
+      "spread_name": "Healing Spread",
+      "meaning": {
+        "position_1": "Current state of health.",
+        "position_2": "Emotional influences.",
+        "position_3": "Physical influences.",
+        "position_4": "Spiritual influences.",
+        "position_5": "Path to healing."
+      }
+    },
+    {
+      "spread_name": "Spiritual Growth Spread",
+      "meaning": {
+        "position_1": "Current spiritual state.",
+        "position_2": "Challenges to spiritual growth.",
+        "position_3": "Strengths in spirituality.",
+        "position_4": "Guidance from higher self.",
+        "position_5": "Future spiritual path."
+      }
+    },
+    {
+      "spread_name": "Creative Inspiration Spread",
+      "meaning": {
+        "position_1": "Current creative block.",
+        "position_2": "Source of inspiration.",
+        "position_3": "New ideas to explore.",
+        "position_4": "Potential challenges.",
+        "position_5": "Outcome of creative pursuit."
+      }
+    },
+    {
+      "spread_name": "Family Dynamics Spread",
+      "meaning": {
+        "position_1": "Your role in the family.",
+        "position_2": "Family strengths.",
+        "position_3": "Family challenges.",
+        "position_4": "Advice for harmony.",
+        "position_5": "Future family dynamics."
+      }
+    },
+    {
+      "spread_name": "Manifestation Spread",
+      "meaning": {
+        "position_1": "What you want to manifest.",
+        "position_2": "Current obstacles.",
+        "position_3": "Resources available.",
+        "position_4": "Actions to take.",
+        "position_5": "Likely outcome."
+      }
+    },
+    {
+      "spread_name": "Past Life Spread",
+      "meaning": {
+        "position_1": "Past life identity.",
+        "position_2": "Key experiences.",
+        "position_3": "Lessons learned.",
+        "position_4": "Influence on current life.",
+        "position_5": "Unresolved issues."
+      }
+    },
+    {
+      "spread_name": "Shadow Work Spread",
+      "meaning": {
+        "position_1": "Hidden fears.",
+        "position_2": "Repressed emotions.",
+        "position_3": "Unacknowledged desires.",
+        "position_4": "Shadow strengths.",
+        "position_5": "Path to integration."
+      }
+    },
+    {
+      "spread_name": "Moon Phase Spread",
+      "meaning": {
+        "position_1": "New Moon - Intentions and beginnings.",
+        "position_2": "Waxing Moon - Growth and development.",
+        "position_3": "Full Moon - Climax and fulfillment.",
+        "position_4": "Waning Moon - Release and reflection."
+      }
+    },
+    {
+      "spread_name": "Self-Care Spread",
+      "meaning": {
+        "position_1": "Current self-care needs.",
+        "position_2": "Emotional nourishment.",
+        "position_3": "Physical well-being.",
+        "position_4": "Mental clarity.",
+        "position_5": "Spiritual renewal."
+      }
+    },
+    {
+      "spread_name": "Conflict Resolution Spread",
+      "meaning": {
+        "position_1": "Nature of the conflict.",
+        "position_2": "Your perspective.",
+        "position_3": "Other party's perspective.",
+        "position_4": "Common ground.",
+        "position_5": "Steps to resolution."
+      }
+    },
+    {
+      "spread_name": "Financial Abundance Spread",
+      "meaning": {
+        "position_1": "Current financial situation.",
+        "position_2": "Money mindset.",
+        "position_3": "Opportunities for wealth.",
+        "position_4": "Financial challenges.",
+        "position_5": "Path to abundance."
+      }
+    },
+    {
+      "spread_name": "Pet Communication Spread",
+      "meaning": {
+        "position_1": "Your pet's current state.",
+        "position_2": "Emotional needs.",
+        "position_3": "Physical health.",
+        "position_4": "Behavioral insights.",
+        "position_5": "Message from your pet."
+      }
+    },
+    {
+      "spread_name": "Life Purpose Spread",
+      "meaning": {
+        "position_1": "Current life path.",
+        "position_2": "Talents and gifts.",
+        "position_3": "Life challenges.",
+        "position_4": "Soul's mission.",
+        "position_5": "Steps to fulfillment."
+      }
+    },
+    {
+      "spread_name": "Dream Interpretation Spread",
+      "meaning": {
+        "position_1": "Main theme of the dream.",
+        "position_2": "Subconscious message.",
+        "position_3": "Emotional impact.",
+        "position_4": "Connection to waking life.",
+        "position_5": "Guidance from the dream."
+      }
+    },
+    {
+      "spread_name": "Ancestral Guidance Spread",
+      "meaning": {
+        "position_1": "Message from ancestors.",
+        "position_2": "Ancestral strengths.",
+        "position_3": "Ancestral challenges.",
+        "position_4": "How to honor ancestors.",
+        "position_5": "Ancestral blessings."
+      }
+    },
+    {
+      "spread_name": "New Relationship Spread",
+      "meaning": {
+        "position_1": "Your feelings.",
+        "position_2": "Their feelings.",
+        "position_3": "Potential challenges.",
+        "position_4": "Relationship potential.",
+        "position_5": "Advice for growth."
+      }
+    },
+    {
+      "spread_name": "Travel Spread",
+      "meaning": {
+        "position_1": "Current travel plans.",
+        "position_2": "Opportunities on the journey.",
+        "position_3": "Potential obstacles.",
+        "position_4": "Lessons to learn.",
+        "position_5": "Outcome of the travel."
+      }
+    },
+    {
+      "spread_name": "Mind-Body-Spirit Spread",
+      "meaning": {
+        "position_1": "Mental state.",
+        "position_2": "Physical health.",
+        "position_3": "Spiritual well-being.",
+        "position_4": "Balance between the three.",
+        "position_5": "Path to harmony."
+      }
+    },
+    {
+      "spread_name": "Transformation Spread",
+      "meaning": {
+        "position_1": "Current state.",
+        "position_2": "Catalyst for change.",
+        "position_3": "Challenges in transformation.",
+        "position_4": "Support systems.",
+        "position_5": "New state of being."
+      }
+    },
+    {
+      "spread_name": "Technology and Innovation Spread",
+      "meaning": {
+        "position_1": "Current relationship with technology.",
+        "position_2": "Opportunities for innovation.",
+        "position_3": "Challenges in tech adoption.",
+        "position_4": "Future trends to watch.",
+        "position_5": "Personal growth through technology."
+      }
+    },
+    {
+      "spread_name": "Environmental Awareness Spread",
+      "meaning": {
+        "position_1": "Current environmental impact.",
+        "position_2": "Areas for improvement.",
+        "position_3": "Community involvement.",
+        "position_4": "Personal sustainability goals.",
+        "position_5": "Long-term environmental vision."
+      }
+    },
+    {
+      "spread_name": "Social Media Influence Spread",
+      "meaning": {
+        "position_1": "Current online presence.",
+        "position_2": "Positive influences.",
+        "position_3": "Negative impacts.",
+        "position_4": "Authentic self-expression.",
+        "position_5": "Future online direction."
+      }
+    },
+    {
+      "spread_name": "Crisis Management Spread",
+      "meaning": {
+        "position_1": "Nature of the crisis.",
+        "position_2": "Immediate actions needed.",
+        "position_3": "Support systems available.",
+        "position_4": "Long-term solutions.",
+        "position_5": "Lessons learned."
+      }
+    },
+    {
+      "spread_name": "Cultural Exploration Spread",
+      "meaning": {
+        "position_1": "Current cultural understanding.",
+        "position_2": "Areas for exploration.",
+        "position_3": "Cultural influences on identity.",
+        "position_4": "Opportunities for cultural exchange.",
+        "position_5": "Personal growth through cultural awareness."
+      }
+    },
+    {
+      "spread_name": "Entrepreneurial Venture Spread",
+      "meaning": {
+        "position_1": "Current business idea.",
+        "position_2": "Market opportunities.",
+        "position_3": "Potential risks.",
+        "position_4": "Resources needed.",
+        "position_5": "Long-term vision."
+      }
+    },
+    {
+      "spread_name": "Artistic Expression Spread",
+      "meaning": {
+        "position_1": "Current creative project.",
+        "position_2": "Sources of inspiration.",
+        "position_3": "Creative blocks.",
+        "position_4": "Techniques to explore.",
+        "position_5": "Artistic growth."
+      }
+    },
+    {
+      "spread_name": "Digital Detox Spread",
+      "meaning": {
+        "position_1": "Current digital habits.",
+        "position_2": "Negative impacts.",
+        "position_3": "Benefits of unplugging.",
+        "position_4": "Strategies for balance.",
+        "position_5": "Desired outcome."
+      }
+    },
+    {
+      "spread_name": "Fitness and Wellness Spread",
+      "meaning": {
+        "position_1": "Current fitness level.",
+        "position_2": "Health goals.",
+        "position_3": "Obstacles to wellness.",
+        "position_4": "Support systems.",
+        "position_5": "Path to vitality."
+      }
+    },
+    {
+      "spread_name": "Home and Hearth Spread",
+      "meaning": {
+        "position_1": "Current home environment.",
+        "position_2": "Family dynamics.",
+        "position_3": "Areas for improvement.",
+        "position_4": "Creating harmony.",
+        "position_5": "Future home vision."
+      }
+    },
+    {
+      "spread_name": "Mindfulness and Meditation Spread",
+      "meaning": {
+        "position_1": "Current mindfulness practice.",
+        "position_2": "Areas of distraction.",
+        "position_3": "Techniques to deepen practice.",
+        "position_4": "Benefits of mindfulness.",
+        "position_5": "Long-term spiritual growth."
+      }
+    },
+    {
+      "spread_name": "Career Transition Spread",
+      "meaning": {
+        "position_1": "Current career situation.",
+        "position_2": "Reasons for change.",
+        "position_3": "Skills to develop.",
+        "position_4": "Opportunities in new field.",
+        "position_5": "Transition strategy."
+      }
+    },
+    {
+      "spread_name": "Parenting Guidance Spread",
+      "meaning": {
+        "position_1": "Current parenting challenges.",
+        "position_2": "Child's needs.",
+        "position_3": "Parenting strengths.",
+        "position_4": "Areas for growth.",
+        "position_5": "Family harmony."
+      }
+    },
+    {
+      "spread_name": "Eco-Conscious Living Spread",
+      "meaning": {
+        "position_1": "Current environmental impact.",
+        "position_2": "Areas for improvement.",
+        "position_3": "Community involvement.",
+        "position_4": "Personal sustainability goals.",
+        "position_5": "Long-term environmental vision."
+      }
+    },
+    {
+      "spread_name": "Self-Discovery Spread",
+      "meaning": {
+        "position_1": "Current self-awareness.",
+        "position_2": "Hidden talents.",
+        "position_3": "Personal challenges.",
+        "position_4": "Path to self-discovery.",
+        "position_5": "Future self."
+      }
+    },
+    {
+      "spread_name": "Networking and Connections Spread",
+      "meaning": {
+        "position_1": "Current network.",
+        "position_2": "Opportunities for connection.",
+        "position_3": "Barriers to networking.",
+        "position_4": "Strategies for building relationships.",
+        "position_5": "Long-term benefits."
+      }
+    },
+    {
+      "spread_name": "Spiritual Awakening Spread",
+      "meaning": {
+        "position_1": "Current spiritual state.",
+        "position_2": "Signs of awakening.",
+        "position_3": "Challenges in spiritual growth.",
+        "position_4": "Guidance from higher self.",
+        "position_5": "Future spiritual path."
+      }
+    },
+    {
+      "spread_name": "Time Management Spread",
+      "meaning": {
+        "position_1": "Current time usage.",
+        "position_2": "Time wasters.",
+        "position_3": "Prioritization strategies.",
+        "position_4": "Tools for efficiency.",
+        "position_5": "Achieving balance."
+      }
+    },
+    {
+      "spread_name": "Healing from Grief Spread",
+      "meaning": {
+        "position_1": "Current emotional state.",
+        "position_2": "Support systems.",
+        "position_3": "Steps to healing.",
+        "position_4": "Lessons from loss.",
+        "position_5": "Path to acceptance."
+      }
+    },
+    {
+      "spread_name": "Financial Planning Spread",
+      "meaning": {
+        "position_1": "Current financial situation.",
+        "position_2": "Income opportunities.",
+        "position_3": "Spending habits.",
+        "position_4": "Savings strategies.",
+        "position_5": "Long-term financial goals."
+      }
+    },
+    {
+      "spread_name": "Cultural Heritage Spread",
+      "meaning": {
+        "position_1": "Connection to heritage.",
+        "position_2": "Cultural strengths.",
+        "position_3": "Challenges in preserving culture.",
+        "position_4": "Opportunities for cultural expression.",
+        "position_5": "Future cultural legacy."
+      }
+    },
+    {
+      "spread_name": "Pet Adoption Spread",
+      "meaning": {
+        "position_1": "Readiness for a pet.",
+        "position_2": "Ideal pet characteristics.",
+        "position_3": "Potential challenges.",
+        "position_4": "Benefits of pet ownership.",
+        "position_5": "Long-term relationship."
+      }
+    },
+    {
+      "spread_name": "Relationship Closure Spread",
+      "meaning": {
+        "position_1": "Current emotional state.",
+        "position_2": "Lessons learned.",
+        "position_3": "Unresolved issues.",
+        "position_4": "Path to closure.",
+        "position_5": "Future relationship potential."
+      }
+    },
+    {
+      "spread_name": "Creative Collaboration Spread",
+      "meaning": {
+        "position_1": "Current project status.",
+        "position_2": "Team strengths.",
+        "position_3": "Collaboration challenges.",
+        "position_4": "Innovative ideas.",
+        "position_5": "Project outcome."
+      }
+    },
+    {
+      "spread_name": "Health and Nutrition Spread",
+      "meaning": {
+        "position_1": "Current dietary habits.",
+        "position_2": "Nutritional needs.",
+        "position_3": "Health challenges.",
+        "position_4": "Support systems.",
+        "position_5": "Path to wellness."
+      }
+    },
+    {
+      "spread_name": "Long-Distance Relationship Spread",
+      "meaning": {
+        "position_1": "Current relationship status.",
+        "position_2": "Communication strengths.",
+        "position_3": "Distance challenges.",
+        "position_4": "Strategies for connection.",
+        "position_5": "Future potential."
+      }
+    },
+    {
+      "spread_name": "Retirement Planning Spread",
+      "meaning": {
+        "position_1": "Current retirement savings.",
+        "position_2": "Desired lifestyle.",
+        "position_3": "Financial gaps.",
+        "position_4": "Investment opportunities.",
+        "position_5": "Retirement vision."
+      }
+    },
+    {
+      "spread_name": "Personal Branding Spread",
+      "meaning": {
+        "position_1": "Current personal brand.",
+        "position_2": "Unique strengths.",
+        "position_3": "Areas for improvement.",
+        "position_4": "Strategies for growth.",
+        "position_5": "Long-term brand vision."
+      }
+    },
+    {
+      "spread_name": "Community Engagement Spread",
+      "meaning": {
+        "position_1": "Current community involvement.",
+        "position_2": "Opportunities for impact.",
+        "position_3": "Barriers to engagement.",
+        "position_4": "Strategies for involvement.",
+        "position_5": "Community legacy."
+      }
+    },
+    {
+      "spread_name": "Academic Success Spread",
+      "meaning": {
+        "position_1": "Current academic standing.",
+        "position_2": "Study habits.",
+        "position_3": "Academic challenges.",
+        "position_4": "Support systems.",
+        "position_5": "Path to success."
+      }
+    },
+    {
+      "spread_name": "Sibling Relationship Spread",
+      "meaning": {
+        "position_1": "Current relationship dynamics.",
+        "position_2": "Shared strengths.",
+        "position_3": "Challenges in the relationship.",
+        "position_4": "Opportunities for bonding.",
+        "position_5": "Future relationship vision."
+      }
+    },
+    {
+      "spread_name": "Gardening and Nature Spread",
+      "meaning": {
+        "position_1": "Current gardening practices.",
+        "position_2": "Plant health.",
+        "position_3": "Environmental challenges.",
+        "position_4": "Opportunities for growth.",
+        "position_5": "Long-term garden vision."
+      }
+    },
+    {
+      "spread_name": "Public Speaking Spread",
+      "meaning": {
+        "position_1": "Current speaking skills.",
+        "position_2": "Audience engagement.",
+        "position_3": "Speaking challenges.",
+        "position_4": "Techniques for improvement.",
+        "position_5": "Future speaking opportunities."
+      }
+    },
+    {
+      "spread_name": "Adventure and Exploration Spread",
+      "meaning": {
+        "position_1": "Current adventure plans.",
+        "position_2": "Opportunities for exploration.",
+        "position_3": "Potential risks.",
+        "position_4": "Lessons to learn.",
+        "position_5": "Outcome of the adventure."
+      }
+    },
+    {
+      "spread_name": "Legacy and Impact Spread",
+      "meaning": {
+        "position_1": "Current contributions.",
+        "position_2": "Areas for greater impact.",
+        "position_3": "Challenges in leaving a legacy.",
+        "position_4": "Opportunities for influence.",
+        "position_5": "Long-term legacy vision."
+      }
     }
   ]
 }

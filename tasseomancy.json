@@ -5,77 +5,624 @@
       "meaning": {
         "positive": "Stability, security, and being grounded. You may soon find solid footing in your life or a relationship.",
         "negative": "Feeling stuck or restricted, lacking freedom or flexibility."
-      }
+      },
+      "esoteric": [
+        "In the depths of the ocean, the anchor holds firm against the tides of change.",
+        "Seek the anchor within, where the soul finds its unwavering peace.",
+        "When the storm rages, the anchor whispers of calm and resilience."
+      ]
     },
     {
       "symbol": "Bird",
       "meaning": {
         "positive": "News, communication, and freedom. A message or opportunity will arrive soon, bringing excitement.",
         "negative": "Gossip, misunderstandings, or lack of direction."
-      }
+      },
+      "esoteric": [
+        "The bird's song carries the secrets of the wind, a melody of freedom.",
+        "In flight, the bird sees the world from a higher perspective, unbound by earthly chains.",
+        "Listen to the whispers of the birds; they bring messages from the unseen realms."
+      ]
     },
     {
       "symbol": "Butterfly",
       "meaning": {
         "positive": "Transformation, change, and rebirth. You are on the verge of a personal or spiritual evolution.",
         "negative": "Instability, fleeting opportunities, or hesitation in embracing change."
-      }
+      },
+      "esoteric": [
+        "The butterfly dances between worlds, a symbol of life's ephemeral beauty.",
+        "In its wings, the butterfly carries the story of transformation and renewal.",
+        "Embrace the butterfly's journey, for it teaches the art of becoming."
+      ]
     },
     {
       "symbol": "Clover",
       "meaning": {
         "positive": "Good luck, prosperity, and happiness. Fortunate circumstances will arise soon.",
         "negative": "Missed opportunities or over-reliance on luck."
-      }
+      },
+      "esoteric": [
+        "The clover's leaves whisper of fortune's favor, a promise of prosperity.",
+        "In the fields of green, the clover hides its magic, waiting to be found.",
+        "Trust in the clover's charm, for it holds the key to serendipity."
+      ]
     },
     {
       "symbol": "Cross",
       "meaning": {
         "positive": "Faith, spiritual protection, and sacrifice. A period of spiritual growth or a lesson may be learned.",
         "negative": "Challenges, burdens, or suffering. You may be facing a difficult time but will gain strength from it."
-      }
+      },
+      "esoteric": [
+        "The cross stands at the intersection of worlds, a symbol of divine connection.",
+        "In its arms, the cross holds the weight of sacrifice and the promise of redemption.",
+        "Embrace the cross's wisdom, for it guides the soul through trials to enlightenment."
+      ]
     },
     {
       "symbol": "Heart",
       "meaning": {
         "positive": "Love, relationships, and emotional fulfillment. A new or existing relationship will bring joy and deep connection.",
         "negative": "Heartbreak, emotional loss, or difficulties in relationships."
-      }
+      },
+      "esoteric": [
+        "The heart beats with the rhythm of the universe, a dance of love and longing.",
+        "In its chambers, the heart holds the secrets of connection and compassion.",
+        "Listen to the heart's whisper, for it speaks the language of the soul."
+      ]
     },
     {
       "symbol": "Horse",
       "meaning": {
         "positive": "Movement, travel, and progress. You are on the move toward new adventures or personal achievements.",
         "negative": "Impatience, rushing into decisions, or a lack of direction."
-      }
+      },
+      "esoteric": [
+        "The horse gallops through the realms of possibility, a spirit of freedom and power.",
+        "In its stride, the horse carries the dreams of the wanderer and the seeker.",
+        "Ride with the horse, for it knows the paths of adventure and discovery."
+      ]
     },
     {
       "symbol": "Key",
       "meaning": {
         "positive": "Unlocking opportunities, solutions, and answers. You will find the key to a problem or unlock new potential.",
         "negative": "Secrets, something hidden, or a challenge that needs careful thought to overcome."
-      }
+      },
+      "esoteric": [
+        "The key turns in the lock of destiny, revealing hidden doors of opportunity.",
+        "In its metal, the key holds the mysteries of the universe, waiting to be unlocked.",
+        "Seek the key within, for it opens the gates to inner wisdom and truth."
+      ]
     },
     {
       "symbol": "Moon",
       "meaning": {
         "positive": "Intuition, emotions, and reflection. Trust your inner feelings and explore your subconscious.",
         "negative": "Illusions, emotional confusion, or hidden truths."
-      }
+      },
+      "esoteric": [
+        "The moon bathes the night in silver light, a guardian of dreams and intuition.",
+        "In its phases, the moon reveals the cycles of life and the dance of shadows.",
+        "Gaze upon the moon, for it reflects the soul's deepest mysteries."
+      ]
     },
     {
       "symbol": "Star",
       "meaning": {
         "positive": "Hope, inspiration, and guidance. A period of creativity and personal success is on the horizon.",
         "negative": "Unfulfilled hopes, disappointment, or feeling lost."
-      }
+      },
+      "esoteric": [
+        "The star shines with the light of a thousand suns, a beacon of hope and inspiration.",
+        "In its glow, the star guides the wanderer through the night, a compass of the soul.",
+        "Wish upon the star, for it carries the dreams of the universe."
+      ]
     },
     {
       "symbol": "Tree",
       "meaning": {
         "positive": "Growth, stability, and long-term success. You are building something lasting and strong.",
         "negative": "Stagnation, lack of growth, or deep-rooted issues."
-      }
+      },
+      "esoteric": [
+        "The tree stands as a sentinel of time, its roots deep in the earth's wisdom.",
+        "In its branches, the tree holds the stories of the ages, a testament to growth.",
+        "Embrace the tree's strength, for it teaches the art of resilience and endurance."
+      ]
+    },
+    {
+      "symbol": "Cat",
+      "meaning": {
+        "positive": "Independence, curiosity, and mystery. Embrace your unique qualities and explore new paths.",
+        "negative": "Aloofness, unpredictability, or hidden motives."
+      },
+      "esoteric": [
+        "The cat walks between worlds, a creature of mystery and magic.",
+        "In its eyes, the cat holds the secrets of the night and the wisdom of the ancients.",
+        "Follow the cat's path, for it leads to realms unseen and adventures untold."
+      ]
+    },
+    {
+      "symbol": "Fish",
+      "meaning": {
+        "positive": "Abundance, flow, and adaptability. Opportunities for prosperity and growth are swimming your way.",
+        "negative": "Overwhelm, lack of direction, or feeling out of depth."
+      },
+      "esoteric": [
+        "The fish swims in the river of life, a symbol of abundance and flow.",
+        "In its scales, the fish reflects the light of the sun, a dance of adaptability.",
+        "Dive with the fish, for it knows the currents of prosperity and change."
+      ]
+    },
+    {
+      "symbol": "Ladder",
+      "meaning": {
+        "positive": "Progress, ascension, and ambition. You are climbing towards your goals and aspirations.",
+        "negative": "Fear of heights, setbacks, or challenges in reaching the top."
+      },
+      "esoteric": [
+        "The ladder reaches for the heavens, a bridge between earth and sky.",
+        "In its rungs, the ladder holds the promise of ascension and achievement.",
+        "Climb the ladder of dreams, for it leads to the stars and beyond."
+      ]
+    },
+    {
+      "symbol": "Mountain",
+      "meaning": {
+        "positive": "Achievement, strength, and endurance. You are capable of overcoming great challenges.",
+        "negative": "Obstacles, isolation, or feeling overwhelmed by difficulties."
+      },
+      "esoteric": [
+        "The mountain stands as a monument to strength, its peak touching the sky.",
+        "In its silence, the mountain whispers of endurance and the power of the earth.",
+        "Ascend the mountain, for it holds the secrets of the soul's journey."
+      ]
+    },
+    {
+      "symbol": "Ring",
+      "meaning": {
+        "positive": "Commitment, unity, and cycles. A relationship or project will come full circle, bringing fulfillment.",
+        "negative": "Commitment issues, repetitive cycles, or feeling trapped."
+      },
+      "esoteric": [
+        "The ring encircles the finger, a symbol of unity and eternal cycles.",
+        "In its circle, the ring holds the promise of connection and continuity.",
+        "Wear the ring of destiny, for it binds the soul to its chosen path."
+      ]
+    },
+    {
+      "symbol": "Snake",
+      "meaning": {
+        "positive": "Transformation, healing, and wisdom. Embrace change and shed old habits.",
+        "negative": "Deception, danger, or hidden threats."
+      },
+      "esoteric": [
+        "The snake slithers through the grass, a guardian of ancient wisdom.",
+        "In its skin, the snake carries the secrets of transformation and renewal.",
+        "Follow the snake's path, for it leads to the heart of the earth's mysteries."
+      ]
+    },
+    {
+      "symbol": "Sun",
+      "meaning": {
+        "positive": "Vitality, success, and positivity. A period of joy and enlightenment is ahead.",
+        "negative": "Burnout, overexposure, or unrealistic optimism."
+      },
+      "esoteric": [
+        "The sun blazes with the fire of creation, a source of life and light.",
+        "In its rays, the sun illuminates the world, a beacon of hope and joy.",
+        "Bask in the sun's warmth, for it nurtures the soul and ignites the spirit."
+      ]
+    },
+    {
+      "symbol": "Umbrella",
+      "meaning": {
+        "positive": "Protection, preparedness, and shelter. You are ready to weather any storm.",
+        "negative": "Overprotection, fear of vulnerability, or avoiding challenges."
+      },
+      "esoteric": [
+        "The umbrella unfurls against the rain, a shield of comfort and safety.",
+        "In its canopy, the umbrella holds the promise of shelter and security.",
+        "Carry the umbrella of wisdom, for it guards against the storms of life."
+      ]
+    },
+    {
+      "symbol": "Wheel",
+      "meaning": {
+        "positive": "Cycles, movement, and destiny. Embrace the natural flow of life and its changes.",
+        "negative": "Stagnation, lack of control, or feeling stuck in a rut."
+      },
+      "esoteric": [
+        "The wheel turns with the rhythm of the universe, a dance of fate and fortune.",
+        "In its spokes, the wheel holds the secrets of life's eternal cycles.",
+        "Ride the wheel of destiny, for it carries the soul through time and space."
+      ]
+    },
+    {
+      "symbol": "Yin-Yang",
+      "meaning": {
+        "positive": "Balance, harmony, and duality. Embrace both sides of a situation for a holistic view.",
+        "negative": "Imbalance, conflict, or difficulty in finding equilibrium."
+      },
+      "esoteric": [
+        "The yin-yang swirls in eternal dance, a symbol of cosmic balance.",
+        "In its curves, the yin-yang holds the harmony of opposites and the unity of duality.",
+        "Embrace the yin-yang's wisdom, for it teaches the art of balance and integration."
+      ]
+    },
+    {
+      "symbol": "Zebra",
+      "meaning": {
+        "positive": "Uniqueness, individuality, and balance. Celebrate your distinctiveness and find harmony in diversity.",
+        "negative": "Confusion, blending in too much, or lack of identity."
+      },
+      "esoteric": [
+        "The zebra strides with stripes of contrast, a testament to nature's diversity.",
+        "In its pattern, the zebra holds the balance of light and shadow, unity in diversity.",
+        "Follow the zebra's path, for it leads to the heart of individuality and harmony."
+      ]
+    },
+    {
+      "symbol": "Arrow",
+      "meaning": {
+        "positive": "Direction, focus, and determination. You are on the right path towards your goals.",
+        "negative": "Misguided efforts, lack of aim, or feeling lost."
+      },
+      "esoteric": [
+        "The arrow flies with purpose, a symbol of focus and intention.",
+        "In its flight, the arrow carries the dreams of the archer and the promise of destiny.",
+        "Aim with the arrow of truth, for it pierces the heart of the matter."
+      ]
+    },
+    {
+      "symbol": "Bridge",
+      "meaning": {
+        "positive": "Connection, transition, and overcoming obstacles. You are building bridges to new opportunities.",
+        "negative": "Burned bridges, isolation, or difficulty in moving forward."
+      },
+      "esoteric": [
+        "The bridge spans the chasm, a path of connection and transition.",
+        "In its arches, the bridge holds the promise of unity and the crossing of thresholds.",
+        "Walk the bridge of dreams, for it leads to realms of possibility and change."
+      ]
+    },
+    {
+      "symbol": "Crown",
+      "meaning": {
+        "positive": "Leadership, authority, and success. You are stepping into a position of power and influence.",
+        "negative": "Arrogance, abuse of power, or feeling burdened by responsibility."
+      },
+      "esoteric": [
+        "The crown rests upon the brow, a symbol of sovereignty and wisdom.",
+        "In its jewels, the crown holds the light of leadership and the weight of responsibility.",
+        "Wear the crown of destiny, for it guides the soul to its highest calling."
+      ]
+    },
+    {
+      "symbol": "Feather",
+      "meaning": {
+        "positive": "Lightness, freedom, and spiritual messages. Pay attention to signs from the universe.",
+        "negative": "Frivolity, lack of seriousness, or ignoring important messages."
+      },
+      "esoteric": [
+        "The feather drifts on the wind, a messenger of the spirit world.",
+        "In its softness, the feather holds the whispers of angels and the lightness of being.",
+        "Follow the feather's path, for it leads to the heart of the universe's mysteries."
+      ]
+    },
+    {
+      "symbol": "Globe",
+      "meaning": {
+        "positive": "Global perspective, travel, and expansion. Opportunities for growth and exploration are on the horizon.",
+        "negative": "Overwhelm, feeling small, or fear of the unknown."
+      },
+      "esoteric": [
+        "The globe spins with the dance of the cosmos, a symbol of unity and exploration.",
+        "In its sphere, the globe holds the promise of discovery and the vastness of possibility.",
+        "Embrace the globe's wisdom, for it teaches the art of seeing beyond borders."
+      ]
+    },
+    {
+      "symbol": "Horseshoe",
+      "meaning": {
+        "positive": "Good fortune, protection, and luck. Positive changes and protection are in your future.",
+        "negative": "Missed opportunities, relying too much on luck, or feeling unprotected."
+      },
+      "esoteric": [
+        "The horseshoe hangs with the promise of luck, a talisman of protection.",
+        "In its curve, the horseshoe holds the magic of fortune and the shield of safety.",
+        "Trust in the horseshoe's charm, for it guides the soul to serendipity."
+      ]
+    },
+    {
+      "symbol": "Lantern",
+      "meaning": {
+        "positive": "Guidance, illumination, and hope. You will find clarity and light in dark times.",
+        "negative": "Lack of direction, dim prospects, or feeling lost."
+      },
+      "esoteric": [
+        "The lantern glows with the light of wisdom, a beacon in the night.",
+        "In its flame, the lantern holds the promise of guidance and the warmth of hope.",
+        "Carry the lantern of truth, for it illuminates the path of the soul."
+      ]
+    },
+    {
+      "symbol": "Mask",
+      "meaning": {
+        "positive": "Mystery, protection, and transformation. Embrace the unknown and protect your true self.",
+        "negative": "Deception, hiding true feelings, or fear of exposure."
+      },
+      "esoteric": [
+        "The mask conceals and reveals, a dance of identity and illusion.",
+        "In its facade, the mask holds the secrets of transformation and the power of mystery.",
+        "Wear the mask of wisdom, for it guides the soul through the shadows of self."
+      ]
+    },
+    {
+      "symbol": "Phoenix",
+      "meaning": {
+        "positive": "Rebirth, renewal, and transformation. You are rising from the ashes of past challenges, stronger and wiser.",
+        "negative": "Fear of change, clinging to the past, or difficulty in letting go."
+      },
+      "esoteric": [
+        "The phoenix rises from the ashes, a symbol of eternal renewal.",
+        "In its flames, the phoenix holds the promise of transformation and the power of rebirth.",
+        "Embrace the phoenix's journey, for it teaches the art of rising anew."
+      ]
+    },
+    {
+      "symbol": "Lotus",
+      "meaning": {
+        "positive": "Purity, enlightenment, and spiritual awakening. You are blossoming into a new phase of understanding.",
+        "negative": "Stagnation, lack of growth, or spiritual confusion."
+      },
+      "esoteric": [
+        "The lotus blooms in the mud, a testament to purity and enlightenment.",
+        "In its petals, the lotus holds the secrets of awakening and the promise of growth.",
+        "Follow the lotus's path, for it leads to the heart of spiritual wisdom."
+      ]
+    },
+    {
+      "symbol": "Dragon",
+      "meaning": {
+        "positive": "Power, strength, and good fortune. You are entering a period of great potential and influence.",
+        "negative": "Aggression, dominance, or overwhelming challenges."
+      },
+      "esoteric": [
+        "The dragon soars with the fire of creation, a guardian of ancient power.",
+        "In its scales, the dragon holds the secrets of strength and the promise of fortune.",
+        "Ride the dragon's path, for it leads to the heart of destiny's flame."
+      ]
+    },
+    {
+      "symbol": "Compass",
+      "meaning": {
+        "positive": "Guidance, direction, and purpose. You are finding your true path and navigating life with clarity.",
+        "negative": "Lack of direction, confusion, or feeling lost."
+      },
+      "esoteric": [
+        "The compass points to the true north, a guide through the wilderness of life.",
+        "In its needle, the compass holds the promise of direction and the clarity of purpose.",
+        "Follow the compass's path, for it leads to the heart of the soul's journey."
+      ]
+    },
+    {
+      "symbol": "Ship",
+      "meaning": {
+        "positive": "Journey, adventure, and exploration. You are setting sail towards new horizons and opportunities.",
+        "negative": "Uncertainty, risk, or feeling adrift."
+      },
+      "esoteric": [
+        "The ship sails on the sea of dreams, a vessel of adventure and discovery.",
+        "In its sails, the ship holds the promise of exploration and the call of the unknown.",
+        "Embark on the ship's journey, for it leads to the heart of possibility."
+      ]
+    },
+    {
+      "symbol": "Book",
+      "meaning": {
+        "positive": "Knowledge, wisdom, and learning. You are gaining valuable insights and understanding.",
+        "negative": "Secrets, hidden information, or ignorance."
+      },
+      "esoteric": [
+        "The book opens to the pages of wisdom, a repository of ancient knowledge.",
+        "In its words, the book holds the secrets of the universe and the promise of learning.",
+        "Read the book of life, for it reveals the mysteries of the soul."
+      ]
+    },
+    {
+      "symbol": "Candle",
+      "meaning": {
+        "positive": "Hope, illumination, and spiritual guidance. You are finding light in the darkness.",
+        "negative": "Burnout, exhaustion, or dim prospects."
+      },
+      "esoteric": [
+        "The candle burns with the light of the spirit, a beacon in the night.",
+        "In its flame, the candle holds the promise of hope and the warmth of guidance.",
+        "Light the candle of truth, for it illuminates the path of the soul."
+      ]
+    },
+    {
+      "symbol": "Clock",
+      "meaning": {
+        "positive": "Time, cycles, and punctuality. You are in sync with the natural rhythms of life.",
+        "negative": "Pressure, deadlines, or feeling rushed."
+      },
+      "esoteric": [
+        "The clock ticks with the rhythm of eternity, a dance of time and space.",
+        "In its hands, the clock holds the promise of cycles and the flow of life.",
+        "Embrace the clock's wisdom, for it teaches the art of living in the moment."
+      ]
+    },
+    {
+      "symbol": "Eye",
+      "meaning": {
+        "positive": "Perception, insight, and awareness. You are seeing things clearly and understanding deeply.",
+        "negative": "Paranoia, scrutiny, or feeling watched."
+      },
+      "esoteric": [
+        "The eye gazes into the soul, a window to the universe's mysteries.",
+        "In its vision, the eye holds the promise of insight and the clarity of perception.",
+        "Look through the eye of truth, for it reveals the heart of understanding."
+      ]
+    },
+    {
+      "symbol": "Gate",
+      "meaning": {
+        "positive": "Opportunity, transition, and new beginnings. You are entering a new phase of life.",
+        "negative": "Barriers, obstacles, or feeling blocked."
+      },
+      "esoteric": [
+        "The gate swings open to new horizons, a portal to possibility and change.",
+        "In its arch, the gate holds the promise of transition and the crossing of thresholds.",
+        "Walk through the gate of dreams, for it leads to the heart of new beginnings."
+      ]
+    },
+    {
+      "symbol": "Hand",
+      "meaning": {
+        "positive": "Assistance, creation, and connection. You are reaching out and making meaningful connections.",
+        "negative": "Manipulation, control, or feeling overextended."
+      },
+      "esoteric": [
+        "The hand reaches across the void, a bridge of connection and creation.",
+        "In its touch, the hand holds the promise of assistance and the warmth of connection.",
+        "Extend the hand of friendship, for it guides the soul to unity and harmony."
+      ]
+    },
+    {
+      "symbol": "Leaf",
+      "meaning": {
+        "positive": "Growth, renewal, and nature. You are experiencing a period of personal growth and renewal.",
+        "negative": "Decay, stagnation, or feeling withered."
+      },
+      "esoteric": [
+        "The leaf unfurls in the light of the sun, a symbol of growth and renewal.",
+        "In its veins, the leaf holds the promise of nature's wisdom and the cycle of life.",
+        "Embrace the leaf's journey, for it teaches the art of becoming anew."
+      ]
+    },
+    {
+      "symbol": "Lion",
+      "meaning": {
+        "positive": "Courage, strength, and leadership. You are stepping into your power and leading with confidence.",
+        "negative": "Pride, aggression, or feeling threatened."
+      },
+      "esoteric": [
+        "The lion roars with the power of the sun, a guardian of courage and strength.",
+        "In its mane, the lion holds the secrets of leadership and the promise of authority.",
+        "Follow the lion's path, for it leads to the heart of the soul's power."
+      ]
+    },
+    {
+      "symbol": "Mirror",
+      "meaning": {
+        "positive": "Reflection, truth, and self-awareness. You are gaining clarity and understanding of yourself.",
+        "negative": "Illusion, vanity, or self-deception."
+      },
+      "esoteric": [
+        "The mirror reflects the soul's truth, a window to the heart's mysteries.",
+        "In its surface, the mirror holds the promise of reflection and the clarity of self-awareness.",
+        "Gaze into the mirror of truth, for it reveals the soul's deepest secrets."
+      ]
+    },
+    {
+      "symbol": "Owl",
+      "meaning": {
+        "positive": "Wisdom, intuition, and insight. You are tapping into deep knowledge and understanding.",
+        "negative": "Secrets, mystery, or feeling in the dark."
+      },
+      "esoteric": [
+        "The owl hoots in the night, a guardian of wisdom and intuition.",
+        "In its eyes, the owl holds the secrets of the universe and the promise of insight.",
+        "Follow the owl's path, for it leads to the heart of knowledge and understanding."
+      ]
+    },
+    {
+      "symbol": "Path",
+      "meaning": {
+        "positive": "Journey, direction, and progress. You are on a clear path towards your goals.",
+        "negative": "Confusion, misdirection, or feeling lost."
+      },
+      "esoteric": [
+        "The path winds through the forest of dreams, a journey of discovery and growth.",
+        "In its twists, the path holds the promise of direction and the clarity of purpose.",
+        "Walk the path of truth, for it leads to the heart of the soul's journey."
+      ]
+    },
+    {
+      "symbol": "Scales",
+      "meaning": {
+        "positive": "Balance, justice, and fairness. You are finding equilibrium and making fair decisions.",
+        "negative": "Imbalance, injustice, or feeling weighed down."
+      },
+      "esoteric": [
+        "The scales tip with the weight of truth, a symbol of balance and justice.",
+        "In its balance, the scales hold the promise of fairness and the clarity of judgment.",
+        "Weigh the scales of truth, for they reveal the heart of justice and harmony."
+      ]
+    },
+    {
+      "symbol": "Sword",
+      "meaning": {
+        "positive": "Power, protection, and decisiveness. You are cutting through obstacles and standing strong.",
+        "negative": "Conflict, aggression, or feeling threatened."
+      },
+      "esoteric": [
+        "The sword gleams with the light of truth, a blade of power and protection.",
+        "In its edge, the sword holds the promise of decisiveness and the clarity of purpose.",
+        "Wield the sword of truth, for it cuts through the heart of illusion and fear."
+      ]
+    },
+    {
+      "symbol": "Turtle",
+      "meaning": {
+        "positive": "Patience, longevity, and protection. You are moving steadily towards your goals with resilience.",
+        "negative": "Slowness, withdrawal, or feeling stuck."
+      },
+      "esoteric": [
+        "The turtle moves with the rhythm of the earth, a guardian of patience and longevity.",
+        "In its shell, the turtle holds the secrets of protection and the promise of resilience.",
+        "Follow the turtle's path, for it leads to the heart of the soul's journey."
+      ]
+    },
+    {
+      "symbol": "Vase",
+      "meaning": {
+        "positive": "Beauty, receptivity, and creativity. You are open to new ideas and experiences.",
+        "negative": "Emptiness, fragility, or feeling hollow."
+      },
+      "esoteric": [
+        "The vase holds the beauty of the world, a vessel of creativity and receptivity.",
+        "In its form, the vase holds the promise of new ideas and the warmth of inspiration.",
+        "Fill the vase of dreams, for it nurtures the soul and ignites the spirit."
+      ]
+    },
+    {
+      "symbol": "Wings",
+      "meaning": {
+        "positive": "Freedom, aspiration, and transcendence. You are ready to soar to new heights and explore new possibilities.",
+        "negative": "Fear of flying, limitations, or feeling grounded."
+      },
+      "esoteric": [
+        "The wings unfurl in the wind, a symbol of freedom and aspiration.",
+        "In their flight, the wings carry the soul to new heights and beyond.",
+        "Embrace the wings of dreams, for they guide the soul to the heart of possibility."
+      ]
+    },
+    {
+      "symbol": "Wolf",
+      "meaning": {
+        "positive": "Loyalty, instinct, and guardianship. You are trusting your instincts and protecting those you care about.",
+        "negative": "Isolation, aggression, or feeling like an outsider."
+      },
+      "esoteric": [
+        "The wolf howls in the night, a guardian of loyalty and instinct.",
+        "In its pack, the wolf holds the secrets of guardianship and the promise of protection.",
+        "Follow the wolf's path, for it leads to the heart of the wild and untamed."
+      ]
     }
   ]
 }

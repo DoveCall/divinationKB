@@ -22,29 +22,6 @@
         "meaning": "The pendulum is ready for divination"
       }
     },
-    "questions_categories": {
-      "yes_no_questions": {
-        "example": [
-          "Will I achieve my goal?",
-          "Is this the right time to move forward?",
-          "Should I trust this person?"
-        ]
-      },
-      "timing_questions": {
-        "example": [
-          "Is this the best time to start my project?",
-          "Will the event happen within this year?",
-          "Should I take action now?"
-        ]
-      },
-      "clarity_questions": {
-        "example": [
-          "What should I focus on to achieve success?",
-          "Is there something I am not seeing?",
-          "What do I need to release?"
-        ]
-      }
-    },
     "advanced_interpretations": {
       "strong_swing": {
         "movement": "Fast, wide swings",
@@ -57,16 +34,29 @@
       "erratic_movement": {
         "movement": "Erratic, changing direction frequently",
         "meaning": "Mixed or unclear energy, possibly due to emotional or spiritual disturbance"
+      },
+      "spiral_movement": {
+        "movement": "Spiral pattern",
+        "meaning": "Deep introspection or spiritual awakening"
+      },
+      "zigzag_movement": {
+        "movement": "Zigzag pattern",
+        "meaning": "Confusion or need for clarity in decision-making"
       }
     },
     "preparation_tips": {
       "cleansing": "Cleanse your pendulum before each session to ensure clarity.",
       "grounding": "Ground yourself to ensure your energy is calm and focused.",
-      "setting_intention": "Clearly state your intention or question before starting the session."
+      "setting_intention": "Clearly state your intention or question before starting the session.",
+      "meditation": "Spend a few minutes in meditation to clear your mind and focus your energy."
     },
     "troubleshooting": {
       "pendulum_not_moving": "Try relaxing, taking a few deep breaths, and focusing on your question. You may also need to cleanse the pendulum or reset your intention.",
       "conflicting_answers": "If answers seem inconsistent, try rephrasing the question for clarity or wait until you feel more balanced."
+    },
+    "advanced_techniques": {
+      "dowsing": "Use the pendulum to locate objects or find answers to specific questions by mapping out areas or using charts.",
+      "energy_clearing": "Swing the pendulum in a counterclockwise motion to clear negative energy from a space or object."
     }
   }
 }

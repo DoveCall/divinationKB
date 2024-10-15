@@ -4,14 +4,16 @@
       "chakra": "Root Chakra",
       "alignment": {
         "positive_movement": "Strong, steady movement indicates grounding, stability, and physical health. Your connection to the earth and sense of security are well-balanced.",
-        "negative_movement": "Erratic or weak movement suggests imbalance, insecurity, or fear. You may be feeling ungrounded or struggling with basic needs."
+        "negative_movement": "Erratic or weak movement suggests imbalance, insecurity, or fear. You may be feeling ungrounded or struggling with basic needs.",
+        "spiral": "A spiral movement indicates a deepening connection to your roots and a strengthening of your foundational energy."
       }
     },
     {
       "chakra": "Sacral Chakra",
       "alignment": {
         "positive_movement": "Flowing, smooth movement suggests emotional balance, creativity, and healthy relationships.",
-        "negative_movement": "Blocked or slow movement indicates emotional repression, creativity blocks, or issues with intimacy."
+        "negative_movement": "Blocked or slow movement indicates emotional repression, creativity blocks, or issues with intimacy.",
+        "zigzag": "A zigzag movement suggests fluctuating emotions or creative energy that needs direction."
       }
     },
     {
